@@ -4,3 +4,6 @@ jre/
 *.zip
 *.idml
 **/tmx_2/flag
+Data_compare/
+Batch PRT/
+Delta_Extractor
