@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.company.custpdf.merge">
+    <require plugin="org.dita.pdf2"/>
+    <feature extension="dita.conductor.transtype.check" value="custpdf_merge"/>
+    <feature extension="dita.transtype.print" value="custpdf_merge"/>
+    <feature extension="dita.conductor.target.relative" file="build.xml"/>
+    <feature extension="dita.xsl.strings" file="cfg/common/strings/ast-strings.xml"/>
+    <feature extension="dita.xsl.xslfo" file="cfg/fo/xsl/ast-pagebreak.xsl" type="file" />
+    <feature extension="org.dita.pdf2.xsl.topicmerge" file="cfg/fo/xsl/ast-replace-pv-lv.xsl" type="file" />
+</plugin>

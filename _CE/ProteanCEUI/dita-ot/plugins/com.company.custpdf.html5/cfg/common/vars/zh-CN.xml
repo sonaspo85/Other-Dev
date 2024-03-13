@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">注意</variable>
+	<variable id="admonition warning">警告</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">电子说明书</variable>
+	<variable id="frontmatter-title">用户指南</variable>
+	<variable id="frontmatter-thankyou">感谢您购买 Samsung 产品。</variable>
+	<variable id="frontmatter-inform-register">请在下面的网站上注册您的产品，以获得更全面的服务：</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">型号</variable>
+	<variable id="frontmatter-serialno">序列号</variable>
+	<variable id="frontmatter-inform-menuscreen">要直接转到提供有关如何使用针对视力受损用户的手册的说明页面，请选择下面的了解菜单屏幕链接。</variable>
+	<variable id="frontmatter-learnmenuscreen">了解菜单屏幕</variable>
+	<variable id="frontmatter-link">链接</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">目录</variable>
+</vars>

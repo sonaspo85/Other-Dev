@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- 이미지 + 콜아웃 형식의 태스크 토픽 -->
+<task id="">
+	<title base="">
+		<!-- heading-제목 입력 -->
+	</title> 
+	<abstract>
+		<shortdesc base="">
+			<!-- heading-info 입력 -->
+		</shortdesc>
+		<p base="">
+			<!-- 설명 입력 -->
+		</p>
+		<p base="">
+			<!-- 이미지 추가 -->
+			<image href="../../images/Table_Img-SmartHub-First.svg" placement="break" otherprops="alt:no"/>
+			<!-- 이미지 추가 -->
+		</p>
+		<!-- 이미지 노트 예시 -->
+		<note type="note" base="">
+			The image on your TV may differ from the image above depending on the model and geographical area.
+		</note>
+		<!-- 이미지 노트 -->
+	</abstract>
+	<taskbody>
+		<steps outputclass="number:circle"> <!-- outputclass="number:circle" 추가 -->
+			<step>
+				<cmd base="">
+					<!-- 아이콘 + OSD 예시 -->
+					<image href="../../images/ico_noti.svg" otherprops="alt:no"/> <cmdname rev="OSD_0887">Notification</cmdname>
+					<!-- 아이콘 + OSD -->
+				</cmd>
+				<!-- OSD 설명 -->
+				<info>
+					<p base="">
+						<!-- OSD 설명 입력 -->
+					</p>
+					<note type="note" base="">
+						<!-- 필요한 경우 note 입력 -->
+					</note>
+				</info>
+				<!-- OSD 설명 -->
+			</step>
+			<step>
+				<cmd base="">
+					<!-- 아이콘 + OSD 예시 -->
+					<image href="../../images/ico_noti.svg" otherprops="alt:no"/> <cmdname rev="OSD_0887">Notification</cmdname>
+					<!-- 아이콘 + OSD -->
+				</cmd>
+				<!-- OSD 설명 -->
+				<info>
+					<p base="">
+						<!-- OSD 설명 입력 -->
+					</p>
+					<note type="note" base="">
+						<!-- 필요한 경우 note 입력 -->
+					</note>
+				</info>
+				<!-- OSD 설명 -->
+			</step>
+			<!-- step 중간에 이미지가 삽입될 경우 예시 -->
+			<stepsection>
+				<p base="">
+					<image href="../../images/Table_Img-SmartHub-Appset.svg" placement="break" otherprops="alt:no"/>
+				</p>
+				<note type="note" base="">
+					The image on your TV may differ from the image above depending on the model and geographical area.
+				</note>
+			</stepsection>
+			<!-- step 중간에 이미지가 삽입될 경우 -->
+			<!-- circle number가 들어가지 않는 경우 -->
+			<step outputclass="number:none">
+				<cmd base="20190311_074435_239_0003">
+					<!-- 아이콘 + OSD 예시 -->
+					<image href="../../images/ico_noti.svg" otherprops="alt:no"/> <cmdname rev="OSD_0887">Notification</cmdname>
+					<!-- 아이콘 + OSD -->
+				</cmd>
+				<!-- OSD 설명 -->
+				<info>
+					<p base="">
+						<!-- OSD 설명 입력 -->
+					</p>
+					<note type="note" base="">
+						<!-- 필요한 경우 note 입력 -->
+					</note>
+				</info>
+				<!-- OSD 설명 -->
+			</step>
+			<!-- circle number가 들어가지 않는 경우 -->
+		</steps>
+	</taskbody>
+</task>

@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">הערה</variable>
+	<variable id="admonition warning">הודעת</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">המדריך למשתמש</variable>
+	<variable id="frontmatter-thankyou">תודה על שרכשת מוצר זה של Samsung.</variable>
+	<variable id="frontmatter-inform-register">לקבלת שירות מלא יותר, רשום את המוצר שלך בכתובת</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">דגם</variable>
+	<variable id="frontmatter-serialno">מספר סידורי</variable>
+	<variable id="frontmatter-inform-menuscreen">כדי לעבור ישירות לדף הכולל את הוראות השימוש במדריך ללקויי ראייה, בחר בקישור מסך למידת תפריטים להלן.</variable>
+	<variable id="frontmatter-learnmenuscreen">מסך למידת תפריטים</variable>
+	<variable id="frontmatter-link">הקישור</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">תוכן</variable>
+</vars>

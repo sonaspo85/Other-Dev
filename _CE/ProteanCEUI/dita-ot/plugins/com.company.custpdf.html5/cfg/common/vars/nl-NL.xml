@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Opmerking</variable>
+	<variable id="admonition warning">Waarschuwing</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">Gebruiksaanwijzing</variable>
+	<variable id="frontmatter-thankyou">Bedankt voor het aanschaffen van dit Samsung-product.</variable>
+	<variable id="frontmatter-inform-register">Registreer uw product voor een uitgebreidere service op</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Model</variable>
+	<variable id="frontmatter-serialno">Serienummer</variable>
+	<variable id="frontmatter-inform-menuscreen">Als u direct naar de pagina wilt gaan met instructies voor het gebruik van de gebruiksaanwijzing voor personen met een visuele beperking, selecteert u de koppeling Menuscherm leren hieronder.</variable>
+	<variable id="frontmatter-learnmenuscreen">Menuscherm leren</variable>
+	<variable id="frontmatter-link">Koppeling</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Inhoud</variable>
+</vars>

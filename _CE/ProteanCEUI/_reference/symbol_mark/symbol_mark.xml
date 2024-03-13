@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<symbolitem pvtxt="quotationmark" xmltxt="&#x22;"/>
+	<symbolitem pvtxt="plussign" xmltxt="&#x2B;"/>
+	<symbolitem pvtxt="hyphenminus" xmltxt="&#x2D;"/>
+	<symbolitem pvtxt="equalssign" xmltxt="&#x3D;"/>
+	<symbolitem pvtxt="hardspace" xmltxt="&#xA0;"/>
+</root>

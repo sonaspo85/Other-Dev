@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">မှတ်စု</variable>
+	<variable id="admonition warning">သတိပေးချက်</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">သုံးစွဲသူ လမ်းညွှန်</variable>
+	<variable id="frontmatter-thankyou">ဤ Samsung ထုတ်ကုန်ကို ဝယ်ယူခြင်းအတွက် ကျေးဇူးတင်ပါသည်။</variable>
+	<variable id="frontmatter-inform-register">ပိုမိုပွညျ့ဝသညျ့ ဝနျဆောငျမှု ရရှိရနျ သငျ့ကုနျပစ်စညျးကို</variable>
+	<variable id="frontmatter-url">www.samsung.com တွင် စာရင်းသွင်းပါ။</variable>
+	<variable id="frontmatter-model">မော်ဒယ်လ်</variable>
+	<variable id="frontmatter-serialno">အစဉ်လိုက် နံပါတ်</variable>
+	<variable id="frontmatter-inform-menuscreen">အမြင်အာရုံမသန်စွမ်းသော သုံးစွဲသူများအတွက် လက်စွဲစာအုပ်အသုံးပြုပုံ လမ်းညွှန်ကို ပေးသည့် စာမျက်နှာသို့ သွားရန် အောက်ပါ မီနူးဖန်သားပြင်အား လေ့လာပါ လင့်ခ်ကို ရွေးပါ။</variable>
+	<variable id="frontmatter-learnmenuscreen">မီနူးဖန်သားပြင်အား လေ့လာပါ</variable>
+	<variable id="frontmatter-link">လင့်ခ်</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">မာတိကာ</variable>
+</vars>

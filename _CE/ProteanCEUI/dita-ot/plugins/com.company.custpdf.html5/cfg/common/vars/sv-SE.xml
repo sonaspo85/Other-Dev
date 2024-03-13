@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Kommentar</variable>
+	<variable id="admonition warning">Varning</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">Användarguide</variable>
+	<variable id="frontmatter-thankyou">Tack för att du har valt den här Samsung-produkten.</variable>
+	<variable id="frontmatter-inform-register">För en mer komplett kundtjänst, registrera din produkt på adressen</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Modell</variable>
+	<variable id="frontmatter-serialno">Serienummer</variable>
+	<variable id="frontmatter-inform-menuscreen">För att direkt gå till sidan som innehåller instruktioner om hur man använder handboken för synskadade användare ska du välja länken Lär dig menyn nedan.</variable>
+	<variable id="frontmatter-learnmenuscreen">Lär dig menyn</variable>
+	<variable id="frontmatter-link">Länken</variable>
+	<variable id="frontmatter-open-quot">”</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Innehåll</variable>
+</vars>

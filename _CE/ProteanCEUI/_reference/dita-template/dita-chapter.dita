@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!-- chapter, chapter-info | heading, heading-info를 작성할 때 사용하는 템플릿 -->
+<concept id="">
+	<title>
+		<!-- chapter 또는 heading 제목을 입력하세요. -->
+	</title> 
+	<abstract>
+		<shortdesc>
+			<!-- chapter-info 또는 heading-info 입력하세요. -->
+		</shortdesc>
+	</abstract>
+</concept>

@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+<project name="com.here.validate.svrl.dita-fixes">
+	<!--
+		colsep-invalid - For all elements, @colsep where it exists, must be 1 or 0.
+	-->
+	<macrodef name="colsep-invalid">	
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="colsep"/>
+		</sequential>
+	</macrodef>
+	<!--
+		rowsep-invalid - For all elements, @rowsep where it exists, must be 1 or 0.
+	-->
+	<macrodef name="rowsep-invalid">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="rowsep"/>
+		</sequential>
+	</macrodef>
+	<!--
+		conref-not-lower-case - For all elements, @conref where it exists, 
+		must be lower case and dash separated.
+	-->
+	<macrodef name="conref-not-lower-case">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<lower-case-attribute file="@{file}" path="@{path}" attr="conref"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="fig-id-invalid">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<local name="value"/>
+			<get-attribute-value file="@{file}" path="@{path}" attr="id" property="value"/>
+			<put-attribute-value file="@{file}" path="@{path}" attr="id" value="fig-${value}"/>
+		</sequential>
+	</macrodef>
+	<!--
+		href-not-lower-case - For all elements, @href where it exists, 
+		must be lower case and dash separated.
+	-->
+	<macrodef name="href-not-lower-case">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<lower-case-attribute file="@{file}" path="@{path}" attr="href"/>
+		</sequential>
+	</macrodef>
+	<!--
+		id-not-lower-case - For all elements, @id where it exists, 
+		must be lower case and dash separated.
+	-->
+	<macrodef name="id-not-lower-case">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<lower-case-attribute file="@{file}" path="@{path}" attr="id"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="table-id-invalid">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<local name="value"/>
+			<get-attribute-value file="@{file}" path="@{path}" attr="id" property="value"/>
+			<put-attribute-value file="@{file}" path="@{path}" attr="id" value="table-${value}"/>
+		</sequential>
+	</macrodef>
+
+	<!--
+			xref-no-format - <xref> Any xref referencing a URL should have a format property
+							 <xref> Any file reference should have a format property
+							 <xref> Any other element using a href should have a format property
+	-->
+	<macrodef name="xref-no-format">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<put-attribute-value file="@{file}" path="@{path}" attr="format" value="dita"/>
+		</sequential>
+	</macrodef>
+	<!--
+		xref-www-format-invalid <xref>A link to an external URL outside of the document cannot have format="dita"
+	-->
+	<macrodef name="xref-www-format-invalid">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<put-attribute-value file="@{file}" path="@{path}" attr="format" value="html"/>
+		</sequential>
+	</macrodef>
+	<!--
+		xref-www-scope-invalid  <xref>A link to an external URL outside of the document requires scope="external"
+	-->
+	<macrodef name="xref-www-scope-invalid">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<put-attribute-value file="@{file}" path="@{path}" attr="scope" value="external"/>
+		</sequential>
+	</macrodef>
+	<!--
+		boolean-deprecated - The boolean element is deprecated
+	-->
+	<macrodef name="boolean-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-element file="@{file}" path="@{path}"/>
+		</sequential>
+	</macrodef>
+	<!--
+		chunk-to-navigation-deprecated - The value to-navigation
+			is deprecated on chunk attributes
+	-->
+	<macrodef name="chunk-to-navigation-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="chunk"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="codeblock-outputclass-missing">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<put-attribute-value file="@{file}" path="@{path}" attr="outputclass" value="language-javascript"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="codeblock-scale-missing">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<put-attribute-value file="@{file}" path="@{path}" attr="scale" value="80"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="image-alt-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<replace-with-subelement file="@{file}" path="@{path}" attr="alt"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="image-longdescref-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<local name="value"/>
+			<get-attribute-value file="@{file}" path="@{path}" attr="longdescref" property="value"/>
+			<delete-attribute file="@{file}" path="@{path}" attr="longdescref"/>
+
+			<xmltask preservetype="true" outputter="default" indent="false" source="@{file}" dest="@{file}">
+				<xmlcatalog refid="fake.dita.catalog"/>
+				<insert path="@{path}" xml="&lt;longdescref href='${value}'/&gt;${line.separator}"/>
+			</xmltask>
+			<reinsert-entities file="@file"/>
+		</sequential>
+	</macrodef>
+	<!--
+		indextermref-deprecated - The indextermref element is deprecated
+	-->
+	<macrodef name="indextermref-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-element file="@{file}" path="@{path}"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="linklist-collection-type-tree-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="collection-type"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="linkpool-collection-type-tree-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="collection-type"/>
+		</sequential>
+	</macrodef>
+	<macrodef name="lq-type-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="type"/>
+		</sequential>
+	</macrodef>
+	<!--
+		map-title-deprecated - The title attribute is deprecated on map elements
+	-->
+	<macrodef name="map-title-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<replace-with-subelement file="@{file}" path="@{path}" attr="title"/>
+		</sequential>
+	</macrodef>
+	<!--
+		navref-keyref-deprecated - The keyref element is deprecated on navref elements
+	-->
+	<macrodef name="navref-keyref-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="keyref"/>
+		</sequential>
+	</macrodef>
+	<!--
+		navtitle-deprecated - The navtitle attribute is deprecated
+	-->
+	<macrodef name="navtitle-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<replace-with-subelement file="@{file}" path="@{path}" attr="navtitle"/>
+		</sequential>
+	</macrodef>
+	<!--
+		print-deprecated - The print attribute is deprecated
+	-->
+	<macrodef name="print-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="print"/>
+		</sequential>
+	</macrodef>
+	<!--
+		query-deprecated - The query attribute is deprecated
+	-->
+	<macrodef name="query-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="query"/>
+		</sequential>
+	</macrodef>
+	<!--
+		refcols-deprecated - The refcols attribute is deprecated
+	-->
+	<macrodef name="refcols-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="refcols"/>
+		</sequential>
+	</macrodef>
+	<!--
+		relcolspec-collection-type-deprecated - The collection-type
+		attribute the relcolspec element is deprecated
+	-->
+	<macrodef name="relcolspec-collection-type-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="collection-type"/>
+		</sequential>
+	</macrodef>
+	<!--
+		reltable-collection-type-deprecated - The collection-type
+		attribute the reltable element is deprecated
+	-->
+	<macrodef name="reltable-collection-type-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="collection-type"/>
+		</sequential>
+	</macrodef>
+	<!--
+		role-external-deprecated - role=external
+		is deprecated
+	-->
+	<macrodef name="role-external-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="role"/>
+		</sequential>
+	</macrodef>
+	<!--
+		role-sample-deprecated - role=sample
+		is deprecated
+	-->
+	<macrodef name="role-sample-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="role"/>
+		</sequential>
+	</macrodef>
+	<!--
+		topic-file-mismatch - the root topic should match
+		the file name
+	-->
+	<macrodef name="topic-file-mismatch">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<local name="value"/>
+			<basename property="value" file="@{file}"/>
+			<put-attribute-value file="@{file}" path="@{path}" attr="id" value="${value}"/>
+		</sequential>
+	</macrodef>
+	<!--
+		topichead-locktitle-deprecated - The locktitle element is 
+		deprecated on topichead elements
+	-->
+	<macrodef name="topichead-locktitle-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="locktitle"/>
+		</sequential>
+	</macrodef>
+	<!--
+		topicgroup-locktitle-deprecated - The locktitle element is 
+		deprecated on topicgroup elements
+	-->
+	<macrodef name="topicgroup-locktitle-deprecated">
+		<attribute name="file"/>
+		<attribute name="path"/>
+		<sequential>
+			<delete-attribute file="@{file}" path="@{path}" attr="locktitle"/>
+		</sequential>
+	</macrodef>
+</project>

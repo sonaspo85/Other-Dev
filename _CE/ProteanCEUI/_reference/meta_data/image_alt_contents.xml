@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<alt image="ico_settings" lv-id="OSD_0332" desc_kor="설정" desc_eng="Settings"/>
+	<alt image="ico_qwerty_option" lv-id="OSD_0262" desc_kor="옵션" desc_eng="Options"/>
+	<alt image="btn_123" lv-id="BTN_0056" desc_kor="숫자" desc_eng="Number"/>
+	<alt image="btn_123_color" lv-id="BTN_0054" desc_kor="컬러 / 숫자" desc_eng="Color / Number"/>
+	<alt image="btn_ambient" lv-id="OSD_0940" desc_kor="매직스크린" desc_eng="Ambient Mode"/>
+	<alt image="btn_blue" lv-id="OSD_0524" desc_kor="파란색" desc_eng="Blue"/>
+	<alt image="btn_Ch_Favorite" lv-id="OSD_0453" desc_kor="선호 목록" desc_eng="Favorites"/>
+	<alt image="btn_Ch_Left_arrow" lv-id="OSD_0492" desc_kor="선호목록에서 삭제" desc_eng="Remove from Favorites"/>
+	<alt image="btn_Lock" lv-id="OSD_0217" desc_kor="잠금설정" desc_eng="locked app"/>
+	<alt image="btn_Ch_Nowplaying" lv-id="ALT_0001" desc_kor="시청 중 채널" desc_eng="Currently Watching"/>
+	<alt image="btn_Ch_Right_arrow" lv-id="OSD_0019" desc_kor="선호목록에 추가" desc_eng="Add to Favorites"/>
+	<alt image="btn_color" lv-id="BTN_0055" desc_kor="컬러" desc_eng="Color"/>
+	<alt image="btn_green" lv-id="OSD_0523" desc_kor="초록색" desc_eng="Green"/>
+	<alt image="btn_home" lv-id="OSD_0345" desc_kor="스마트 허브" desc_eng="SMART HUB"/>
+	<alt image="btn_play" lv-id="OSD_0275" desc_kor="재생 일시정지" desc_eng="Play Pause"/>
+	<alt image="btn_Record" lv-id="OSD_0291" desc_kor="녹화" desc_eng="Record"/>
+	<alt image="btn_red" lv-id="OSD_0522" desc_kor="빨간색" desc_eng="Red"/>
+	<alt image="btn_rewind_new" lv-id="OSD_0308" desc_kor="되감기" desc_eng="Rewind"/>
+	<alt image="btn_sreturn" lv-id="OSD_0307" desc_kor="복귀" desc_eng="Return"/>
+	<alt image="btn_standard-ff" lv-id="OSD_0162" desc_kor="빨리 감기" desc_eng="Fast Forward"/>
+	<alt image="btn_standard-play" lv-id="OSD_0275" desc_kor="재생" desc_eng="Play"/>
+	<alt image="btn_standard-pouse" lv-id="OSD_0265" desc_kor="일시정지" desc_eng="Pause"/>
+	<alt image="btn_standard-rewind" lv-id="OSD_0308" desc_kor="되감기" desc_eng="Rewind"/>
+	<alt image="btn_Standard_Mute" lv-id="OSD_0238" desc_kor="조용히" desc_eng="Mute"/>
+	<alt image="btn_stop" lv-id="OSD_0364" desc_kor="중지" desc_eng="Stop"/>
+	<alt image="btn_tv_ff_new" lv-id="OSD_0162" desc_kor="빨리 감기" desc_eng="Fast Forward"/>
+	<alt image="btn_tv_play" lv-id="OSD_0275" desc_kor="재생" desc_eng="Play"/>
+	<alt image="btn_voice" lv-id="OSD_1083" desc_kor="보이스 어시스턴트" desc_eng="Voice Assistant"/>
+	<alt image="btn_Volume_Down" lv-id="OSD_0541" desc_kor="볼륨 내려" desc_eng="Volume Down"/>
+	<alt image="btn_Volume_Up" lv-id="OSD_0540" desc_kor="볼륨 올려" desc_eng="Volume Up"/>
+	<alt image="btn_yellow" lv-id="OSD_0525" desc_kor="노란색" desc_eng="Yellow"/>
+	<alt image="ico_app-down" lv-id="OSD_0766" desc_kor="설치완료" desc_eng="Downloaded app"/>
+	<alt image="ico_app-down_18" lv-id="OSD_0766" desc_kor="설치완료" desc_eng="Downloaded app"/>
+	<alt image="ico_app-lock" lv-id="OSD_0217" desc_kor="잠금설정" desc_eng="locked app"/>
+	<alt image="ico_app-lock_18" lv-id="OSD_0217" desc_kor="잠금설정" desc_eng="locked app"/>
+	<alt image="ico_app-update" lv-id="ALT_0002" desc_kor="앱 업데이트" desc_eng="Update apps"/>
+	<alt image="ico_app-update_18" lv-id="ALT_0003" desc_kor="앱 업데이트" desc_eng="Update apps"/>
+	<alt image="ico_app-usb" lv-id="All_0061" desc_kor="USB" desc_eng="USB"/>
+	<alt image="ico_app-usb_18" lv-id="All_0061" desc_kor="USB" desc_eng="USB"/>
+	<alt image="ico_app_SmartView" lv-id="OSD_0495" desc_kor="Smart View 앱" desc_eng="Smart View App"/>
+	<alt image="ico_app_SmartView_18" lv-id="OSD_0495" desc_kor="Smart View 앱" desc_eng="Smart View App"/>
+	<alt image="ico_e-index" lv-id="OSD_0196" desc_kor="찾아보기" desc_eng="Index"/>
+	<alt image="ico_e-recent" lv-id="OSD_0287" desc_kor="최근 열어본 항목" desc_eng="Recently Viewed Topics"/>
+	<alt image="ico_e-search" lv-id="OSD_0325" desc_kor="검색" desc_eng="Search"/>
+	<alt image="ico_favorite" lv-id="OSD_0453" desc_kor="선호 목록" desc_eng="Favorites"/>
+	<alt image="ico_link" lv-id="OSD_0950" desc_kor="바로가기" desc_eng="Link"/>
+	<alt image="ico_num-1" lv-id="ALT_0004" desc_kor="1" desc_eng="1"/>
+	<alt image="ico_num-2" lv-id="ALT_0005" desc_kor="2" desc_eng="2"/>
+	<alt image="ico_num-3" lv-id="ALT_0007" desc_kor="3" desc_eng="3"/>
+	<alt image="ico_schedule-r" lv-id="OSD_0321" desc_kor="녹화 예약" desc_eng="Schedule Recording"/>
+	<alt image="ico_schedule-v" lv-id="OSD_0322" desc_kor="시청 예약" desc_eng="Schedule Viewing"/>
+	<alt image="ico_trynow" lv-id="OSD_0398" desc_kor="실행하기" desc_eng="Try Now"/>
+	<alt image="Settings_icon" lv-id="OSD_0332" desc_kor="설정" desc_eng="Settings"/>
+	<alt image="SOURCE_icon" lv-id="OSD_0606" desc_kor="TV/외부입력" desc_eng="Source"/>
+	<alt image="next" lv-id="OSD_0247" desc_kor="다음" desc_eng="Next"/>
+	<alt image="btn_power" lv-id="OSD_0543" desc_kor="전원" desc_eng="Power"/>
+	<alt image="btn_ART_Power" lv-id="OSD_0543" desc_kor="전원" desc_eng="Power"/>
+	<alt image="icon_Settings_qwerty" lv-id="OSD_0262" desc_kor="옵션" desc_eng="Options"/>
+	<alt image="btn_PlayPause" lv-id="OSD_0275" desc_kor="재생 일시정지" desc_eng="Play Pause"/>
+	<alt image="btn_Timeshift" lv-id="OSD_0388" desc_kor="타임시프트" desc_eng="Timeshift"/>
+	<alt image="btn_tv_ff" lv-id="OSD_0162" desc_kor="빨리 감기" desc_eng="Fast Forward"/>
+	<alt image="ico_BT" lv-id="OSD_0885" desc_kor="블루투스" desc_eng="Bluetooth"/>
+	<alt image="btn_Standard_Mute_CHI" lv-id="OSD_0238" desc_kor="조용히" desc_eng="Mute"/>
+	<alt image="btn_standard-home" lv-id="OSD_0345" desc_kor="스마트 허브" desc_eng="SMART HUB"/>
+	<alt image="btn_standard-power" lv-id="ALT_0006" desc_kor="전원 끄기" desc_eng="Power Off"/>
+	<alt image="btn_standard-return" lv-id="OSD_0307" desc_kor="복귀" desc_eng="Return"/>
+	<alt image="btn_standard_select" lv-id="OSD_0326" desc_kor="선택" desc_eng="Select"/>
+	<alt image="ico_wallpaper" lv-id="OSD_0191" desc_kor="배경" desc_eng="Background"/>
+	<alt image="ico_dim" lv-id="OSD_0013" desc_kor="추가" desc_eng="Add"/>
+	<alt image="ico_stop_recording" lv-id="OSD_0365" desc_kor="레코더 녹화 중지" desc_eng="Stop Recording"/>
+	<alt image="ico_e-sitemap" lv-id="OSD_1046" desc_kor="사이트맵" desc_eng="Sitemap"/>
+	<alt image="btn_VOL" lv-id="BTN_0035" desc_kor="음량" desc_eng="VOL"/>
+	<alt image="btn_CH" lv-id="BTN_0036" desc_kor="채널" desc_eng="CH"/>
+	<alt image="ico_menu-stapp" lv-id="OSD_0224" desc_kor="메뉴" desc_eng="Menu"/>
+	<alt image="btn_multi" lv-id="OSD_1042" desc_kor="멀티뷰" desc_eng="Multi View"/>
+	<alt image="btn_settings_color_123" lv-id="OSD_1550" desc_kor="설정 / 숫자 / 컬러" desc_eng="Settings / Number / Color"/>
+	<alt image="btn_settings_123_option" lv-id="OSD_1551" desc_kor="설정 / 숫자 / 옵션" desc_eng="Settings / Number / Option"/>
+	<alt image="btn_rotate" lv-id="OSD_0311" desc_kor="회전" desc_eng="Rotate"/>
+	<alt image="btn_square" lv-id="OSD_1601" desc_kor="네모" desc_eng="Square"/>
+</root>

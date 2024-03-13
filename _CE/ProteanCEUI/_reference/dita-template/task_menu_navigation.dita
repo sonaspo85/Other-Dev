@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!-- 메뉴 네비게이션을 작성할 때 사용하는 템플릿 -->
+<task id=""><!-- Topic ID를 입력하세요. -->
+	<title><!-- 제목을 입력하세요. --></title> 
+	<abstract>
+		<!-- next 아이콘 표시는 "~~" | 메뉴 경로 수정시, cmdname의 rev ID 속성과 영문을 필히 확인하세요. -->
+		<p outputclass="menu"><!-- outputclass="menu" 필수 추가 -->
+			<!-- home 아이콘 --><image href="../../images/btn_home.svg" otherprops="alt:yes"/> ~~ 
+			<image href="../../images/ico_settings.svg" otherprops="alt:no"/> <cmdname rev="OSD_0332">Settings</cmdname> ~~ 
+			<cmdname rev="OSD_0374">Support</cmdname> ~~ 
+			<cmdname rev="OSD_0348">Software Update</cmdname> ~~ 
+			<!-- index 설정시 outputclass="index" 추가 --><cmdname rev="OSD_0054">Auto Update</cmdname>
+			<!-- Try Now, trynow 명령어는 otherprops에 넣을 것 --><apiname rev="OSD_0398" otherprops="autoupdate">Try Now</apiname>
+		</p>
+		<p>
+			<!-- 메뉴에 대한 설명을 입력하세요.-->
+		</p>
+		<note type="note">
+			<!-- 필요한 경우 Note를 추가하세요. -->
+		</note>
+	</abstract>
+</task>

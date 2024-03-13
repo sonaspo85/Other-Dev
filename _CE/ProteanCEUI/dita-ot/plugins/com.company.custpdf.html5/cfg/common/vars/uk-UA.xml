@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Примітка</variable>
+	<variable id="admonition warning">Попередження</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">Гід користувача</variable>
+	<variable id="frontmatter-thankyou">Дякуємо за придбання цього виробу компанії Samsung.</variable>
+	<variable id="frontmatter-inform-register">Для отримання повного спектру послуг зареєструйте свій виріб на веб-сайті</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Моделі</variable>
+	<variable id="frontmatter-serialno">Серійний номер</variable>
+	<variable id="frontmatter-inform-menuscreen">Для швидкого переходу до сторінки, що містить інструкції з користування посібником для користувачів із вадами зору, виберіть посилання Ознайомитися з екранним меню нижче.</variable>
+	<variable id="frontmatter-learnmenuscreen">Ознайомитися з екранним меню</variable>
+	<variable id="frontmatter-link">Посилання</variable>
+	<variable id="frontmatter-open-quot">«</variable>
+	<variable id="frontmatter-close-quot">»</variable>
+	<variable id="frontmatter-toc-contents">Зміст</variable>
+</vars>

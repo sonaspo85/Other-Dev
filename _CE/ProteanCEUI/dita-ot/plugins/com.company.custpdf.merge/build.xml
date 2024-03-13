@@ -1,0 +1,3 @@
+<project>
+    <import file="build_custpdf_merge_template.xml"/>
+</project>

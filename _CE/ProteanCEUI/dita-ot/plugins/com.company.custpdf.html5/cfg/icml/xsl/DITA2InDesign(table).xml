@@ -1,0 +1,67 @@
+﻿
+	<!--
+	<xsl:template match="entry">
+		<xsl:variable name="colspecs"><xsl:copy-of select="ancestor::tgroup/colspec"/></xsl:variable>
+	    <cell aid:table="cell">
+	        <xsl:attribute name="aid:crows">
+	        	<xsl:choose>
+	        		<xsl:when test="@morerows">
+	        			<xsl:value-of select="number(@morerows) + 1"/>
+	        		</xsl:when>
+	        		<xsl:otherwise>
+	        			<xsl:text>1</xsl:text>
+	        		</xsl:otherwise>
+	        	</xsl:choose>
+	        </xsl:attribute>
+	        <xsl:choose>
+	        	<xsl:when test="@nameend">
+	        		<xsl:attribute name="aid:ccols">
+						<xsl:call-template name="getccols">
+							<xsl:with-param name="colspecs" select="$colspecs"/>
+							<xsl:with-param name="namest" select="@namest"/>
+							<xsl:with-param name="nameend" select="@nameend"/>
+						</xsl:call-template>
+	        		</xsl:attribute>
+					<xsl:if test="ancestor::thead">
+						<xsl:attribute name="aid:theader" />
+					</xsl:if>
+	        	</xsl:when>
+	    		<xsl:otherwise>
+	        		<xsl:attribute name="aid:ccols"><xsl:text>1</xsl:text></xsl:attribute>
+			        <xsl:if test="ancestor::thead">
+			            <xsl:attribute name="aid:theader" />
+			        </xsl:if>
+	    		</xsl:otherwise>
+	    	</xsl:choose>
+	        <xsl:attribute name="aid:ccolwidth">
+				<xsl:call-template name="getccolwidth">
+					<xsl:with-param name="colspecs" select="$colspecs"/>
+					<xsl:with-param name="x" select="@x"/>
+				</xsl:call-template>
+	        </xsl:attribute>
+	        <xsl:apply-templates select="@* except (@x, @y)" />
+	        <xsl:apply-templates select="node()" />
+	    </cell>
+	</xsl:template>
+
+	<xsl:template name="getccols">
+		<xsl:param name="colspecs"/>
+		<xsl:param name="namest"/>
+		<xsl:param name="nameend"/>
+		<xsl:variable name="start" select="$colspecs/colspec[@colname=$namest]/@colnum"/>
+		<xsl:variable name="end" select="$colspecs/colspec[@colname=$nameend]/@colnum"/>
+		<xsl:value-of select="number($end) - number($start) + 1"/>
+	</xsl:template>
+
+	<xsl:template name="getccolwidth">
+		<xsl:param name="colspecs"/>
+		<xsl:param name="x"/>
+		<xsl:variable name="this" select="xs:integer(substring-before($colspecs/colspec[@colnum=$x]/@colwidth, '*'))"/>
+		<xsl:variable name="ratios" as="xs:integer*">
+			<xsl:for-each select="$colspecs/colspec/@colwidth">
+				<xsl:sequence select="xs:integer(substring-before(., '*'))"/>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:value-of select="format-number($framewidth * $this div sum($ratios), '#.##')"/>
+	</xsl:template>
+	-->

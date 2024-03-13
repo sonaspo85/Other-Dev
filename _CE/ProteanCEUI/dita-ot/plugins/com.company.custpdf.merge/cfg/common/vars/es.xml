@@ -1,0 +1,23 @@
+﻿<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="tryNow">Customization/OpenTopic/common/artwork/trynow(es-mx).svg</variable>
+	<variable id="tryNow_Invisible">Customization/OpenTopic/common/artwork/trynow_invisible(es-mx).svg</variable>
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Gracias por comprar este producto Samsung.</variable>
+	<variable id="frontmatter-inform-register">Para recibir un servicio más completo, registre su producto en</variable>
+	<variable id="frontmatter-url">http://www.samsung.com</variable>
+	<variable id="frontmatter-model">Modelo</variable>
+	<variable id="frontmatter-serialno">N.º de serie</variable>
+	<variable id="frontmatter-inform-menuscreen">Para ir directamente a la página que provee instrucciones acerca de cómo usar el manual para usuarios con discapacidad visual, seleccione el siguiente vínculo de Aprender la pantalla de menús.</variable>
+	<variable id="frontmatter-learnmenuscreen">Aprender la pantalla de menús</variable>
+	<variable id="frontmatter-link">Vínculo</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Contenido</variable>
+</vars>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- bullet 형식의 태스크 토픽 -->
+<task id="">
+	<title><!-- heading-제목 입력 --></title> 
+	<abstract>
+		<shortdesc>
+			<!-- heading-info 입력 -->
+		</shortdesc>
+		<!-- 메뉴 네비게이션 입력 샘플 -->
+		<p>
+			<image href="../../images/btn_home.svg" otherprops="alt:yes"/> ~~ 
+			<image href="../../images/ico_settings.svg" otherprops="alt:no"/> <cmdname rev="OSD_0332">Settings</cmdname> ~~ 
+			<cmdname rev="OSD_0267">Picture</cmdname> ~~ 
+			<!-- index 설정시 outputclass="index" 추가 --><cmdname outputclass="index" rev="OSD_0268">Picture Mode</cmdname>
+			<!-- trynow 설정 trynow 명령어는 otherprops에 넣을 것 / invisible일 경우 outputclass="invisible" 추가 --><apiname rev="OSD_0398" otherprops="picturemode">Try Now</apiname>
+		</p>
+		<p>
+			<!-- 메뉴와 관련된 설명 입력 -->
+		</p>
+		<note type="note">
+			<!-- 필요한 경우 note 입력 -->
+		</note>
+	</abstract>
+	<taskbody>
+		<steps-unordered><!-- 하위 메뉴 및 관련 설명 입력 -->
+			<step>
+				<cmd>
+					<cmdname rev=""><!-- 하위 메뉴 및 LV ID 입력 --></cmdname>
+				</cmd>
+				<info>
+					<p>
+						<!-- 하위 메뉴 설명 입력 -->
+					</p>
+					<note type="note">
+						<!-- 필요한 경우 note 입력 -->
+					</note>
+				</info>
+			</step>
+			<step>
+				<cmd>
+					<cmdname rev=""><!-- 하위 메뉴 및 LV ID 입력 --></cmdname>
+				</cmd>
+				<info>
+					<p>
+						<!-- 하위 메뉴 설명 입력 -->
+					</p>
+					<note type="note">
+						<!-- 필요한 경우 note 입력 -->
+					</note>
+				</info>
+			</step>
+		</steps-unordered>
+		<result>
+			<note type="note">
+				<!-- 전체 설명에 대한 note 입력 -->
+			</note>
+		</result>
+	</taskbody>
+</task>

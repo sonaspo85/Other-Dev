@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.company.custpdf.html5">
+    <require plugin="org.dita.pdf2"/>
+	<require plugin="org.dita.pdf2.axf"/>
+    <feature extension="dita.conductor.transtype.check" value="custpdf_html5"/>
+    <feature extension="dita.transtype.print" value="custpdf_html5"/>
+    <feature extension="dita.conductor.target.relative" file="build.xml"/>
+    <feature extension="dita.xsl.strings" file="cfg/common/vars/ast-strings.xml"/>
+    <feature extension="dita.xsl.xslfo" file="cfg/fo/xsl/ast-pagebreak.xsl" type="file" />
+    <feature extension="org.dita.pdf2.xsl.topicmerge" file="cfg/fo/xsl/ast-replace-pv-lv.xsl" type="file" />
+</plugin>

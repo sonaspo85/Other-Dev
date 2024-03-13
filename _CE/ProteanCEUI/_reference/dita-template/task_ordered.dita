@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!-- Orderlist 형식의 태스크 토픽 -->
+<task id=""><!-- task topick id를 입력합니다. -->
+	<title><!-- 제목을 입력합니다. --></title> 
+	<taskbody>
+		<steps>
+			<step>
+				<cmd>
+					<!-- 1. 내용을 입력합니다. -->
+				</cmd>
+				<!-- 부가 내용을 입력할 경우 -->
+				<info>
+					<p>
+						<!-- 부가 내용을 입력하세요. -->
+					</p>
+					<note type="note">
+						<!-- 노트 내용을 입력하세요. -->
+					</note>
+				</info>
+			</step>
+			<step>
+				<cmd>
+					<!-- 2. 내용을 입력합니다. -->
+				</cmd>
+				<!-- 부가 내용을 입력할 경우 -->
+				<info>
+					<p>
+						<!-- 부가 내용을 입력하세요. -->
+					</p>
+					<note type="note">
+						<!-- 노트 내용을 입력하세요. -->
+					</note>
+				</info>
+			</step>
+			<step>
+				<cmd>
+					<!-- 3. 내용을 입력합니다. -->
+				</cmd>
+				<!-- 부가 내용을 입력할 경우 -->
+				<info>
+					<p>
+						<!-- 부가 내용을 입력하세요. -->
+					</p>
+					<note type="note">
+						<!-- 노트 내용을 입력하세요. -->
+					</note>
+				</info>
+			</step>
+		<result>
+			<p>
+				<!-- 위 내용에 대한 결과를 입력합니다.-->
+			</p>
+			<note type="note">
+						<!-- 필요한 경우 노트 내용을 입력하세요. -->
+			</note>
+		</result>
+	</taskbody>
+</task>

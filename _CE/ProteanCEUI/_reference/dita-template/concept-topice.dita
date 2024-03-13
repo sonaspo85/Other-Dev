@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--concept topic의 테이블을 작성할 때 사용하는 템플릿 -->
+<concept id=""><!--concept topic id를 입력하세요. -->
+	<title>
+		<!-- 제목을 입력하세요. -->
+	</title> 
+	<abstract>
+		<shortdesc>
+			<!-- heading-info를 입력하세요. -->
+		</shortdesc>
+		<p outputclass="menu"><!-- outputclass="menu" 필수 추가 -->
+			<!-- home 아이콘 --><image href="../../images/btn_home.svg" otherprops="alt:yes"/> ~~ 
+			<image href="../../images/ico_settings.svg" otherprops="alt:no"/> <cmdname rev="OSD_0332">Settings</cmdname> ~~ 
+			<cmdname rev="OSD_0374">Support</cmdname> ~~ 
+			<cmdname rev="OSD_0348">Software Update</cmdname> ~~ 
+			<!-- index 설정시 outputclass="index" 추가 --><cmdname rev="OSD_0054">Auto Update</cmdname>
+			<!-- Try Now, trynow 명령어는 otherprops에 넣을 것 --><apiname rev="OSD_0398" otherprops="autoupdate">Try Now</apiname>
+		</p>
+	</abstract>
+	<conbody>
+		<section>
+			<p>
+				<!-- 메뉴에 대한 설명을 입력하세요.-->
+			</p>
+			<p>
+				<!-- 필요한 경우 이미지를 입력한다. -->
+				<image href="../../images/Table_Img-SmartHub-Connection.svg" placement="break" otherprops="alt:no"/>
+			</p>
+			<note type="note">
+				<!-- Note 추가 -->
+				The image on your TV may differ from the image above depending on the model and geographical area.
+			</note>
+		</section>
+	</conbody>
+</concept>

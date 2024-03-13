@@ -1,0 +1,23 @@
+﻿<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="tryNow">Customization/OpenTopic/common/artwork/trynow(en-us).svg</variable>
+	<variable id="tryNow_Invisible">Customization/OpenTopic/common/artwork/trynow_invisible(en-us).svg</variable>
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Thank you for purchasing this Samsung product.</variable>
+	<variable id="frontmatter-inform-register">To receive more complete service, please register your product at</variable>
+	<variable id="frontmatter-url">http://www.samsung.com</variable>
+	<variable id="frontmatter-model">Model</variable>
+	<variable id="frontmatter-serialno">Serial No.</variable>
+	<variable id="frontmatter-inform-menuscreen">To directly go to the page that provides instructions on how to use the manual for visually impaired users, select the Learn the Menu Screen link below.</variable>
+	<variable id="frontmatter-learnmenuscreen">Learn the Menu Screen</variable>
+	<variable id="frontmatter-link">Link</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Contents</variable>
+</vars>

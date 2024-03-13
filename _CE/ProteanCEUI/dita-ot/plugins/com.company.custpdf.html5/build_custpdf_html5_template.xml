@@ -1,0 +1,119 @@
+<project name="com.company.custpdf.html5">
+    <property name="transtype" value="custpdf_html5"/>
+    <property name="clean.temp" value="false"/>
+	<property name="args.draft" value="yes"/>
+	<property name="LV_name" value="yes"/>
+	<property name="Pub_mode" value="Preview"/>
+	<property name="PDF" value="1_PDF"/>
+	<property name="HTML" value="2_HTML"/>
+	<property name="ICML" value="3_ICML"/>
+
+    <tstamp>
+        <format property="TODAY" pattern="yyMMdd"/>
+    </tstamp>
+
+    <target name="dita2custpdf_html5" xmlns:dita="http://dita-ot.sourceforge.net" dita:extension="depends org.dita.dost.platform.InsertDependsAction">
+		<property name="customization.dir" location="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg"/>
+		<basename property="basename" file="${args.input}" suffix=".ditamap"/>
+		<property name="dita.temp.dir" location="${output.dir}${file.separator}${basename}_temp"/>
+		<property name="html.temp.dir" location="${dita.temp.dir}${file.separator}temp"/>
+		<property name="pdf.formatter" value="ah"/>
+		<property name="axf.path" value="z:"/>
+		<property name="svg.dir" location="${output.dir}${file.separator}..${file.separator}..${file.separator}_Reference${file.separator}resource${file.separator}svg"/>
+		<property name="images.dir" location="${output.dir}${file.separator}..${file.separator}images"/>
+		<property name="pdf2.i18n.skip" value="false"/>
+        <antcall target="dita2pdf2" />
+
+        <copy tofile="${output.dir}${file.separator}${PDF}${file.separator}${basename}_${LV_name}_${TODAY}.0.pdf">
+        	<fileset dir="${output.dir}" includes="${basename}.pdf"/>
+        </copy>
+		<delete file="${output.dir}${file.separator}${basename}.pdf"/>
+
+        <copy todir="${html.temp.dir}">
+        	<fileset dir="${dita.temp.dir}" includes=".job.xml"/>
+        </copy>
+        <copy todir="${html.temp.dir}">
+        	<fileset dir="${dita.temp.dir}" includes="${basename}_MERGED.xml"/>
+        </copy>
+
+        <echo>FROM: HTML Processing</echo>
+		<!-- FROM: HTML Processing /////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+		<xslt in="${html.temp.dir}${file.separator}${basename}_MERGED.xml" out="${html.temp.dir}${file.separator}01-simplified.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}01-simplify.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}01-simplified.xml" out="${html.temp.dir}${file.separator}02-categorized.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}02-categorize.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}02-categorized.xml" out="${html.temp.dir}${file.separator}03-converted-table.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}03-convert-table.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}04-split-into-html.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}05-make-CategoryData.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}06-make-trynow-js.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}07-make-indexes-xml.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}08-make-Speech-xml.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}09-make-search-js.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}10-make-start_here-html.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}11-debug-help-info..xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}12-debug-indexes.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}13-debug-links.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}14-debug-structure.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}03-converted-table.xml" out="${html.temp.dir}${file.separator}dummy.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}html${file.separator}xsl${file.separator}15-debug-trynows.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<!-- TO: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+		<echo>FROM: ICML Processing</echo>
+		<!-- FROM: ICML Processing /////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+		<xslt in="${html.temp.dir}${file.separator}${basename}_MERGED.xml" out="${html.temp.dir}${file.separator}04-simplified.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}icml${file.separator}xsl${file.separator}04-simplify.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}04-simplified.xml" out="${html.temp.dir}${file.separator}05-flattened.xml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}icml${file.separator}xsl${file.separator}05-flatten.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+		<xslt in="${html.temp.dir}${file.separator}05-flattened.xml" out="${html.temp.dir}${file.separator}${basename}.icml" style="${dita.plugin.com.company.custpdf.html5.dir}${file.separator}cfg${file.separator}icml${file.separator}xsl${file.separator}06-make-icml.xsl" force="true">
+			<classpath location="C:${file.separator}Saxonica${file.separator}lib${file.separator}saxon9.jar"/>
+		</xslt>
+        <copy tofile="${output.dir}${file.separator}${ICML}${file.separator}${basename}_${LV_name}_${TODAY}.icml">
+        	<fileset dir="${html.temp.dir}" includes="${basename}.icml"/>
+        </copy>
+		<!-- TO: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+		<!--
+		<delete>
+			<fileset dir="${images.dir}">
+				<include name="*_tmp.svg"/>
+			</fileset>
+		</delete>
+		-->
+
+		<!-- FROM: Delete temp folder -->
+		<!--
+		<delete includeEmptyDirs="true">
+        	<fileset dir="${dita.temp.dir}"/>
+        </delete>
+        -->
+        <!-- TO: -->
+    </target>
+</project>

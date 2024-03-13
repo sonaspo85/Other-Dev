@@ -1,0 +1,10 @@
+﻿<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="tryNow">Customization/OpenTopic/common/artwork/trynow(ko-kr).svg</variable>
+	<variable id="tryNow_Invisible">Customization/OpenTopic/common/artwork/trynow_invisible(ko-kr).svg</variable>
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+</vars>

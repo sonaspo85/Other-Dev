@@ -1,0 +1,42 @@
+<project name="com.company.custpdf.merge">
+    <property name="transtype" value="custpdf_merge"/>
+    <property name="clean.temp" value="false"/>
+	<property name="args.draft" value="yes"/>
+	<property name="LV_name" value="yes"/>
+	<property name="validation" value="yes"/>
+
+    <tstamp>
+        <format property="TODAY" pattern="yyyy-MM-dd"/>
+    </tstamp>
+
+    <target name="dita2custpdf_merge" xmlns:dita="http://dita-ot.sourceforge.net" dita:extension="depends org.dita.dost.platform.InsertDependsAction">
+		<property name="customization.dir" location="${dita.plugin.com.company.custpdf.merge.dir}${file.separator}cfg"/>
+		<basename property="basename" file="${args.input}" suffix=".ditamap"/>
+		<property name="dita.temp.dir" location="${output.dir}${file.separator}${basename}_temp"/>
+		<property name="html.temp.dir" location="${dita.temp.dir}${file.separator}temp"/>
+		<property name="svg.dir" location="${output.dir}${file.separator}..${file.separator}..${file.separator}_Reference${file.separator}resource${file.separator}svg"/>
+		<property name="pdf2.i18n.skip" value="false"/>
+        <antcall target="dita2pdf2" />
+
+        <copy todir="${output.dir}">
+        	<fileset dir="${dita.temp.dir}" includes=".job.xml"/>
+        </copy>
+
+		<mkdir dir="${output.dir}/temp" />
+        <copy todir="${output.dir}/temp">
+        	<fileset dir="${dita.temp.dir}" includes=".job.xml"/>
+        </copy>
+        <copy todir="${output.dir}/temp">
+        	<fileset dir="${dita.temp.dir}" includes="*.dita"/>
+        </copy>
+        <copy todir="${output.dir}/temp">
+        	<fileset dir="${output.dir}${file.separator}..${file.separator}..${file.separator}_Reference${file.separator}xsls" includes="tv.dtd"/>
+        </copy>
+
+		<!--
+		<delete includeEmptyDirs="true">
+        	<fileset dir="${dita.temp.dir}"/>
+        </delete>
+        -->
+    </target>
+</project>

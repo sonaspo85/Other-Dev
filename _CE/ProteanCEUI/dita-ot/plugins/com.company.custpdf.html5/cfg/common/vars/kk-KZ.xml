@@ -1,0 +1,24 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Ескерім</variable>
+	<variable id="admonition warning">Ескерту</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="e-manual) frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-title">Пайдаланушы нұсқаулығы</variable>
+	<variable id="frontmatter-thankyou">Samsung өнімін сатып алғаныңызға алғысымызды білдіреміз.</variable>
+	<variable id="frontmatter-inform-register">Қызметтерді толық алу үшін өніміңізді</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Үлгі</variable>
+	<variable id="frontmatter-serialno">Сериялық №</variable>
+	<variable id="frontmatter-inform-menuscreen">Көзі нашар көретін адамдарға нұсқау беретін бетке тура өтіп, астыңғы жағынан Мәзір экранын зерттеу сілтемесін таңдаңыз.</variable>
+	<variable id="frontmatter-learnmenuscreen">Мәзір экранын зерттеу</variable>
+	<variable id="frontmatter-link">сілтемесі</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Мазмұны</variable>
+</vars>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><!--ant-->
+<!--
+  This file is part of the Spelling and Grammar Checker project.
+  See the accompanying LICENSE file for applicable licenses.
+-->
+<project default="run-svrl" name="com.here.validate.svrl.xslt">
+	<!--
+		Ant target to allow direct invocation of the valiadator transforms, this means we can use an alternative classpath.
+	-->
+	<target name="run-svrl">
+		<xmlcatalog id="dita.catalog">
+			<catalogpath path="${dita.dir}/catalog-dita.xml"/>
+		</xmlcatalog>
+		<!--
+			Apply the XSLT defined over the root ditamap This create SVRL files from the *.ditamap and fires the associated Validator ruleset.
+		-->
+		<xslt classpath="${dita.plugin.com.here.validate.svrl.dir}/lib/saxon-9.1.0.8.jar" destdir="${dita.temp.dir}/svrl/ditamap" extension=".svrl" style="${svrl.customization.dir}/ditamap2svrl.xsl" useImplicitFileset="false">
+			<xmlcatalog refid="dita.catalog"/>
+			<factory name="net.sf.saxon.TransformerFactoryImpl">
+				<!--
+					Setting several options of Saxon XSLT engine to enable some additional functionality,
+					see for more details:
+					http://www.saxonica.com/html/documentation/configuration/config-features.html
+				-->
+				<attribute name="http://saxon.sf.net/feature/allow-external-functions" value="true"/>
+				<!-- Enable keeping track of line numbers whilst transforming -->
+				<attribute name="http://saxon.sf.net/feature/linenumbering" value="true"/>
+				<attribute name="http://saxon.sf.net/feature/sourceParserClass" value="org.apache.xml.resolver.tools.ResolvingXMLReader"/>
+				<!-- Enable DTD validation whilst transforming -->
+				<attribute name="http://saxon.sf.net/feature/validation" value="false"/>
+			</factory>
+			<!-- Common parameters for the schematron template from the base plug-in -->
+			<param expression="${args.validate.ignore.rules}" name="IGNORE_RULES"/>
+			<param expression="${com.here.validate.svrl.output.rule-id}" name="OUTPUT_RULE-ID"/>
+			<param expression="${dita.temp.dir}/dita" name="SOURCE"/>
+			<param expression="${document.language}" if="document.language" name="DEFAULTLANG"/>
+			<param expression="${ruleset.fatal}" name="FATAL_RULESET"/>
+			<param expression="${ruleset.error}" name="ERROR_RULESET"/>
+			<param expression="${ruleset.warning}" name="WARNING_RULESET"/>
+			<param expression="ditamap" name="PATTERN_ROLE"/>
+			
+			<fileset dir="${dita.temp.dir}/dita">
+				<include name="**/*.ditamap"/>
+			</fileset>
+		</xslt>
+		<!--
+			Apply the XSLT defined in the ${args.input.dir} directory. This create SVRL files from the *.dita and fires the Validator ruleset.
+
+			For efficiency, run XSLT Validation against modified files only, if requested.
+		-->
+		<xslt classpath="${com.here.validate.svrl.dir}/lib/saxon-9.1.0.8.jar" destdir="${dita.temp.dir}/svrl/dita" extension=".svrl" failOnError="false" failOnNoResources="false" style="${svrl.customization.dir}/dita2svrl.xsl" useImplicitFileset="false">
+			<xmlcatalog refid="dita.catalog"/>
+			<factory name="net.sf.saxon.TransformerFactoryImpl">
+				<!--
+					Setting several options of Saxon XSLT engine to enable some additional functionality,
+					see for more details:
+					http://www.saxonica.com/html/documentation/configuration/config-features.html
+				-->
+				<attribute name="http://saxon.sf.net/feature/allow-external-functions" value="true"/>
+				<!-- Enable keeping track of line numbers whilst transforming -->
+				<attribute name="http://saxon.sf.net/feature/linenumbering" value="true"/>
+				<attribute name="http://saxon.sf.net/feature/sourceParserClass" value="org.apache.xml.resolver.tools.ResolvingXMLReader"/>
+				<!-- Enable DTD validation whilst transforming -->
+				<attribute name="http://saxon.sf.net/feature/validation" value="false"/>
+			</factory>
+			<!-- Parameters for the textual-rules template from the base plug-in -->
+			<param expression="${args.validate.blacklist}" name="BLACKLIST"/>
+			<param expression="${args.validate.check.case}" name="CHECK_CASE"/>
+			<!-- Common parameters for the schematron template from the base plug-in -->
+			<param expression="${args.validate.ignore.rules}" name="IGNORE_RULES"/>
+			<param expression="${com.here.validate.svrl.output.rule-id}" name="OUTPUT_RULE-ID"/>
+			<param expression="${dita.temp.dir}/dita" name="SOURCE"/>
+			<param expression="${document.language}" if="document.language" name="DEFAULTLANG"/>
+			<param expression="${ruleset.fatal}" name="FATAL_RULESET"/>
+			<param expression="${ruleset.error}" name="ERROR_RULESET"/>
+			<param expression="${ruleset.warning}" name="WARNING_RULESET"/>
+			<param expression="dita" name="PATTERN_ROLE"/>
+			<fileset dir="${dita.temp.dir}/dita">
+				<include name="**/*.dita"/>
+				<modified update="true">
+					<param name="cache.cachefile" value="${args.validate.cachefile}"/>
+				</modified>
+			</fileset>
+		</xslt>
+
+		<fileset id="markdown.fileset" dir="${dita.temp.dir}/dita" casesensitive="yes">
+  			<include name="**/*.md"/>
+  			<include name="**/*.mdita"/>
+		</fileset>
+
+		<property name="markdown.files" refid="markdown.fileset"/>
+		<validate-markdown fileset="${markdown.files}" dir="${dita.temp.dir}/dita" todir="${dita.temp.dir}/svrl/dita" />
+	</target>
+
+	<!--
+		Validate Markdown and MDITA files to ensure that they are processable by DITA-OT
+
+		@param fileset - list of files to validate
+		@param dir     - the input dir of the Markdown and MDITA files
+		@param level   - the location to output the SVRL files
+	-->
+	<scriptdef language="javascript" name="validate-markdown">
+		<attribute name="fileset"/>
+		<attribute name="dir"/>
+		<attribute name="todir"/>
+<![CDATA[
+
+var pluginDir =  project.getProperty("basedir");
+var files = attributes.get("fileset").split(';');
+var dir = attributes.get("dir");
+var toDir = attributes.get("todir");
+
+eval('' + org.apache.tools.ant.util.FileUtils.readFully(
+      new java.io.FileReader(pluginDir + '/resource/markdown.js' ) ) );
+
+
+for (var i = 0; i < files.length; i++){
+
+	if (files[i] !== "") {
+		var type = files[i].endsWith('md') ? 'markdown' : 'mdita';
+		var text = org.apache.tools.ant.util.FileUtils.readFully(
+				new java.io.FileReader(dir + '/' + files[i]));
+		var analysis = Markdown.analyseMarkup(text);
+		var svrl = Markdown.validateMarkup(files[i], analysis.headers, type);   
+
+		Markdown.writeSVRL(files[i], svrl, toDir);
+	}
+
+}
+
+]]>
+	</scriptdef>
+</project>

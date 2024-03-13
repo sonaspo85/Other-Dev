@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+<project default="build" name="validator.build" basedir=".">
+	<!--
+		Properties to find the path to dita-ot and the path to the
+		DITA document to build
+	-->
+	<dirname property="dita.dir" file="${ant.file.validator.build}/../../.."/>
+	<property name="dita.exec" value="${dita.dir}/bin/dita"/>
+
+	<dirname property="build.file.dir" file="${ant.file.validator.build}"/>
+	<property name="args.input" value="${build.file.dir}/document.ditamap"/>
+
+	<!--
+		Default target to validate and build HTML and PDF documents
+	-->
+	<target name="build" depends="validate,html,pdf" description="validate document then build HTML and PDF"/>
+
+	<!--
+		Target to build an HTML document
+	-->
+	<target name="html" description="build an HTML document">
+		<!-- For Unix run the DITA executable-->
+		<exec executable="${dita.exec}" failonerror="false" osfamily="unix" >
+			<arg value="-input"/>
+			<arg value="${args.input}"/>
+			<arg value="-output"/>
+			<arg value="${dita.dir}/out/html"/>
+			<arg value="-format"/>
+			<arg value="html5"/>
+			<!-- HTML plugin specific parameters -->
+			<arg value="-Dargs.artlbl=no"/>
+			<arg value="-Dargs.csspath=css"/>
+			<arg value="-Dargs.xhtml.classattr=no"/>
+			<arg value="-Dargs.xhtml.toc=toc"/>
+		</exec>
+		<!-- For Windows run from a DOS command -->
+		<exec executable="cmd" dir="${dita.dir}/bin" failonerror="false" osfamily="windows" outputproperty="dita.ot.output">
+			<arg value="/C"/>
+			<arg value="dita -input ${args.input} -output ${dita.dir}/out/html -format html5 -Dargs.grammar.cache=yes -Dgenerate-debug-attributes=false -Dargs.artlbl=no -Dargs.csspath=css -Dargs.xhtml.classattr=no -Dargs.xhtml.toc=toc"/>
+		</exec>
+	</target>
+
+	<!--
+		Target to build a PDF document
+	-->
+	<target name="pdf" description="build a PDF document">
+		<!-- For Unix run the DITA executable-->
+		<exec executable="${dita.exec}" osfamily="unix" failonerror="true">
+
+			<arg value="-input"/>
+			<arg value="${args.input}"/>
+			<arg value="-output"/>
+			<arg value="${dita.dir}/out/pdf"/>
+			<arg value="-format"/>
+			<arg value="pdf"/>
+			<!-- PDF plugin specific parameters -->
+
+			<arg value="-Dargs.artlbl=no"/>
+			<arg value="-Dpdf.formatter=fop"/>
+		</exec>
+
+		<!-- For Windows run from a DOS command -->
+		<exec executable="cmd" dir="${dita.dir}/bin" osfamily="windows" failonerror="true">
+			<arg value="/C"/>
+			<arg value="dita -input ${args.input} -output ${dita.dir}/out/pdf -format pdf -Dargs.artlbl=no -Dpdf.formatter=fop" />
+		</exec>
+	</target>
+
+
+	<!--
+		Target to validate a document
+	-->
+	<target name="validate" description="validate a document">
+		<exec executable="${dita.exec}" osfamily="unix" failonerror="true">
+			<arg value="-input"/>
+			<arg value="${args.input}"/>
+			<arg value="-output"/>
+			<arg value="${dita.dir}/out/svrl"/>
+			<arg value="-format"/>
+			<arg value="svrl"/>
+			<!-- validation transform specific parameters -->
+			<!-- <arg value="-Dargs.validate.blacklist=(kilo)?metre|colour|teh|seperate"/> -->
+			<arg value="-Dargs.validate.blacklist=(kilo)?metre|teh|seperate"/>
+			<arg value="-Dargs.validate.check.case=Bluetooth|HTTP[S]? |IoT|JSON|Java|Javadoc|JavaScript|XML"/>
+			<arg value="-Dargs.validate.color=true"/>
+		</exec>
+		<!-- For Windows run from a DOS command -->
+		<exec dir="${dita.dir}/bin" executable="cmd" osfamily="windows" failonerror="true">
+			<arg value="/C"/>
+			<arg value="dita -input ${args.input} -output ${dita.dir}/out/svrl -format svrl -Dargs.validate.blacklist=&quot;(kilo)?metre|colour|teh|seperate&quot; -Dargs.validate.check.case=&quot;Bluetooth|HTTP[S]? |IoT|JSON|Java|Javadoc|JavaScript|XML&quot;"/>
+		</exec>
+			
+	</target>
+
+</project>

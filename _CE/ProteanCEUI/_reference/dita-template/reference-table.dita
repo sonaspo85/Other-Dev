@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/preview.css"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--reference topic의 테이블을 작성할 때 사용하는 템플릿 -->
+<reference id=""><!--reference topic id를 입력하세요. -->
+	<title><!-- 제목을 입력하세요. --></title> 
+	<refbody>
+		<section>
+			<table frame="all" outputclass="cell:center"><!-- 모든 셀 가운데 정렬이면 outputclass="cell:center" | 그렇지 않으면 삭제 -->
+			<!-- table 시작 태그, table - tgroup - colspec + - thead - row - entry - tbody - row - entry 구성 -->
+				<tgroup cols="2" colsep="1" rowsep="1">
+					<colspec colname="col1" colwidth="1*"/><!-- 셀의 가로 셀 갯수만큼 추가 colname="col1" 부터 시작 -->
+					<colspec colname="col2" colwidth="1*"/><!-- colwidth는 전체 사이즈 중 해당 셀의 너비 비율 -->
+					<thead><!-- table header, table header는 가운데 정렬 기준 -->
+						<row><!-- row 가로 한줄 단위 -->
+							<entry colname="col1"><!-- entry 셀 한칸 단위, 상단 colspec을 확인하여 colname을 정해줍니다. -->
+								<p>
+									<!-- table header 내용을 입력하세요. -->
+								</p>
+							</entry>
+							<entry colname="col2"><!-- entry 셀 한칸 단위, 상단 colspec을 확인하여 colname을 정해줍니다. -->
+								<p>
+									<!-- table header 내용을 입력하세요. -->
+								</p>
+							</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry><!-- 가운데 정렬이 필요한 경우 align="center"를 추가한다. -->
+								<p>
+									<!-- 셀 내용을 입력하세요. -->
+								</p>
+							</entry>
+							<entry>
+								<p>
+									<!-- 셀 내용을 입력하세요. -->
+								</p>
+							</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+	</refbody>
+</reference>
