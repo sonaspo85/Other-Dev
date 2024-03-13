@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ jgoodies-forms-1.8.0-sources.jar jgoodies-forms-1.8.
+ 0.jar miglayout-src.zip miglayout15-swing.jar icu4j-59_1.jar saxon9.jar
+  saxon9he.jar log4j-1.2.17.jar jsoup-1.14.3.jar saxon9-xqj.jar
+Rsrc-Main-Class: com.Kohyoung.app.Main
+Class-Path: .
+
