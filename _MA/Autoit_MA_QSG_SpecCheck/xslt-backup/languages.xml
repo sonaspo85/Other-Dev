@@ -1,0 +1,2699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<packages>
+		<items lang="Eng" apply="true" exc="">
+			<item id="packagecontents">Package contents</item>
+			<item id="device">Device</item>
+			<item id="usbcable">USB cable</item>
+			<item id="quickstartguide">Quick start guide</item>
+			<item id="ejectionpin">Ejection pin</item>
+			<item id="usbpoweradaptor">USB power adaptor</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Battery</item>
+			<item id="case">Case</item>
+			<item id="protectivecase">Protective Case</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">Wireless charger</item>
+			<item id="earbud_l/r_">Earbud (L/R)</item>
+			<item id="chargingcase">Charging case</item>
+			<item id="eartip_s/m/l_">Ear tip (S/M/L)</item>
+		</items>
+		<items lang="Kor" apply="true" exc="">
+			<item id="packagecontents">구성품</item>
+			<item id="device">제품</item>
+			<item id="usbcable">USB 케이블</item>
+			<item id="quickstartguide">간단 사용 설명서</item>
+			<item id="ejectionpin">분리 핀</item>
+			<item id="usbpoweradaptor">USB 충전 어댑터</item>
+			<item id="spen">N/A</item>
+			<item id="battery">N/A</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">N/A</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">N/A</item>
+			<item id="chargingcase">N/A</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Eng(India)" apply="true" exc="">
+			<item id="packagecontents">Package contents</item>
+			<item id="device">Device</item>
+			<item id="usbcable">USB cable</item>
+			<item id="quickstartguide">Quick start guide</item>
+			<item id="ejectionpin">Ejection pin</item>
+			<item id="usbpoweradaptor">USB power adaptor</item>
+			<item id="spen">N/A</item>
+			<item id="battery">N/A</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">N/A</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">N/A</item>
+			<item id="chargingcase">N/A</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Alb" apply="true" exc="">
+			<item id="packagecontents">Përmbajtjet e paketës</item>
+			<item id="device">Pajisja</item>
+			<item id="usbcable">Kabllo USB</item>
+			<item id="quickstartguide">Udhëzime për një fillim te shpejtë</item>
+			<item id="ejectionpin">Kunja e nxjerrjes</item>
+			<item id="usbpoweradaptor">Karikuesi me USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Bateria</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Kasa mbrojtëse</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">Karikuesi me valë</item>
+			<item id="earbud_l/r_">Kufje veshi (L/R)</item>
+			<item id="chargingcase">Kasë karikimi</item>
+			<item id="eartip_s/m/l_">Maja e veshit (S/M/L)</item>
+		</items>
+		<items lang="Spa(LTN)" apply="true" exc="">
+			<item id="packagecontents">Contenidos de la caja</item>
+			<item id="device">Dispositivo</item>
+			<item id="usbcable">Cable USB</item>
+			<item id="quickstartguide">Guía de inicio rápido</item>
+			<item id="ejectionpin">Llave de extracción</item>
+			<item id="usbpoweradaptor">Adaptador de corriente USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batería</item>
+			<item id="case">Funda</item>
+			<item id="protectivecase">Estuche protector</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">Cargador inalámbrico</item>
+			<item id="earbud_l/r_">Auricular (L/R)</item>
+			<item id="chargingcase">Estuche de carga</item>
+			<item id="eartip_s/m/l_">Punta de auricular (S/M/L)</item>
+		</items>
+		<items lang="Ara" apply="true" exc="">
+			<item id="packagecontents">محتويات العبوة</item>
+			<item id="device">الجهاز</item>
+			<item id="usbcable">كابل USB</item>
+			<item id="quickstartguide">دليل التشغيل السريع</item>
+			<item id="ejectionpin">دبوس الإخراج</item>
+			<item id="usbpoweradaptor">مهايئ طاقة USB</item>
+			<item id="spen">قلم S</item>
+			<item id="battery">البطارية</item>
+			<item id="case">غطاء</item>
+			<item id="protectivecase">غطاء وقائي</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">الشاحن اللاسلكي</item>
+			<item id="earbud_l/r_">سماعة الأذن (L/R)</item>
+			<item id="chargingcase">علبة الشحن</item>
+			<item id="eartip_s/m/l_">وسادة الأذن (صغيرة/متوسطة/كبيرة)</item>
+		</items>
+		<items lang="Aze" apply="true" exc="">
+			<item id="packagecontents">Qutunun içindəkilər</item>
+			<item id="device">Cihaz</item>
+			<item id="usbcable">USB naqil</item>
+			<item id="quickstartguide">Qısa təlimat</item>
+			<item id="ejectionpin">SIM kartın çıxarılması üçün sancaq</item>
+			<item id="usbpoweradaptor">USB enerji adapteri</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batareya</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">N/A</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">N/A</item>
+			<item id="chargingcase">N/A</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Ben" apply="true" exc="">
+			<item id="packagecontents">প্যাকেজের বিষয়বস্তু</item>
+			<item id="device">ডিভাইস</item>
+			<item id="usbcable">USB ক্যাবল</item>
+			<item id="quickstartguide">দ্রুত শুরুর নির্দেশিকা</item>
+			<item id="ejectionpin">সিম বের করার পিন</item>
+			<item id="usbpoweradaptor">USB পাওয়ার অ্যাডাপ্টার</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">ব্যাটারি</item>
+			<item id="case">কেস</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">ওয়্যারলেস চার্জার</item>
+			<item id="earbud_l/r_">ইয়ারবাড (L/R)</item>
+			<item id="chargingcase">চার্জিং কেস0</item>
+			<item id="eartip_s/m/l_">ইয়ার টিপ (S/M/L)</item>
+		</items>
+		<items lang="Bul" apply="true" exc="">
+			<item id="packagecontents">Съдържание на пакета</item>
+			<item id="device">Устройство</item>
+			<item id="usbcable">USB кабел</item>
+			<item id="quickstartguide">Кратко ръководство</item>
+			<item id="ejectionpin">Щифт за изваждане</item>
+			<item id="usbpoweradaptor">USB захранващ адаптер</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Батерия</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Предпазен калъф</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">безжично зарядно устройство</item>
+			<item id="earbud_l/r_">Слушалка (L/R)</item>
+			<item id="chargingcase">Калъф за зареждане</item>
+			<item id="eartip_s/m/l_">Накрайник за ухо (S/M/L)</item>
+		</items>
+		<items lang="Mya" apply="true" exc="">
+			<item id="packagecontents">ထုပ္ပိုးမႈ အခ်က္အလက္မ်ား</item>
+			<item id="device">Device</item>
+			<item id="usbcable">USB ႀကိဳး</item>
+			<item id="quickstartguide">အျမန္ စတင္အသံုးျပဳလမ္းညႊန္</item>
+			<item id="ejectionpin">ကတ္ထုတ္ရန္ ပင္</item>
+			<item id="usbpoweradaptor">USB ပါဝါ အဒပ္တာ</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">ဘက္ထရီ</item>
+			<item id="case">ဖုန္းကာဗာ</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">ႀကိဳးမဲ့အားသြင္းစက္</item>
+			<item id="earbud_l/r_">နားၾကပ္ (L/R)</item>
+			<item id="chargingcase">အားသြင္းဘူး</item>
+			<item id="eartip_s/m/l_">နားၾကပ္ထိပ္ (ဆုိဒ္ေသး၊အလတ္၊အႀကီး)</item>
+		</items>
+		<items lang="Hrv" apply="true" exc="">
+			<item id="packagecontents">Sadržaj pakiranja</item>
+			<item id="device">Uređaj</item>
+			<item id="usbcable">USB kabel</item>
+			<item id="quickstartguide">Kratke upute</item>
+			<item id="ejectionpin">Iglica za izbacivanje</item>
+			<item id="usbpoweradaptor">USB punjač</item>
+			<item id="spen">S olovka</item>
+			<item id="battery">Baterija</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Zaštitno kućište</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">punjač za bežično punjenje</item>
+			<item id="earbud_l/r_">Slušalica (L/R)</item>
+			<item id="chargingcase">Kutija za punjenje</item>
+			<item id="eartip_s/m/l_">Slušalica (S/M/L)</item>
+		</items>
+		<items lang="Cze" apply="true" exc="">
+			<item id="packagecontents">Obsah balení</item>
+			<item id="device">Zařízení</item>
+			<item id="usbcable">Kabel USB</item>
+			<item id="quickstartguide">Průvodce rychlým spuštěním</item>
+			<item id="ejectionpin">Kolíček na vysunutí</item>
+			<item id="usbpoweradaptor">Napájecí adaptér USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Baterie</item>
+			<item id="case">Pouzdro</item>
+			<item id="protectivecase">Ochranné pouzdro</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">bezdrátová nabíječka</item>
+			<item id="earbud_l/r_">Ušní nástavec (L/R)</item>
+			<item id="chargingcase">Nabíjecí pouzdro</item>
+			<item id="eartip_s/m/l_">Ušní koncovka (malá/střední/velká)</item>
+		</items>
+		<items lang="Dan" apply="true" exc="">
+			<item id="packagecontents">Pakkens indhold</item>
+			<item id="device">Enhed</item>
+			<item id="usbcable">USB-kabel</item>
+			<item id="quickstartguide">Hurtigstart</item>
+			<item id="ejectionpin">Udskubningsstift</item>
+			<item id="usbpoweradaptor">USB-strømadapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batteri</item>
+			<item id="case">Æske</item>
+			<item id="protectivecase">Beskyttelsesetui</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">trådløs oplader</item>
+			<item id="earbud_l/r_">Øretelefon (L/R)</item>
+			<item id="chargingcase">Opladeræske</item>
+			<item id="eartip_s/m/l_">Ørepudespids (S/M/L)</item>
+		</items>
+		<items lang="Dut" apply="true" exc="">
+			<item id="packagecontents">Inhoud van de verpakking</item>
+			<item id="device">Apparaat</item>
+			<item id="usbcable">USB-kabel</item>
+			<item id="quickstartguide">Snelstartgids</item>
+			<item id="ejectionpin">Pin voor uitwerpen</item>
+			<item id="usbpoweradaptor">USB-voedingsadapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batterij</item>
+			<item id="case">Hoesje</item>
+			<item id="protectivecase">Beschermhoes</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">draadloze oplader</item>
+			<item id="earbud_l/r_">Oortje (L/R)</item>
+			<item id="chargingcase">Oplaaddoosje</item>
+			<item id="eartip_s/m/l_">Oordop (S/M/L)</item>
+		</items>
+		<items lang="Est" apply="true" exc="">
+			<item id="packagecontents">Pakendi sisu</item>
+			<item id="device">Seade</item>
+			<item id="usbcable">USB-kaabel</item>
+			<item id="quickstartguide">Kiirjuhend</item>
+			<item id="ejectionpin">Väljutustihvt</item>
+			<item id="usbpoweradaptor">USB-toiteadapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Aku</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Kaitsev ümbris</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">juhtmevaba laadur</item>
+			<item id="earbud_l/r_">Kõrvakuular (L/R)</item>
+			<item id="chargingcase">Laadimiskorpus</item>
+			<item id="eartip_s/m/l_">Kõrvaots (S/M/L)</item>
+		</items>
+		<items lang="Far" apply="true" exc="">
+			<item id="packagecontents">محتویات جعبه محصول</item>
+			<item id="device">دستگاه</item>
+			<item id="usbcable">کابل USB</item>
+			<item id="quickstartguide">دفترچه راهنما</item>
+			<item id="ejectionpin">پین بیرون آورنده</item>
+			<item id="usbpoweradaptor">آداپتور برق USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">باتری</item>
+			<item id="case">جلد</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">شارژ بی سیم</item>
+			<item id="earbud_l/r_">ایرباد (L/R)</item>
+			<item id="chargingcase">محفظه شارژ</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Fin" apply="true" exc="">
+			<item id="packagecontents">Pakkauksen sisältö</item>
+			<item id="device">Laite</item>
+			<item id="usbcable">USB-kaapeli</item>
+			<item id="quickstartguide">Pikaopas</item>
+			<item id="ejectionpin">Poistotyökalu</item>
+			<item id="usbpoweradaptor">USB-virtasovitin</item>
+			<item id="spen">S Pen -kynä</item>
+			<item id="battery">Akku</item>
+			<item id="case">Kotelo</item>
+			<item id="protectivecase">Suojakotelo</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">langaton laturi</item>
+			<item id="earbud_l/r_">Nappikuuloke (L/R)</item>
+			<item id="chargingcase">Latauskotelo</item>
+			<item id="eartip_s/m/l_">Korvapehmuste (pienet/keskikokoiset/suuret)</item>
+		</items>
+		<items lang="Fre" apply="true" exc="">
+			<item id="packagecontents">Contenu du coffret</item>
+			<item id="device">Appareil</item>
+			<item id="usbcable">Câble USB</item>
+			<item id="quickstartguide">Guide de prise en main rapide</item>
+			<item id="ejectionpin">Outil de retrait</item>
+			<item id="usbpoweradaptor">Adaptateur de charge USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batterie</item>
+			<item id="case">Coque</item>
+			<item id="protectivecase">Boîtier de protection</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">chargeur sans fil</item>
+			<item id="earbud_l/r_">Mini-oreillette (L / R)</item>
+			<item id="chargingcase">Étui de chargement</item>
+			<item id="eartip_s/m/l_">Embout (S / M / L)</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="packagecontents">Contenu du coffret</item>
+			<item id="device">Appareil</item>
+			<item id="usbcable">Câble USB</item>
+			<item id="quickstartguide">Guide de prise en main rapide</item>
+			<item id="ejectionpin">Outil de retrait</item>
+			<item id="usbpoweradaptor">Adaptateur de charge USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batterie</item>
+			<item id="case">Coque</item>
+			<item id="protectivecase">Boîtier de protection</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">chargeur sans fil</item>
+			<item id="earbud_l/r_">Mini-oreillette (L / R)</item>
+			<item id="chargingcase">Étui de chargement</item>
+			<item id="eartip_s/m/l_">Embout (S / M / L)</item>
+		</items>
+		<items lang="Geo" apply="true" exc="">
+			<item id="packagecontents">შეფუთვის შიგთავსი</item>
+			<item id="device">მოწყობილობა</item>
+			<item id="usbcable">USB სადენი</item>
+			<item id="quickstartguide">სწრაფი დაწყების სახელმძღვანელო</item>
+			<item id="ejectionpin">გასაღები ქინძისთავი</item>
+			<item id="usbpoweradaptor">USB კვების გადამყვანი</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">აკუმულატორი</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">N/A</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">N/A</item>
+			<item id="chargingcase">N/A</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Ger" apply="true" exc="">
+			<item id="packagecontents">Lieferumfang</item>
+			<item id="device">Gerät</item>
+			<item id="usbcable">USB-Kabel</item>
+			<item id="quickstartguide">Kurzanleitung</item>
+			<item id="ejectionpin">Steckplatzwerkzeug</item>
+			<item id="usbpoweradaptor">USB-Netzteil</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Akku</item>
+			<item id="case">Etui</item>
+			<item id="protectivecase">Protective Cover+</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">induktive Ladestation</item>
+			<item id="earbud_l/r_">Ohrhörer (L/R)</item>
+			<item id="chargingcase">Ladeetui</item>
+			<item id="eartip_s/m/l_">Ohrpolster (S/M/L)</item>
+		</items>
+		<items lang="Gre" apply="true" exc="">
+			<item id="packagecontents">Περιεχόμενα συσκευασίας</item>
+			<item id="device">Συσκευή</item>
+			<item id="usbcable">Καλώδιο USB</item>
+			<item id="quickstartguide">Οδηγός γρήγορης εκκίνησης</item>
+			<item id="ejectionpin">Εξάρτημα εξαγωγής</item>
+			<item id="usbpoweradaptor">Μετασχηματιστής ρεύματος USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Μπαταρία</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Προστατευτική θήκη</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">ασύρματος φορτιστής</item>
+			<item id="earbud_l/r_">Ακουστικό (L/R)</item>
+			<item id="chargingcase">Θήκη φόρτισης</item>
+			<item id="eartip_s/m/l_">Άκρο ακουστικού (S/M/L)</item>
+		</items>
+		<items lang="Heb" apply="true" exc="">
+			<item id="packagecontents">תכולת האריזה</item>
+			<item id="device">מכשיר</item>
+			<item id="usbcable">כבל USB</item>
+			<item id="quickstartguide">מדריך התחלה מהירה</item>
+			<item id="ejectionpin">סיכת שליפה</item>
+			<item id="usbpoweradaptor">מתאם מתח USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">סוללה</item>
+			<item id="case">נרתיק</item>
+			<item id="protectivecase">מעטפת הגנה</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">מטען אלחוטי</item>
+			<item id="earbud_l/r_">אוזניה (L/R)</item>
+			<item id="chargingcase">מארז טעינה</item>
+			<item id="eartip_s/m/l_">קצה אוזן (S/M/L)</item>
+		</items>
+		<items lang="Hin" apply="true" exc="">
+			<item id="packagecontents">पैकेज सामग्री</item>
+			<item id="device">डिवाइस</item>
+			<item id="usbcable">USB केबल</item>
+			<item id="quickstartguide">क्विक स्टार्ट गाइड</item>
+			<item id="ejectionpin">इजेक्शन पिन</item>
+			<item id="usbpoweradaptor">USB पावर एडॉप्टर</item>
+			<item id="spen">S पेन</item>
+			<item id="battery">बैटरी</item>
+			<item id="case">केस</item>
+			<item id="protectivecase">सुरक्षात्मक केस</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">वायरलेस चाजर्र</item>
+			<item id="earbud_l/r_">ईयरबड (बायाँ/दायाँ)</item>
+			<item id="chargingcase">चार्जिंग केस</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="HongKong" apply="true" exc="">
+			<item id="packagecontents">包裝內容</item>
+			<item id="device">裝置</item>
+			<item id="usbcable">USB 纜線</item>
+			<item id="quickstartguide">快速入門指南</item>
+			<item id="ejectionpin">取卡針</item>
+			<item id="usbpoweradaptor">USB 電源轉接器</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">電池</item>
+			<item id="case">保護殼</item>
+			<item id="protectivecase">保護套</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">無線充電器</item>
+			<item id="earbud_l/r_">耳機 (L/R)</item>
+			<item id="chargingcase">充電盒</item>
+			<item id="eartip_s/m/l_">耳塞 (小/中/大)</item>
+		</items>
+		<items lang="Hun" apply="true" exc="">
+			<item id="packagecontents">Az értékesítési doboz tartalma</item>
+			<item id="device">Készülék</item>
+			<item id="usbcable">USB-kábel</item>
+			<item id="quickstartguide">Rövid kezelési útmutató</item>
+			<item id="ejectionpin">Nyitótű</item>
+			<item id="usbpoweradaptor">USB töltő adapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Akkumulátor</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Védőtok</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">vezeték nélküli töltő</item>
+			<item id="earbud_l/r_">Füldugó (L/R)</item>
+			<item id="chargingcase">Töltőtok</item>
+			<item id="eartip_s/m/l_">Füldugópárna (S/M/L)</item>
+		</items>
+		<items lang="Ind" apply="true" exc="">
+			<item id="packagecontents">Isi paket</item>
+			<item id="device">Perangkat</item>
+			<item id="usbcable">Kabel USB</item>
+			<item id="quickstartguide">Panduan Singkat</item>
+			<item id="ejectionpin">Pin ejektor</item>
+			<item id="usbpoweradaptor">Adaptor daya USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Baterai</item>
+			<item id="case">Casing</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">charger nirkabel</item>
+			<item id="earbud_l/r_">Earbud (L/R)</item>
+			<item id="chargingcase">Casing pengisian daya</item>
+			<item id="eartip_s/m/l_">Ear tip (S/M/L)</item>
+		</items>
+		<items lang="Ita" apply="true" exc="">
+			<item id="packagecontents">Contenuto della confezione</item>
+			<item id="device">Dispositivo</item>
+			<item id="usbcable">Cavo USB</item>
+			<item id="quickstartguide">Guida di riferimento rapido</item>
+			<item id="ejectionpin">Estrattore metallico</item>
+			<item id="usbpoweradaptor">Alimentatore USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batteria</item>
+			<item id="case">Custodia</item>
+			<item id="protectivecase">Custodia protettiva</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">caricabatteria wireless</item>
+			<item id="earbud_l/r_">Auricolare (L/R)</item>
+			<item id="chargingcase">Custodia di ricarica</item>
+			<item id="eartip_s/m/l_">Gommino auricolare (S/M/L)</item>
+		</items>
+		<items lang="Kaz" apply="true" exc="">
+			<item id="packagecontents">Орама құрамы</item>
+			<item id="device">Құрылғы</item>
+			<item id="usbcable">USB кабелі</item>
+			<item id="quickstartguide">Жылдам бастау нұсқаулығы</item>
+			<item id="ejectionpin">Шығару істігі</item>
+			<item id="usbpoweradaptor">USB қуат адаптері</item>
+			<item id="spen">S қаламы</item>
+			<item id="battery">Батарея</item>
+			<item id="case">Тыс</item>
+			<item id="protectivecase">Қорғаныс корпусы</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">сымсыз зарядтағыш</item>
+			<item id="earbud_l/r_">Салынбалы құлаққап (L/R)</item>
+			<item id="chargingcase">Зарядтау корпусы</item>
+			<item id="eartip_s/m/l_">Құлаққап ұшы (шағын, орта, үлкен)</item>
+		</items>
+		<items lang="Khm" apply="true" exc="">
+			<item id="packagecontents">របស់​មាន​នៅក្នុង​ប្រអប់</item>
+			<item id="device">ឧបករណ៍</item>
+			<item id="usbcable">ខ្សែ USB</item>
+			<item id="quickstartguide">មគ្គទេសក៍​ចាប់ផ្ដើម​រហ័ស</item>
+			<item id="ejectionpin">ម្ជុលបញ្ចេញស្ពក</item>
+			<item id="usbpoweradaptor">ដុំសាកថាមពល USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">ថ្ម</item>
+			<item id="case">សំបក</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">គ្រឿងសាក​ឥតខ្សែ</item>
+			<item id="earbud_l/r_">កាស (L/R)</item>
+			<item id="chargingcase">ប្រអប់​សាក</item>
+			<item id="eartip_s/m/l_">ចុង​កាស​ពាក់​ជាប់​ត្រចៀក (S/M/L)</item>
+		</items>
+		<items lang="Lao" apply="true" exc="">
+			<item id="packagecontents">ເນື້ອໃນແພັກເກດ</item>
+			<item id="device">ອຸປະກອນ</item>
+			<item id="usbcable">ສາຍ USB</item>
+			<item id="quickstartguide">ຄຳແນະນຳເລີ່ມຕົ້ນໂດຍຫຍໍ້</item>
+			<item id="ejectionpin">ໝຸດຖອດຖາດຊິມ</item>
+			<item id="usbpoweradaptor">ຫົວສາກ USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">ແບັດເຕີຣີ</item>
+			<item id="case">ເຄສ</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">N/A</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">N/A</item>
+			<item id="chargingcase">N/A</item>
+			<item id="eartip_s/m/l_">N/A</item>
+		</items>
+		<items lang="Lav" apply="true" exc="">
+			<item id="packagecontents">Komplekta saturs</item>
+			<item id="device">Ierīce</item>
+			<item id="usbcable">USB kabelis</item>
+			<item id="quickstartguide">Īsā lietošanas pamācība</item>
+			<item id="ejectionpin">Izstumšanas adata</item>
+			<item id="usbpoweradaptor">USB strāvas adapteris</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Akumulators</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Aizsargapvalks</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">bezvadu lādētājs</item>
+			<item id="earbud_l/r_">Ieausis (L/R)</item>
+			<item id="chargingcase">Uzlādes ietvars</item>
+			<item id="eartip_s/m/l_">Ieauša uzgalis (S/M/L)</item>
+		</items>
+		<items lang="Lit" apply="true" exc="">
+			<item id="packagecontents">Komplekto turinys</item>
+			<item id="device">Prietaisas</item>
+			<item id="usbcable">USB laidas</item>
+			<item id="quickstartguide">Trumpasis darbo pradžios vadovas</item>
+			<item id="ejectionpin">Išstūmimo kaištis</item>
+			<item id="usbpoweradaptor">USB galios adapteris</item>
+			<item id="spen">„S Pen“ rašiklis</item>
+			<item id="battery">Akumuliatorius</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Apsauginis dėklas</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">belaidis įkroviklis</item>
+			<item id="earbud_l/r_">Ausinė (L / R)</item>
+			<item id="chargingcase">Įkrovimo dėklas</item>
+			<item id="eartip_s/m/l_">Ausinės antgalis (S / M / L)</item>
+		</items>
+		<items lang="Mac" apply="true" exc="">
+			<item id="packagecontents">Содржина на пакетот</item>
+			<item id="device">Уред</item>
+			<item id="usbcable">USB-кабел</item>
+			<item id="quickstartguide">Брз водич за употреба</item>
+			<item id="ejectionpin">Игла за исфрлање</item>
+			<item id="usbpoweradaptor">USB адаптер</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Батерија</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Заштитната футрола</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">безжичен полнач</item>
+			<item id="earbud_l/r_">Мали ушни слушалки (L/R)</item>
+			<item id="chargingcase">Кутија за полнење</item>
+			<item id="eartip_s/m/l_">Врв на слушалката (М/С/Г)</item>
+		</items>
+		<items lang="Mon" apply="true" exc="">
+			<item id="packagecontents">Багцын агуулгууд</item>
+			<item id="device">Төхөөрөмж</item>
+			<item id="usbcable">USB кабель</item>
+			<item id="quickstartguide">Товч заавар</item>
+			<item id="ejectionpin">Хатгуур</item>
+			<item id="usbpoweradaptor">USB тэжээлийн адаптер</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Зай</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Хамгаалах гэр</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">утасгүй цэнэглэгч</item>
+			<item id="earbud_l/r_">Утасгүй чихэвч (L/R)</item>
+			<item id="chargingcase">Цэнэглэх хайрцаг</item>
+			<item id="eartip_s/m/l_">Зөөлөвч (S/M/L)</item>
+		</items>
+		<items lang="Nor" apply="true" exc="">
+			<item id="packagecontents">Innhold i produktesken</item>
+			<item id="device">Enhet</item>
+			<item id="usbcable">USB-kabel</item>
+			<item id="quickstartguide">Hurtigstartveiledning</item>
+			<item id="ejectionpin">Utløsernål</item>
+			<item id="usbpoweradaptor">USB-strømadapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batteri</item>
+			<item id="case">Deksel</item>
+			<item id="protectivecase">Beskyttende futteral</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">trådløs lader</item>
+			<item id="earbud_l/r_">Øreplugg (L/R)</item>
+			<item id="chargingcase">Ladeeske</item>
+			<item id="eartip_s/m/l_">Øretupp (S/M/L)</item>
+		</items>
+		<items lang="Pol" apply="true" exc="">
+			<item id="packagecontents">Zawartość opakowania</item>
+			<item id="device">Urządzenie</item>
+			<item id="usbcable">Kabel USB</item>
+			<item id="quickstartguide">Instrukcja obsługi</item>
+			<item id="ejectionpin">Szpilka do wyjmowania karty SIM</item>
+			<item id="usbpoweradaptor">Zasilacz USB</item>
+			<item id="spen">Rysik S Pen</item>
+			<item id="battery">Bateria</item>
+			<item id="case">Etui</item>
+			<item id="protectivecase">Etui ochronne</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">ładowarka bezprzewodowa</item>
+			<item id="earbud_l/r_">Słuchawki dokanałowe (L/R)</item>
+			<item id="chargingcase">Etui do ładowania</item>
+			<item id="eartip_s/m/l_">Wkładki do uszu (S/M/L)</item>
+		</items>
+		<items lang="Por" apply="true" exc="">
+			<item id="packagecontents">Conteúdo da embalagem</item>
+			<item id="device">Dispositivo</item>
+			<item id="usbcable">Cabo USB</item>
+			<item id="quickstartguide">Manual de consulta rápida</item>
+			<item id="ejectionpin">Clipe de ejeção</item>
+			<item id="usbpoweradaptor">Carregador</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Bateria</item>
+			<item id="case">Capa</item>
+			<item id="protectivecase">Capa de proteção</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">carregador sem fios</item>
+			<item id="earbud_l/r_">Auscultador (L/R)</item>
+			<item id="chargingcase">Caixa de carregamento</item>
+			<item id="eartip_s/m/l_">Adaptador de ouvido (S/M/L)</item>
+		</items>
+		<items lang="Rum" apply="true" exc="">
+			<item id="packagecontents">Conținut pachet</item>
+			<item id="device">Dispozitiv</item>
+			<item id="usbcable">Cablu USB</item>
+			<item id="quickstartguide">Ghid de pornire rapidă</item>
+			<item id="ejectionpin">Agrafă de îndepărtare</item>
+			<item id="usbpoweradaptor">Încărcător USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Baterie</item>
+			<item id="case">Carcasă</item>
+			<item id="protectivecase">Husă de protecție</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">încărcător wireless</item>
+			<item id="earbud_l/r_">Cască intraauriculară (L/R)</item>
+			<item id="chargingcase">Casetă de încărcare</item>
+			<item id="eartip_s/m/l_">Pernuță cască intraauriculară (mic/mediu/mare)</item>
+		</items>
+		<items lang="Rus" apply="true" exc="">
+			<item id="packagecontents">Комплект поставки</item>
+			<item id="device">Устройство</item>
+			<item id="usbcable">Кабель USB</item>
+			<item id="quickstartguide">Краткое руководство</item>
+			<item id="ejectionpin">Штифт для извлечения</item>
+			<item id="usbpoweradaptor">USB-адаптер питания</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Аккумулятор</item>
+			<item id="case">Чехол</item>
+			<item id="protectivecase">Защитный чехол</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">беспроводное зарядное устройство</item>
+			<item id="earbud_l/r_">Наушники (L/R)</item>
+			<item id="chargingcase">Футляр-аккумулятор</item>
+			<item id="eartip_s/m/l_">Амбушюры (малый/средний/большой)</item>
+		</items>
+		<items lang="Srp" apply="true" exc="">
+			<item id="packagecontents">Sadržaj pakovanja</item>
+			<item id="device">Uređaj</item>
+			<item id="usbcable">USB kabl</item>
+			<item id="quickstartguide">Kratko uputstvo za upotrebu</item>
+			<item id="ejectionpin">Iglica za izbacivanje</item>
+			<item id="usbpoweradaptor">USB adapter za napajanje</item>
+			<item id="spen">S olovka</item>
+			<item id="battery">Baterija</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Zaštitno kućište</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">bežični punjač</item>
+			<item id="earbud_l/r_">Bubica (L/R)</item>
+			<item id="chargingcase">Kućište za punjenje</item>
+			<item id="eartip_s/m/l_">Bubica (M/S/V)</item>
+		</items>
+		<items lang="Chi" apply="true" exc="">
+			<item id="packagecontents">包装内容</item>
+			<item id="device">设备</item>
+			<item id="usbcable">USB 数据线</item>
+			<item id="quickstartguide">使用说明书</item>
+			<item id="ejectionpin">卡针</item>
+			<item id="usbpoweradaptor">USB 电源适配器</item>
+			<item id="spen">S 触控笔</item>
+			<item id="battery">电池</item>
+			<item id="case">保护壳</item>
+			<item id="protectivecase">保护壳</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">无线充电器</item>
+			<item id="earbud_l/r_">耳塞 (L/R)</item>
+			<item id="chargingcase">充电保护盒</item>
+			<item id="eartip_s/m/l_">耳塞梢 (小/中/大)</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="true" exc="">
+			<item id="packagecontents">包装内容</item>
+			<item id="device">设备</item>
+			<item id="usbcable">USB 数据线</item>
+			<item id="quickstartguide">快速入门指南</item>
+			<item id="ejectionpin">取卡针</item>
+			<item id="usbpoweradaptor">USB 电源适配器</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">电池</item>
+			<item id="case">手机壳</item>
+			<item id="protectivecase">防护盒</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">无线充电器</item>
+			<item id="earbud_l/r_">耳塞 (L/R)</item>
+			<item id="chargingcase">充电盒</item>
+			<item id="eartip_s/m/l_">耳尖 (小/中/大)</item>
+		</items>
+		<items lang="Slovak" apply="true" exc="">
+			<item id="packagecontents">Obsah balenia</item>
+			<item id="device">Zariadenie</item>
+			<item id="usbcable">USB kábel</item>
+			<item id="quickstartguide">Stručná príručka</item>
+			<item id="ejectionpin">Kolík na vysúvanie</item>
+			<item id="usbpoweradaptor">Nabíjací adaptér USB</item>
+			<item id="spen">Pero S Pen</item>
+			<item id="battery">Batéria</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Ochranný obal</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">bezdrôtová nabíjačka</item>
+			<item id="earbud_l/r_">Slúchadlo (L/R)</item>
+			<item id="chargingcase">Nabíjacie puzdro</item>
+			<item id="eartip_s/m/l_">Ušný nadstavec (S (malé)/M (stredne veľké)/L (veľké))</item>
+		</items>
+		<items lang="Slovenian" apply="true" exc="">
+			<item id="packagecontents">Vsebina paketa</item>
+			<item id="device">Naprava</item>
+			<item id="usbcable">Kabel USB</item>
+			<item id="quickstartguide">Navodila za hitri začetek</item>
+			<item id="ejectionpin">Zatič za izmet</item>
+			<item id="usbpoweradaptor">Napajalnik USB</item>
+			<item id="spen">Pisalo S Pen</item>
+			<item id="battery">Baterija</item>
+			<item id="case">N/A</item>
+			<item id="protectivecase">Zaščitno ohišje</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">brezžični napajalnik</item>
+			<item id="earbud_l/r_">Slušalka (L/R)</item>
+			<item id="chargingcase">Ohišje za polnjenje</item>
+			<item id="eartip_s/m/l_">Ušesni nastavek (S/M/L)</item>
+		</items>
+		<items lang="Spa" apply="true" exc="">
+			<item id="packagecontents">Contenido de la caja</item>
+			<item id="device">Dispositivo</item>
+			<item id="usbcable">Cable USB</item>
+			<item id="quickstartguide">Guía de inicio rápido</item>
+			<item id="ejectionpin">Anilla de extracción</item>
+			<item id="usbpoweradaptor">Adaptador de alimentación USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batería</item>
+			<item id="case">Funda</item>
+			<item id="protectivecase">Funda protectora</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">cargador inalámbrico</item>
+			<item id="earbud_l/r_">Auricular (L/R)</item>
+			<item id="chargingcase">Funda de carga</item>
+			<item id="eartip_s/m/l_">Adaptador para el oído (3 juegos, S/M/L)</item>
+		</items>
+		<items lang="Swe" apply="true" exc="">
+			<item id="packagecontents">Förpackningens innehåll</item>
+			<item id="device">Enhet</item>
+			<item id="usbcable">USB-kabel</item>
+			<item id="quickstartguide">Snabbstartsguide</item>
+			<item id="ejectionpin">Utmatningsverktyg</item>
+			<item id="usbpoweradaptor">USB-strömadapter</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batteri</item>
+			<item id="case">Fodral</item>
+			<item id="protectivecase">Skyddsskal</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">trådlös laddare</item>
+			<item id="earbud_l/r_">Öronsnäcka (L/R)</item>
+			<item id="chargingcase">Laddningsfodral</item>
+			<item id="eartip_s/m/l_">Öronplugg (S/M/L)</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="true" exc="">
+			<item id="packagecontents">包裝內容</item>
+			<item id="device">裝置</item>
+			<item id="usbcable">USB 傳輸線</item>
+			<item id="quickstartguide">快速入門指南</item>
+			<item id="ejectionpin">取卡針</item>
+			<item id="usbpoweradaptor">USB 電源轉接器</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">電池</item>
+			<item id="case">保護殼</item>
+			<item id="protectivecase">N/A</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">無線充電器</item>
+			<item id="earbud_l/r_">耳塞 (L/R)</item>
+			<item id="chargingcase">充電盒</item>
+			<item id="eartip_s/m/l_">耳機套 (S/M/L)</item>
+		</items>
+		<items lang="Tha" apply="true" exc="">
+			<item id="packagecontents">อุปกรณ์ในชุดผลิตภัณฑ์</item>
+			<item id="device">เครื่อง</item>
+			<item id="usbcable">สาย USB</item>
+			<item id="quickstartguide">คู่มือการเริ่มต้นใช้งานแบบด่วน</item>
+			<item id="ejectionpin">สลักปลด</item>
+			<item id="usbpoweradaptor">ตัวแปลงไฟผ่าน USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">แบตเตอรี่</item>
+			<item id="case">ซอง</item>
+			<item id="protectivecase">กรอบกันกระแทก</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">N/A</item>
+			<item id="earbud_l/r_">หูฟังเอียบัด (L/R)</item>
+			<item id="chargingcase">กล่องชาร์จ</item>
+			<item id="eartip_s/m/l_">ยางส่วนปลายของหูฟัง (เล็ก/กลาง/ใหญ่)</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="packagecontents">Paket içindekiler</item>
+			<item id="device">Cihaz</item>
+			<item id="usbcable">USB kablosu</item>
+			<item id="quickstartguide">Hızlı Başlangıç Kılavuzu</item>
+			<item id="ejectionpin">Çıkarma pimi</item>
+			<item id="usbpoweradaptor">USB güç adaptörü</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Pil</item>
+			<item id="case">Kılıf</item>
+			<item id="protectivecase">Koruyucu kılıf</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">kablosuz şarj cihazı</item>
+			<item id="earbud_l/r_">Kulaklık (L/R)</item>
+			<item id="chargingcase">Şarj kutusu</item>
+			<item id="eartip_s/m/l_">Kulaklık ucu (S/M/L)</item>
+		</items>
+		<items lang="Ukr" apply="true" exc="">
+			<item id="packagecontents">Комплектація</item>
+			<item id="device">Пристрій</item>
+			<item id="usbcable">Кабель USB</item>
+			<item id="quickstartguide">Короткий посібник користувача</item>
+			<item id="ejectionpin">Штифт для вилучення</item>
+			<item id="usbpoweradaptor">Блок живлення USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Акумулятор</item>
+			<item id="case">Чохол</item>
+			<item id="protectivecase">Захисний чохол</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">безпроводовий зарядний пристрій</item>
+			<item id="earbud_l/r_">Вкладний навушник (L/R)</item>
+			<item id="chargingcase">Зарядний футляр</item>
+			<item id="eartip_s/m/l_">Вкладиш у вухо (малий, середній, великий)</item>
+		</items>
+		<items lang="Urd" apply="true" exc="">
+			<item id="packagecontents">پیکیج کا مواد</item>
+			<item id="device">آلہ</item>
+			<item id="usbcable">USB کیبل</item>
+			<item id="quickstartguide">فوری شروع کرنے کا گائیڈ</item>
+			<item id="ejectionpin">اخراج کی پن</item>
+			<item id="usbpoweradaptor">‏USB پاور اڈاپٹر</item>
+			<item id="spen">S قلم</item>
+			<item id="battery">بیٹری</item>
+			<item id="case">کيس</item>
+			<item id="protectivecase">حفاظتی خول</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">بغیر تار چارجر</item>
+			<item id="earbud_l/r_">ایئربڈ (L/R)</item>
+			<item id="chargingcase">چارجنگ کیس</item>
+			<item id="eartip_s/m/l_">کان پوش (چھوٹا/درمیانہ/بڑا)</item>
+		</items>
+		<items lang="Uzb" apply="true" exc="">
+			<item id="packagecontents">O‘ram tarkibi</item>
+			<item id="device">Qurilma</item>
+			<item id="usbcable">USB-kabel</item>
+			<item id="quickstartguide">Foydalanuvchi uchun qisqa qo‘llanma</item>
+			<item id="ejectionpin">Chiqarib olish ignasi</item>
+			<item id="usbpoweradaptor">USB-quvvat adapteri</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Batareya</item>
+			<item id="case">Qopqoq</item>
+			<item id="protectivecase">Himoya qoplamasi</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">simsiz zaryadlash qurilmasi</item>
+			<item id="earbud_l/r_">Quloqlik (L/R)</item>
+			<item id="chargingcase">Zaryadlash g‘ilofi</item>
+			<item id="eartip_s/m/l_">Ambushyur (kichik/o‘rta/katta)</item>
+		</items>
+		<items lang="Vie" apply="true" exc="">
+			<item id="packagecontents">Phụ kiện trong hộp</item>
+			<item id="device">Thiết bị</item>
+			<item id="usbcable">Cáp USB</item>
+			<item id="quickstartguide">Hướng dẫn sử dụng nhanh</item>
+			<item id="ejectionpin">Chân chốt đẩy</item>
+			<item id="usbpoweradaptor">Bộ cấp nguồn USB</item>
+			<item id="spen">S Pen</item>
+			<item id="battery">Pin</item>
+			<item id="case">Ốp lưng</item>
+			<item id="protectivecase">Vỏ bảo vệ</item>
+			<item id="galaxywatch3">Galaxy Watch3</item>
+			<item id="wirelesscharger">bộ sạc không dây</item>
+			<item id="earbud_l/r_">Tai nghe (L/R)</item>
+			<item id="chargingcase">Hộp sạc</item>
+			<item id="eartip_s/m/l_">Đầu bịt tai nghe (S/M/L)</item>
+		</items>
+	</packages>
+	<sars>
+		<items lang="Eng" apply="false" exc="">
+			<item id="maxsar">Maximum SAR for this model and conditions under which it was recorded</item>
+			<item id="headsar" unit="W/kg">Head SAR</item>
+			<item id="body-wornsar" unit="W/kg">Body-worn SAR</item>
+		</items>
+		<items lang=" Kor" apply="false" exc="">
+			<item id="maxsar">N/A</item>
+			<item id="headsar" unit="W/kg">N/A</item>
+			<item id="body-wornsar" unit="W/kg">N/A</item>
+		</items>
+		<items lang="Eng(India)" apply="true" exc="">
+			<item id="maxsar">Maximum SAR for this model and conditions under which it was recorded</item>
+			<item id="headsar" unit="W/kg">Head SAR</item>
+			<item id="body-wornsar" unit="W/kg">N/A</item>
+		</items>
+		<items lang="Alb" apply="false" exc="">
+			<item id="maxsar">SAR maksimal për këtë model dhe kushtet në të cilat u regjistruan</item>
+			<item id="headsar" unit="W/kg">SAR për kokën</item>
+			<item id="body-wornsar" unit="W/kg">SAR për trupin</item>
+		</items>
+		<items lang="Spa(LTN)" apply="false" exc="">
+			<item id="maxsar">SAR máxima para este modelo y condiciones en las que se la registró</item>
+			<item id="headsar" unit="W/kg">SAR en la cabeza</item>
+			<item id="body-wornsar" unit="W/kg">SAR en el cuerpo</item>
+		</items>
+		<items lang="Ara" apply="false" exc="">
+			<item id="maxsar">الحد الأقصى لـ SAR لهذا الموديل والحالات التي تم تسجيلها ضمنها</item>
+			<item id="headsar" unit="وات/كجم">حد SAR عند الوضع على الرأس</item>
+			<item id="body-wornsar" unit="وات/كجم">اختبارات SAR المتعلقة بالارتداء على الجسم</item>
+		</items>
+		<items lang="Aze" apply="false" exc="">
+			<item id="maxsar">Bu model üçün maksimal SAR dəyəri və onun qeydə alındığı şərait</item>
+			<item id="headsar" unit="Vt/kq">Baş nahiyəsi üzrə SAR</item>
+			<item id="body-wornsar" unit="Vt/kq">Bədən üzrə SAR</item>
+		</items>
+		<items lang="Ben" apply="true" exc="">
+			<item id="maxsar">এই মডেল এবং অবস্থার জন্যে সর্বাধিক SAR যা রেকর্ড করা হয়েছিল</item>
+			<item id="headsar" unit="W/kg">হেড SAR</item>
+			<item id="body-wornsar" unit="W/kg">বডি-ওর্ন SAR</item>
+		</items>
+		<items lang="Bul" apply="false" exc="">
+			<item id="maxsar">Максимална SAR за този модел и условия, при които е била записана</item>
+			<item id="headsar" unit="ват/кг">SAR за използване близо до главата</item>
+			<item id="body-wornsar" unit="ват/кг">SAR носен до тялото</item>
+		</items>
+		<items lang="Mya" apply="true" exc="">
+			<item id="maxsar">ဤေမာ္ဒယ္အတြက္ အျမင့္ဆံုး SAR ႏွင့္ မွတ္တမ္းတင္ထားခဲ့ေသာ အေျခအေနမ်ား</item>
+			<item id="headsar" unit="W/kg">ဦးေခါင္းပိုင္း SAR</item>
+			<item id="body-wornsar" unit="W/kg">ခႏၶာကိုယ္ တပ္ဆင္ SAR</item>
+		</items>
+		<items lang="Hrv" apply="false" exc="">
+			<item id="maxsar">Maksimalna SAR vrijednost za ovaj model i uvjete pod kojima je zabilježena</item>
+			<item id="headsar" unit="W/kg">SAR u predjelu glave</item>
+			<item id="body-wornsar" unit="W/kg">SAR za nošenje na tijelu</item>
+		</items>
+		<items lang="Cze" apply="false" exc="">
+			<item id="maxsar">Maximální SAR u tohoto modelu za podmínek, ve kterých byly zaznamenány</item>
+			<item id="headsar" unit="W/kg">Hodnota SAR pro hlavu</item>
+			<item id="body-wornsar" unit="W/kg">SAR při nošení na těle</item>
+		</items>
+		<items lang="Dan" apply="false" exc="">
+			<item id="maxsar">Maksimum-SAR for denne model og betingelser, som den blev registreret under</item>
+			<item id="headsar" unit="W/kg">Hoved-SAR</item>
+			<item id="body-wornsar" unit="W/kg">Kropsbåret SAR</item>
+		</items>
+		<items lang="Dut" apply="false" exc="">
+			<item id="maxsar">Maximale SAR-waarde voor dit model en omstandigheden waaronder deze is vastgelegd</item>
+			<item id="headsar" unit="W/kg">SAR-waarde indien gedragen op het hoofd</item>
+			<item id="body-wornsar" unit="W/kg">SAR-waarde indien gedragen op het lichaam</item>
+		</items>
+		<items lang="Est" apply="false" exc="">
+			<item id="maxsar">Maksimaalne SAR selle mudeli puhul ning olud, milles see jäädvustati</item>
+			<item id="headsar" unit="W/kg">Pea SAR</item>
+			<item id="body-wornsar" unit="W/kg">Keha SAR</item>
+		</items>
+		<items lang="Far" apply="false" exc="">
+			<item id="maxsar">حداکثر SAR برای مدل و شرایطی که تحت آن این مقادیر ثبت شده است</item>
+			<item id="headsar" unit="W/kg">SAR برای سر</item>
+			<item id="body-wornsar" unit="W/kg">SAR برای بدن</item>
+		</items>
+		<items lang="Fin" apply="false" exc="">
+			<item id="maxsar">Tämän mallin suurin SAR-arvo ja olosuhteet, joissa se on saatu</item>
+			<item id="headsar" unit="W/kg">Päähän kohdistuva SAR-arvo</item>
+			<item id="body-wornsar" unit="W/kg">Kehoon kohdistuva SAR-arvo</item>
+		</items>
+		<items lang="Fre" apply="true" exc="">
+			<item id="maxsar">Valeurs DAS maximales pour ce modèle</item>
+			<item id="headsar" unit="W/kg">DAS au niveau de la tête</item>
+			<item id="body-wornsar" unit="W/kg">DAS au niveau du corps</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="maxsar">Valeurs DAS maximales pour ce modèle</item>
+			<item id="headsar" unit="W/kg">DAS tête</item>
+			<item id="body-wornsar" unit="W/kg">DAS tronc</item>
+			<item id="limbsar" unit="W/kg">DAS membre</item>
+		</items>
+		<items lang="Geo" apply="false" exc="">
+			<item id="maxsar">მაქსიმალური SAR ამ მოდელისთვის და პირობები, რომლებშიც ის იყო ჩაწერილი</item>
+			<item id="headsar" unit="W/kg">თავის SAR</item>
+			<item id="body-wornsar" unit="W/kg">სხეულზე ტარების SAR</item>
+		</items>
+		<items lang="Ger" apply="false" exc="">
+			<item id="maxsar">SAR-Höchstwerte für dieses Modell und die Bedingungen, unter denen diese Werte ermittelt wurden</item>
+			<item id="headsar" unit="W/kg">SAR (Kopf)</item>
+			<item id="body-wornsar" unit="W/kg">SAR (am Körper getragen)</item>
+		</items>
+		<items lang="Gre" apply="false" exc="">
+			<item id="maxsar">Μέγιστος SAR για το μοντέλο αυτό και συνθήκες υπό τις οποίες καταγράφηκε</item>
+			<item id="headsar" unit="W/kg">SAR κεφαλής</item>
+			<item id="body-wornsar" unit="W/kg">SAR για συσκευή που τοποθετείται πάνω στο σώμα</item>
+		</items>
+		<items lang="Heb" apply="false" exc="">
+			<item id="maxsar">ערך SAR מירבי לדגם זה והתנאים שבהם תועדו</item>
+			<item id="headsar" unit="ואט/ק&quot;ג">ראש SAR</item>
+			<item id="body-wornsar" unit="ואט/ק&quot;ג">מרחק חשיפת SAR מהגוף</item>
+		</items>
+		<items lang="Hin" apply="false" exc="">
+			<item id="maxsar">इस मॉडल के लिए अधिकतम SAR और वे स्थितियां जिसके अंतर्गत इसे रिकॉर्ड किया गया है</item>
+			<item id="headsar" unit="W/kg">हेड SAR</item>
+			<item id="body-wornsar" unit="W/kg">बॉडी-वोर्न SAR</item>
+		</items>
+		<items lang="HongKong" apply="false" exc="">
+			<item id="maxsar">該型號的最大 SAR 值以及錄得此值的條件</item>
+			<item id="headsar" unit="W/kg">頭部 SAR</item>
+			<item id="body-wornsar" unit="W/kg">體配 SAR</item>
+		</items>
+		<items lang="Hun" apply="false" exc="">
+			<item id="maxsar">A jelen modell maximális SAR-értékei a vizsgált körülmények között</item>
+			<item id="headsar" unit="W/kg">Fejen mért SAR</item>
+			<item id="body-wornsar" unit="W/kg">Testen viselés közben mért SAR</item>
+		</items>
+		<items lang="Ind" apply="true" exc="">
+			<item id="maxsar">SAR maksimum untuk model ini dan kondisi saat direkam</item>
+			<item id="headsar" unit="W/kg">SAR untuk Kepala</item>
+			<item id="body-wornsar" unit="W/kg">SAR yang dikenakan pada badan</item>
+		</items>
+		<items lang="Ita" apply="false" exc="">
+			<item id="maxsar">Valori SAR massimi per il modello e condizioni di registrazione</item>
+			<item id="headsar" unit="W/kg">SAR solo testa</item>
+			<item id="body-wornsar" unit="W/kg">SAR a contatto con il corpo</item>
+		</items>
+		<items lang="Kaz" apply="false" exc="">
+			<item id="maxsar">Осы модельге арналған максималды МСН және жазылған жағдайлар</item>
+			<item id="headsar" unit="Вт/кг">Бас МСН</item>
+			<item id="body-wornsar" unit="Вт/кг">Денеге тағылатын МСН</item>
+		</items>
+		<items lang="Khm" apply="true" exc="">
+			<item id="maxsar">SAR អតិបរមា​សម្រាប់​ម៉ូដែល​នេះ​និង​ស្ថានភាព​ដែល​វា​ត្រូវ​បាន​កត់ត្រា</item>
+			<item id="headsar" unit="W/kg">SAR នៅ​ក្បាល</item>
+			<item id="body-wornsar" unit="W/kg">SAR នៅពេល​ពាក់​ជាប់​រាងកាយ</item>
+		</items>
+		<items lang="Lao" apply="true" exc="">
+			<item id="maxsar">SAR ສູງສຸດສຳລັບລຸ້ນນີ້ ແລະ ເງື່ອນໄຂຕາມທີ່ບັນທຶກໄວ້</item>
+			<item id="headsar" unit="W/kg">SAR ສ່ວນຫົວ</item>
+			<item id="body-wornsar" unit="W/kg">SAR ທີ່ສວມໃສ່ດ້ວຍຕົວເຄື່ອງ</item>
+		</items>
+		<items lang="Lav" apply="false" exc="">
+			<item id="maxsar">Maksimālā SAR vērtība šim modelim un apstākļi, kādos tas konstatēts</item>
+			<item id="headsar" unit="W/kg">Galvas SAR</item>
+			<item id="body-wornsar" unit="W/kg">Uz ķermeņa nēsājamo ierīču SAR</item>
+		</items>
+		<items lang="Lit" apply="false" exc="">
+			<item id="maxsar">Maksimali šio modelio SAR ir sąlygos, kuriomis ji buvo užregistruota</item>
+			<item id="headsar" unit="W/kg">SAR galvai</item>
+			<item id="body-wornsar" unit="W/kg">Ant kūno dėvimas SAR</item>
+		</items>
+		<items lang="Mac" apply="false" exc="">
+			<item id="maxsar">Максимум SAR за овој модел и услови според кои бил регистриран</item>
+			<item id="headsar" unit="W/kg">Главен SAR</item>
+			<item id="body-wornsar" unit="W/kg">SAR при носење на тело</item>
+		</items>
+		<items lang="Mon" apply="false" exc="">
+			<item id="maxsar">Энэ загварт болон үүнийг бүртгэсэн нөхцөлд заасан SAR-ын дээд хэмжээ</item>
+			<item id="headsar" unit="Вт/кг">Толгой хэсгийн SAR</item>
+			<item id="body-wornsar" unit="Вт/кг">Их биед зүүсэн үеийн SAR</item>
+		</items>
+		<items lang="Nor" apply="false" exc="">
+			<item id="maxsar">Maksimal SAR-verdi for denne modellen og forholdene den ble registrert under</item>
+			<item id="headsar" unit="W/kg">SAR-verdi ved bruk ved hodet</item>
+			<item id="body-wornsar" unit="W/kg">SAR-verdi ved bæring på kroppen</item>
+		</items>
+		<items lang="Pol" apply="false" exc="">
+			<item id="maxsar">Maksymalna wartość współczynnika SAR dla tego modelu i warunki, w których ją zarejestrowano</item>
+			<item id="headsar" unit="W/kg">Współczynnik SAR — urządzenie przy głowie</item>
+			<item id="body-wornsar" unit="W/kg">Współczynnik SAR — urządzenie noszone przy ciele</item>
+		</items>
+		<items lang="Por" apply="false" exc="">
+			<item id="maxsar">O máximo de SAR para este modelo e as condições sob as quais foi gravado</item>
+			<item id="headsar" unit="W/kg">Ao nível da cabeça</item>
+			<item id="body-wornsar" unit="W/kg">Ao nível do corpo</item>
+		</items>
+		<items lang="Rum" apply="false" exc="">
+			<item id="maxsar">Valoarea SAR maximă pentru acest model şi condiţiile sub care a fost înregistrată</item>
+			<item id="headsar" unit="W/kg">SAR cap</item>
+			<item id="body-wornsar" unit="W/kg">SAR atașare de corp</item>
+		</items>
+		<items lang="Rus" apply="false" exc="">
+			<item id="maxsar">Максимальное значение SAR для данной модели устройства и условия, в которых эти значения были записаны</item>
+			<item id="headsar" unit="Вт/кг">Значение SAR для головы</item>
+			<item id="body-wornsar" unit="Вт/кг">Значения SAR при ношении на теле</item>
+		</items>
+		<items lang="Srp" apply="false" exc="">
+			<item id="maxsar">Mаksimаlna SAR vrednost zа ovаj model i uslovi pod kojimа je zаbeležena</item>
+			<item id="headsar" unit="W/kg">SAR vrednost za korišćenje pored glave</item>
+			<item id="body-wornsar" unit="W/kg">SAR koji se nosi na telu</item>
+		</items>
+		<items lang="Chi" apply="false" exc="">
+			<item id="maxsar">本款设备的最大 SAR 值以及录得此值的条件</item>
+			<item id="headsar" unit="W/kg">头部 SAR</item>
+			<item id="body-wornsar" unit="W/kg">最大值为</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="true" exc="">
+			<item id="maxsar">本款设备的最大 SAR 值以及录得此值的条件</item>
+			<item id="headsar" unit="W/kg">头部 SAR</item>
+			<item id="body-wornsar" unit="W/kg">身体佩戴 SAR</item>
+		</items>
+		<items lang="Slovak" apply="false" exc="">
+			<item id="maxsar">Maximálna hodnota SAR pre tento model a podmienky, v ktorých bola zaznamenaná</item>
+			<item id="headsar" unit="W/kg">SAR hornej časti</item>
+			<item id="body-wornsar" unit="W/kg">SAR pri nosení pri tele</item>
+		</items>
+		<items lang="Slovenian" apply="false" exc="">
+			<item id="maxsar">Najvišja vrednost SAR za ta model in okoliščine, v katerih je bil zabeležen</item>
+			<item id="headsar" unit="W/kg">SAR za glavo</item>
+			<item id="body-wornsar" unit="W/kg">SAR za nošenje ob telesu</item>
+		</items>
+		<items lang="Spa" apply="false" exc="">
+			<item id="maxsar">SAR máximo para este modelo y condiciones bajo las que se registró</item>
+			<item id="headsar" unit="W/kg">SAR para posiciones cerca de la cabeza</item>
+			<item id="body-wornsar" unit="W/kg">SAR para uso en el cuerpo</item>
+		</items>
+		<items lang="Swe" apply="false" exc="">
+			<item id="maxsar">Högsta SAR för den här modellen och förhållandena under vilka de registrerades</item>
+			<item id="headsar" unit="W/kg">Huvud-SAR</item>
+			<item id="body-wornsar" unit="W/kg">Kroppsburen SAR</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="true" exc="">
+			<item id="maxsar">N/A</item>
+			<item id="headsar" unit="W/kg">N/A</item>
+			<item id="body-wornsar" unit="W/kg">送測產品實測值為</item>
+		</items>
+		<items lang="Tha" apply="true" exc="">
+			<item id="maxsar">N/A</item>
+			<item id="headsar" unit="W/kg">N/A</item>
+			<item id="body-wornsar" unit="W/kg">อันเนื่องมาจากเครื่องวิทยุคมนาคมเท่ากับ</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="maxsar">Bu model için maksimum SAR değeri ve kaydedildiği şartlar</item>
+			<item id="headsar" unit="W/kg">Baş bölgesindeki SAR</item>
+			<item id="body-wornsar" unit="W/kg">Vücuda temas halindeki SAR</item>
+		</items>
+		<items lang="Ukr" apply="false" exc="">
+			<item id="maxsar">Максимальне значення SAR для цієї моделі та умови, в яких його було виміряно</item>
+			<item id="headsar" unit="Вт/кг">Коефіцієнт SAR (голова)</item>
+			<item id="body-wornsar" unit="Вт/кг">Коефіцієнт SAR (незахищені частини тіла)</item>
+		</items>
+		<items lang="Urd" apply="false" exc="">
+			<item id="maxsar">اس ماڈل کے لیے زیادہ سے زیادہ ایس اے آر و کیفیات جس کے تحت اسے ریکارڈ کیا گیا تھا</item>
+			<item id="headsar" unit="W/kg">ہیڈ ایس اے آر</item>
+			<item id="body-wornsar" unit="W/kg">باڈی- ڈھکی ہوئی ایس اے آر</item>
+		</items>
+		<items lang="Uzb" apply="false" exc="">
+			<item id="maxsar">Ushbu model uchun mo‘ljallangan maksimal SAR qiymatlari</item>
+			<item id="headsar" unit="W/kg">Bosh uchun SAR</item>
+			<item id="body-wornsar" unit="W/kg">Tana uchun SAR</item>
+		</items>
+		<items lang="Vie" apply="true" exc="">
+			<item id="maxsar">SAR tối đa của kiểu máy này và các điều kiện mà chỉ số này được ghi lại</item>
+			<item id="headsar" unit="W/kg">SAR đối với vùng đầu</item>
+			<item id="body-wornsar" unit="W/kg">SAR khi mang trên người</item>
+		</items>
+		<items lang="Kor" apply="false" exc="">
+			<item id="maxsar">N/A</item>
+			<item id="headsar" unit="W/kg">N/A</item>
+			<item id="body-wornsar" unit="W/kg">N/A</item>
+		</items>
+	</sars>
+	<distance>
+		<items lang="Eng" apply="false" exc="">
+			<item id="distance" unit="cm">Body-worn SAR testing has been carried out at a separation distance of 0.5 cm.</item>
+		</items>
+		<items lang=" Kor" apply="false" exc="">
+			<item id="distance" unit="cm">제품의 전자파 흡수율(몸통)은 1.5 cm 이격된 상태에서 평가 및 적합 판정되었습니다.</item>
+		</items>
+		<items lang="Eng(India)" apply="false" exc="">
+			<item id="distance" unit="cm">Body-worn SAR testing has been carried out at a separation distance of 0.5 cm.</item>
+		</items>
+		<items lang="Alb" apply="false" exc="">
+			<item id="distance" unit="cm">prej 0,5 cm.</item>
+		</items>
+		<items lang="Spa(LTN)" apply="false" exc="">
+			<item id="distance" unit="cm">Se ha realizado una prueba SAR con el dispositivo sobre el cuerpo con una separación de 0,5 cm.</item>
+		</items>
+		<items lang="Ara" apply="false" exc="">
+			<item id="distance" unit="سم">مسافة فاصلة تبلغ 0,5 سم.</item>
+		</items>
+		<items lang="Aze" apply="false" exc="">
+			<item id="distance" unit="sm">Bədən üzrə SAR testi 0,5 sm məsafədən həyata keçirilib.</item>
+		</items>
+		<items lang="Ben" apply="true" exc="">
+			<item id="distance" unit="cm">বডি-ওর্ন SAR পরীক্ষা 0.5 cm পৃথকীকরণ দূরত্ব থেকে সম্পন্ন করা হয়েছে৷</item>
+		</items>
+		<items lang="Bul" apply="false" exc="">
+			<item id="distance" unit="см">Извършено е SAR изпитване за носене на тялото за разстояние на разделяне от 0,5 см.</item>
+		</items>
+		<items lang="Mya" apply="true" exc="">
+			<item id="distance" unit="cm">ခႏၶာကိုယ္ တပ္ဆင္ SAR စမ္းသပ္မႈအား သီးျခားထားရွိ အကြာအေဝး 0.5 cm တြင္ ေဆာင္ရြက္ခဲ့သည္။</item>
+		</items>
+		<items lang="Hrv" apply="false" exc="">
+			<item id="distance" unit="cm">Ispitivanje SAR-a za nošenje na tijelu provedeno je na razmaku od 0,5 cm.</item>
+		</items>
+		<items lang="Cze" apply="false" exc="">
+			<item id="distance" unit="cm">Test SAR při nošení na těle byl proveden při vzdálenosti 0,5 cm od těla.</item>
+		</items>
+		<items lang="Dan" apply="false" exc="">
+			<item id="distance" unit="cm">Test af kropsbåret SAR er udført ved en separationsafstand på 0,5 cm.</item>
+		</items>
+		<items lang="Dut" apply="false" exc="">
+			<item id="distance" unit="cm">Het testen van de SAR-waarde indien gedragen op het lichaam is uitgevoerd met een scheidingsafstand van 0,5 cm.</item>
+		</items>
+		<items lang="Est" apply="false" exc="">
+			<item id="distance" unit="cm">Keha SAR testimine viidi läbi, kui kaugus kehast oli 0,5 cm.</item>
+		</items>
+		<items lang="Far" apply="false" exc="">
+			<item id="distance" unit="سانتی‌متر">آزمایش SAR پوشیدنی در فاصله جداگانه 0.5 سانتی‌متر انجام شده است.</item>
+		</items>
+		<items lang="Fin" apply="false" exc="">
+			<item id="distance" unit="cm">Vartalolla kannettavan laitteen SAR-testi on suoritettu 0,5 cm:n etäisyydellä.</item>
+		</items>
+		<items lang="Fre" apply="true" exc="">
+			<item id="distance" unit="cm">Des essais DAS ont été réalisés avec ce produit porté à une distance de 0,5 cm du corps.</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="distance" unit="cm">Des essais DAS ont été réalisés avec ce produit porté à une distance de 0,5 cm du corps.</item>
+		</items>
+		<items lang="Geo" apply="false" exc="">
+			<item id="distance" unit="სმ">სხეულზე ტარების SAR ტესტი ჩატარდა განცალკევების დისტანციით 0,5 სმ.</item>
+		</items>
+		<items lang="Ger" apply="false" exc="">
+			<item id="distance" unit="cm">Der SAR-Test wurde mit einem Abstand von 0,5 cm zum Körper ausgeführt.</item>
+		</items>
+		<items lang="Gre" apply="false" exc="">
+			<item id="distance" unit="εκ">Η δοκιμή SAR σώματος έχει διεξαχθεί σε απόσταση διαχωρισμού 0,5 εκ.</item>
+		</items>
+		<items lang="Heb" apply="false" exc="">
+			<item id="distance" unit="ס&quot;מ">מבחן ערך ה-SAR בנשיאה על הגוף בוצע במכשיר זה במרחק הפרדה של 0.5 ס"מ.</item>
+		</items>
+		<items lang="Hin" apply="false" exc="">
+			<item id="distance" unit="सेमी">बॉडी-वोर्न SAR परीक्षण 0.5 सेमी की बीच की दूरी से किया गया है।</item>
+		</items>
+		<items lang="HongKong" apply="false" exc="">
+			<item id="distance" unit="厘米">已在間隔距離 0.5 厘米處執行身體佩戴 SAR 測試。</item>
+		</items>
+		<items lang="Hun" apply="false" exc="">
+			<item id="distance" unit="cm">A testen viselés közbeni SAR-tesztelés 0,5 cm távolság közbeiktatásával zajlott le.</item>
+		</items>
+		<items lang="Ind" apply="true" exc="">
+			<item id="distance" unit="cm">Percobaan SAR yang dikenakan pada badan dilakukan dengan jarak 0,5 cm.</item>
+		</items>
+		<items lang="Ita" apply="false" exc="">
+			<item id="distance" unit="cm">Per l'utilizzo a contatto con il corpo, il test per i livelli SAR è stato eseguito a una distanza di separazione di 0,5 cm.</item>
+		</items>
+		<items lang="Kaz" apply="false" exc="">
+			<item id="distance" unit="см">Денеге тағылатын SAR құралын сынау 0,5 см қашықтықта жүргізілді.</item>
+		</items>
+		<items lang="Khm" apply="true" exc="">
+			<item id="distance" unit="cm">វ​បាន​ធ្វើ​នៅ​ចម្ងាយ​ឃ្លាត 0.5 cm</item>
+		</items>
+		<items lang="Lao" apply="true" exc="">
+			<item id="distance" unit="cm">ການທົດສອບ SAR ທີ່ສວມໃສ່ດ້ວຍຕົວເຄື່ອງໄດ້ດຳເນີນການໃນໄລຍະ ຫ່າງທີ່ເປັນການແຍກກັນ 0,5 cm.</item>
+		</items>
+		<items lang="Lav" apply="false" exc="">
+			<item id="distance" unit="cm">Ierīcei ir veikta uz ķermeņa nēsājamo ierīču SAR pārbaude 0,5 cm attālumā.</item>
+		</items>
+		<items lang="Lit" apply="false" exc="">
+			<item id="distance" unit="cm">Ant kūno dėvimo SAR bandymas buvo atliktas esant 0,5 cm atstumui.</item>
+		</items>
+		<items lang="Mac" apply="false" exc="">
+			<item id="distance" unit="см">Направено е тестирање на SAR при носење на тело оддалеченост од 0,5 см.</item>
+		</items>
+		<items lang="Mon" apply="false" exc="">
+			<item id="distance" unit="см">Биеэс 0,5 см зайд зүүсэн байрлалд SAR хэмжилтийг хийсэн.</item>
+		</items>
+		<items lang="Nor" apply="false" exc="">
+			<item id="distance" unit="cm">Testing av SAR ved bruk på kroppen har blitt utført på en separasjonsavstand på 0,5 cm.</item>
+		</items>
+		<items lang="Pol" apply="false" exc="">
+			<item id="distance" unit="cm">Testowanie współczynnika SAR dla urządzenia noszonego przy ciele wykonano dla odległości 0,5 cm.</item>
+		</items>
+		<items lang="Por" apply="false" exc="">
+			<item id="distance" unit="cm">Os testes de SAR ao nível do corpo foram conduzidos por uma distância de separação de 0,5 cm.</item>
+		</items>
+		<items lang="Rum" apply="false" exc="">
+			<item id="distance" unit="cm">Testarea SAR pentru ataşarea de corp a fost efectuată pe acest dispozitiv la o distanţă de separare de 0,5 cm.</item>
+		</items>
+		<items lang="Rus" apply="false" exc="">
+			<item id="distance" unit="см">Измерение значения SAR во время ношения данного устройства на теле выполнялось при расстоянии 0,5 см</item>
+		</items>
+		<items lang="Srp" apply="false" exc="">
+			<item id="distance" unit="cm">Obavljeno je testiranje na SAR vrednost za nošenje na telu na razdaljini od 0,5 cm.</item>
+		</items>
+		<items lang="Chi" apply="false" exc="">
+			<item id="distance" unit="cm">已在间隔距离为 0.5 cm 的条件下完成可穿戴式 SAR 测试。</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="true" exc="">
+			<item id="distance" unit="厘米">已在间距为 0.5 厘米的情况下执行身体佩戴 SAR 测试。</item>
+		</items>
+		<items lang="Slovak" apply="false" exc="">
+			<item id="distance" unit="cm">Testovanie hodnoty SAR pri nosení na tele sa vykonávalo pri odstupe 0,5 cm.</item>
+		</items>
+		<items lang="Slovenian" apply="false" exc="">
+			<item id="distance" unit="cm">Testiranje SAR za nošenje ob telesu se opravlja na razdalji 0,5 cm.</item>
+		</items>
+		<items lang="Spa" apply="false" exc="">
+			<item id="distance" unit="cm">Las pruebas de uso de SAR se han realizado a una distancia de 0,5 cm.</item>
+		</items>
+		<items lang="Swe" apply="false" exc="">
+			<item id="distance" unit="cm">Kroppsburen SAR-testning har genomförts med ett avstånd på 0,5 cm.</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="false" exc="">
+			<item id="distance" unit="cm">已於 0.5 cm 的分隔距離進行穿戴式 SAR 測試。</item>
+		</items>
+		<items lang="Tha" apply="false" exc="">
+			<item id="distance" unit="ซม">มีการดำเนินการทดสอบค่า SAR ชนิดสะพายติดตัวที่ระยะห่าง 0.5 ซม.</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="distance" unit="cm">Vücuda takılan SAR testi 0,5 cm uzaklığa sahip bir mesafede gerçekleştirilmiştir.</item>
+		</items>
+		<items lang="Ukr" apply="false" exc="">
+			<item id="distance" unit="см">Коефіцієнт SAR при носінні біля тіла виміряно на відстані віддалення 0,5 см.</item>
+		</items>
+		<items lang="Urd" apply="false" exc="">
+			<item id="distance" unit="سینٹی">جسم ملبوسہ SAR جانچ 0.5 سینٹی میٹر علیحدگی کے فاصلے پر انجام دی گئی ہے۔</item>
+		</items>
+		<items lang="Uzb" apply="false" exc="">
+			<item id="distance" unit="sm">Boshga kiyiladigan SAR 0,5 sm masofada sinovdan o‘tkazilgan.</item>
+		</items>
+		<items lang="Vie" apply="true" exc="">
+			<item id="distance" unit="cm">Kiểm tra SAR đối với vùng trên người đã được thực hiện với khoảng cách riêng biệt là 0,5 cm.</item>
+		</items>
+		<items lang="Kor" apply="false" exc="">
+			<item id="distance" unit="cm">제품의 전자파 흡수율(몸통)은 1.5 cm 이격된 상태에서 평가 및 적합 판정되었습니다.</item>
+		</items>
+	</distance>
+	<bandmode>
+		<items lang="Eng" apply="true" exc="">
+			<item id="bandandmode">Band and mode</item>
+			<item id="outputpower">Output power</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Wireless charging</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8.5 GHz</item>
+		</items>
+		<items lang="Eng(India)" apply="false" exc="">
+			<item id="bandandmode">Band and mode</item>
+			<item id="outputpower">Output power</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="N/A" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Alb" apply="true" exc="">
+			<item id="bandandmode">Banda dhe metoda</item>
+			<item id="outputpower">Energjia output</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Karikimi me valë</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Spa(LTN)" apply="false" exc="">
+			<item id="bandandmode">Banda y modo</item>
+			<item id="outputpower">Potencia de salida</item>
+			<item id="egsm900" unit="dBm" multi="false">N/A</item>
+			<item id="dcs1800" unit="dBm" multi="false">N/A</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="N/A" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Ara" apply="false" exc="">
+			<item id="bandandmode">الوضع والنطاق</item>
+			<item id="outputpower">قدرة المخرج</item>
+			<item id="egsm900" unit="ديسيبل" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="ديسيبل" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="ديسيبل" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="ديسيبل" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="ديسيبل" multi="false">شبكة Wi-Fi ‏2,4 جيجاهرتز</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="ديسيبل" multi="false">بلوتوث 2,4 جيجاهرتز</item>
+			<item id="wifi5_1_5_7ghz" unit="ديسيبل" multi="false">شبكة Wi-Fi ‏5,1–‏5,7 جيجاهرتز</item>
+			<item id="wifi5_8ghz" unit="ميلي" multi="false">شبكة Wi-Fi ‏5,8 جيجاهرتز</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">التواصل قريب المدى 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Aze" apply="false" exc="">
+			<item id="bandandmode">Diapazon və rejim</item>
+			<item id="outputpower">Çıxış enerjisi</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 QHs</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 QHs</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 QHs</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 QHs</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHs</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Ben" apply="false" exc="">
+			<item id="bandandmode">ব্যান্ড এবং মোড</item>
+			<item id="outputpower">Output power</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1-5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Bul" apply="true" exc="">
+			<item id="bandandmode">Лента и режим</item>
+			<item id="outputpower">Изходна мощност</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 - 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Безжично зареждане</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 - 8,5 GHz</item>
+		</items>
+		<items lang="Mya" apply="false" exc="">
+			<item id="bandandmode">ေရဒီယိုလိႈင္းခြင္ႏွင့္ နည္းသြင္</item>
+			<item id="outputpower">အထြက္ပါဝါ</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">ဝိုင္ဖိုင္ 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">ဝိုင္ဖိုင္ 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">ဝိုင္ဖိုင္ 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Hrv" apply="true" exc="">
+			<item id="bandandmode">Pojas i način rada</item>
+			<item id="outputpower">Izlazna snaga</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1-5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Bežično punjenje</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6-8,5 GHz</item>
+		</items>
+		<items lang="Cze" apply="true" exc="">
+			<item id="bandandmode">Pásmo a režim</item>
+			<item id="outputpower">Výstupní výkon</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Bezdrátové nabíjení</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Dan" apply="true" exc="">
+			<item id="bandandmode">Bånd og tilstand</item>
+			<item id="outputpower">Udgangseffekt</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1-5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Trådløs opladning</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6-8,5 GHz</item>
+		</items>
+		<items lang="Dut" apply="true" exc="">
+			<item id="bandandmode">Band en modus</item>
+			<item id="outputpower">Uitgangsvermogen</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 - 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Draadloos opladen</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 - 8,5 GHz</item>
+		</items>
+		<items lang="Est" apply="true" exc="">
+			<item id="bandandmode">Sagedus</item>
+			<item id="outputpower">Väljundvõimsus</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Juhtmevaba laadimine</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Far" apply="true" exc="">
+			<item id="bandandmode">باند و حالت</item>
+			<item id="outputpower">قدرت خروجی</item>
+			<item id="egsm900" unit="دسی‌بل" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="دسی‌بل" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="دسی‌بل" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="دسی‌بل" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="دسی‌بل" multi="false">Wi-Fi 2.4 گیگا هرتز</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="دسی‌بل" multi="false">بلوتوث 2.4 گیگاهرتزی</item>
+			<item id="wifi5_1_5_7ghz" unit="دسی‌بل" multi="false">Wi-Fi 5.1–5.7 گیگا هرتز</item>
+			<item id="wifi5_8ghz" unit="میلی‌وات" multi="false">Wi-Fi 5.8 گیگا هرتز</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Fin" apply="true" exc="">
+			<item id="bandandmode">Taajuusalue ja tila</item>
+			<item id="outputpower">Lähtöteho</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Langaton lataus</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Fre" apply="false" exc="MEA">
+			<item id="bandandmode">Fréquence de bande et mode</item>
+			<item id="outputpower">Puissance en sortie</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Chargement sans fil</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="bandandmode">Fréquence de bande et mode</item>
+			<item id="outputpower">Puissance en sortie</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Chargement sans fil</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Geo" apply="false" exc="">
+			<item id="bandandmode">დიაპაზონი და რეჟიმი</item>
+			<item id="outputpower">გამცემი კვება</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Ger" apply="true" exc="">
+			<item id="bandandmode">Band und Modus</item>
+			<item id="outputpower">Ausgangsleistung</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">WLAN 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">WLAN 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">WLAN 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Induktives Laden</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Gre" apply="true" exc="">
+			<item id="bandandmode">Εύρος και τρόπος λειτουργίας</item>
+			<item id="outputpower">Ισχύς εξόδου</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Ασύρματη φόρτιση</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Heb" apply="false" exc="">
+			<item id="bandandmode">מצב Band</item>
+			<item id="outputpower">Output power</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 ג'יגה-הרץ</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 מגה-הרץ</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Hin" apply="true" exc="">
+			<item id="bandandmode">बैंड और मोड</item>
+			<item id="outputpower">आउटपुट पॉवर</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="HongKong" apply="false" exc="">
+			<item id="bandandmode">頻段與模式</item>
+			<item id="outputpower">輸出功率</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">藍牙 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Hun" apply="true" exc="">
+			<item id="bandandmode">Frekvenciasáv</item>
+			<item id="outputpower">Kimeneti teljesítmény</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1-5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Vezeték nélküli töltés</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6-8,5 GHz</item>
+		</items>
+		<items lang="Ind" apply="false" exc="">
+			<item id="bandandmode">Pita dan mode</item>
+			<item id="outputpower">Daya output</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1-5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Ita" apply="true" exc="">
+			<item id="bandandmode">Banda e modalità</item>
+			<item id="outputpower">Potenza in uscita</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Ricarica wireless</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Kaz" apply="false" exc="">
+			<item id="bandandmode">Таспа және режим</item>
+			<item id="outputpower">Шығыс қуат</item>
+			<item id="egsm900" unit="дБм" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="дБм" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="дБм" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="дБм" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="дБм" multi="false">Wi-Fi 2,4 ГГц</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="дБм" multi="false">Bluetooth 2,4 ГГц</item>
+			<item id="wifi5_1_5_7ghz" unit="дБм" multi="false">Wi-Fi 5,1–5,7 ГГц</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 ГГц</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 МГц</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Khm" apply="false" exc="">
+			<item id="bandandmode">បែនដ៍​និង​ទម្រង់</item>
+			<item id="outputpower">ថាមពល​ចេញ</item>
+			<item id="egsm900" unit="dBm" multi="false">N/A</item>
+			<item id="dcs1800" unit="N/A" multi="false">N/A</item>
+			<item id="wcdma900/wcdma2100" unit="N/A" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="N/A" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="N/A" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="N/A" multi="false">N/A</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Lao" apply="false" exc="">
+			<item id="bandandmode">Band and mode</item>
+			<item id="outputpower">Output power</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Lav" apply="true" exc="">
+			<item id="bandandmode">Josla un režīms</item>
+			<item id="outputpower">Izejas jauda</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Bezvadu uzlāde</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Lit" apply="true" exc="">
+			<item id="bandandmode">Juosta ir režimas</item>
+			<item id="outputpower">Išėjimo galia</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Belaidis įkrovimas</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Mac" apply="true" exc="">
+			<item id="bandandmode">Радиофреквенциски опсег и режим</item>
+			<item id="outputpower">Излезна снага</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Безжично полнење</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Mon" apply="false" exc="">
+			<item id="bandandmode">Зурвас ба горим</item>
+			<item id="outputpower">Гаралтын хүч</item>
+			<item id="egsm900" unit="дБм" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="дБм" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="дБм" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="дБм" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="дБм" multi="false">Wi-Fi 2,4 ГГц</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="дБм" multi="false">Bluetooth 2,4 ГГц</item>
+			<item id="wifi5_1_5_7ghz" unit="дБм" multi="false">Wi-Fi 5,1~5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 ГГц</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 МГц</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Nor" apply="true" exc="">
+			<item id="bandandmode">Bånd og modus</item>
+			<item id="outputpower">Utgangseffekt</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Trådløs lading</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Pol" apply="true" exc="">
+			<item id="bandandmode">Pasmo i tryb</item>
+			<item id="outputpower">Moc wyjściowa</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Ładowanie bezprzewodowe</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Por" apply="true" exc="">
+			<item id="bandandmode">Banda e modo</item>
+			<item id="outputpower">Potência de saída</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Carregamento sem fios</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Rum" apply="false" exc="">
+			<item id="bandandmode">Bandă și mod</item>
+			<item id="outputpower">Putere de ieșire</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Încărcare wireless </item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Rus" apply="false" exc="">
+			<item id="bandandmode">Частотные диапазоны</item>
+			<item id="outputpower">Выходная мощность</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Беспроводная зарядка</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Srp" apply="true" exc="">
+			<item id="bandandmode">Opseg i režim</item>
+			<item id="outputpower">Izlazna snaga</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Bežično punjenje</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Chi" apply="true" exc="">
+			<item id="bandandmode">表带与模式</item>
+			<item id="outputpower">输出功率</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">WLAN 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">蓝牙 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">WLAN 5.1-5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">WLAN 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="false" exc="">
+			<item id="bandandmode">频带和模式</item>
+			<item id="outputpower">输出功率</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">蓝牙 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Slovak" apply="true" exc="">
+			<item id="bandandmode">Pásmo a režim</item>
+			<item id="outputpower">Výstupný výkon</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1 – 5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Bezdrôtové nabíjanie</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6 – 8,5 GHz</item>
+		</items>
+		<items lang="Slovenian" apply="true" exc="">
+			<item id="bandandmode">Pas in način</item>
+			<item id="outputpower">Izhodna moč</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Brezžično polnjenje</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Spa" apply="true" exc="">
+			<item id="bandandmode">Banda y modo</item>
+			<item id="outputpower">Potencia de salida</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Carga inalámbrica</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Swe" apply="true" exc="">
+			<item id="bandandmode">Band och läge</item>
+			<item id="outputpower">Uteffekt</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Trådlös laddning</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="true" exc="">
+			<item id="bandandmode">錶帶與模式</item>
+			<item id="outputpower">輸出功率</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">N/A</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="N/A" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">N/A</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Tha" apply="false" exc="">
+			<item id="bandandmode">ความถี่และโหมด</item>
+			<item id="outputpower">แรงดันไฟขาออก</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2.4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">บลูทูธ 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5.1–5.7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5.8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="bandandmode">Bant ve mod</item>
+			<item id="outputpower">Çıkış gücü</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Kablosuz şarj</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Ukr" apply="false" exc="">
+			<item id="bandandmode">Смуга частот та режим</item>
+			<item id="outputpower">Вихідна потужність</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900" unit="dBm" multi="false">WCDMA Band VIII</item>
+			<item id="wcdma2100" unit="dBm" multi="false">WCDMA Band I</item>
+			<item id="lte" unit="dBm" multi="true">LTE 3/7/8/20</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">Бездротова зарядка (110 kHz - 148 kHz)</item>
+			<item id="uwb6–8_5ghz" unit="dBm" multi="false">UWB 6–8,5 GHz</item>
+		</items>
+		<items lang="Urd" apply="false" exc="">
+			<item id="bandandmode">بینڈ اور موڈ</item>
+			<item id="outputpower">آؤٹ پٹ پاور</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">‎Wi-Fi 2.4 GHz‎</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">بلیوٹوتھ 2.4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">‎Wi-Fi 5.1–5.7 GHz‎</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">‎Wi-Fi 5.8 GHz‎</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13.56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Uzb" apply="false" exc="">
+			<item id="bandandmode">Tasma va rejim</item>
+			<item id="outputpower">Ishlab chiqilayotgan quvvat</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GGs</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GGs</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GGs</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GGs</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MGs</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">N/A</item>
+		</items>
+		<items lang="Vie" apply="false" exc="">
+			<item id="bandandmode">Dây đeo và chế độ</item>
+			<item id="outputpower">Nguồn điện đầu ra</item>
+			<item id="egsm900" unit="dBm" multi="false">EGSM900</item>
+			<item id="dcs1800" unit="dBm" multi="false">DCS1800</item>
+			<item id="wcdma900/wcdma2100" unit="dBm" multi="true">WCDMA 900/2100</item>
+			<item id="lte" unit="dBm" multi="true">LTE 1/3/7/8/20/28/38/40</item>
+			<item id="wifi2_4ghz" unit="dBm" multi="false">Wi-Fi 2,4 GHz</item>
+			<item id="5g" unit="dBm" multi="false">n1/n3/n7/n8/n20/n28/n38/n40/n77/n78 (FR1)</item>
+			<item id="bluetooth2_4ghz" unit="dBm" multi="false">Bluetooth 2,4 GHz</item>
+			<item id="wifi5_1_5_7ghz" unit="dBm" multi="false">Wi-Fi 5,1–5,7 GHz</item>
+			<item id="wifi5_8ghz" unit="mW" multi="false">Wi-Fi 5,8 GHz</item>
+			<item id="nfc1" unit="dBμA/m" multi="false">NFC 13,56 MHz</item>
+			<item id="wirelesscharging" unit="dBμA/m" multi="false">N/A</item>
+			<item id="uwb6–8_5ghz" unit="N/A" multi="false">UWB</item>
+		</items>
+	</bandmode>
+	<productSpec>
+		<items lang="Tur" apply="true" exc="">
+			<item id="technicalspec">Teknik Özellikler</item>
+			<item id="cpu">İşlemci</item>
+			<item id="ram">Ram</item>
+			<item id="ossystem">İşletim Sistemi</item>
+			<item id="screensize">Ekran Boyut</item>
+			<item id="camera">Kamera</item>
+			<item id="frontcamera">Ön Kamera</item>
+			<item id="radio">Radyo</item>
+			<item id="microsd">MicroSD</item>
+		</items>
+	</productSpec>
+	<turgaranty>
+		<items lang="Tur" apply="true" exc="">
+			<item id="garanty">Cihazın kullanım ömrü 5 yıl, garanti süresi 2 yıldır.</item>
+		</items>
+	</turgaranty>
+	<electronic>
+		<items lang="Spa(LTN)" apply="true" exc="">
+			<item id="electronicspec">Especificaciones Eléctricas</item>
+			<item id="adapter" name="Adaptador">
+				<entries id="entry" name="Entrada">
+					<entry id="entry1" unit="Vca"/>
+					<entry id="entry2" unit="Hz"/>
+					<entry id="entry3" unit="A"/>
+				</entries>
+				<entries id="departure" name="Salida">
+					<entry id="departure1" unit="Vcc;A;o"/>
+					<entry id="departure2" unit="Vcc;A"/>
+				</entries>
+			</item>
+			<item id="device" name="Dispositivo">
+				<entries id="entry" name="Entrada">
+					<entry id="entry1" unit="Vcc;A"/>
+				</entries>
+			</item>
+		</items>
+	</electronic>
+	<registration>
+		<items lang="Ind" apply="true" exc="">
+			<item id="regNum">Pendaftaran Petunjuk Manual dan Kartu Garansi :</item>
+		</items>
+	</registration>
+	<fingerprint>
+		<items lang="Eng" apply="true" exc="">
+			<item id="optical">If you use a screen protector, make sure it allows for use of the On-screen fingerprint sensor.</item>
+			<item id="ultrawave-nonefilm">If you use a screen protector, make sure it allows for use of the ultrasonic fingerprint sensor. </item>
+			<item id="ultrawave-film">If you replace it, make sure the new protector allows for use of the ultrasonic fingerprint sensor.</item>
+		</items>
+		<items lang="Eng(India)" apply="true" exc="">
+			<item id="optical">If you use a screen protector, make sure it allows for use of the On-screen fingerprint sensor.</item>
+			<item id="ultrawave-nonefilm">If you use a screen protector, make sure it allows for use of the ultrasonic fingerprint sensor. </item>
+			<item id="ultrawave-film">If you replace it, make sure the new protector allows for use of the ultrasonic fingerprint sensor.</item>
+		</items>
+		<items lang="Alb" apply="true" exc="">
+			<item id="optical">Nëse përdorni mbrojtëse ekrani, sigurohuni që lejon përdorimin e sensorit të shenjave të gishtave në ekran.</item>
+			<item id="ultrawave-nonefilm">Nëse përdorni mbrojtës ekrani, sigurohuni që lejon përdorimin e sensorit ultrasonik të shenjës së gishtit.</item>
+			<item id="ultrawave-film">Nëse e ndërroni, sigurohuni që mbrojtësja e re të mos pengojë përdorimin e sensorit ultrasonik të shenjës së gishtit.</item>
+		</items>
+		<items lang="Spa(LTN)" apply="true" exc="">
+			<item id="optical">Si usa un protector de pantalla, asegúrese de que permita el uso del sensor de huellas digitales en pantalla.</item>
+			<item id="ultrawave-nonefilm">Si usa un protector de pantalla, asegúrese de que permita utilizar el sensor de huella dactilar ultrasónico.</item>
+			<item id="ultrawave-film">Si lo reemplaza, asegúrese de que el nuevo protector permita el uso del sensor ultrasónico de huellas dactilares.</item>
+		</items>
+		<items lang="Ara" apply="true" exc="">
+			<item id="optical">إذا كنت تستخدم واقيًا للشاشة، فتأكد من أنه يسمح باستخدام مستشعر بصمات الإصبع على الشاشة.</item>
+			<item id="ultrawave-nonefilm">إذا استخدمت واقي للشاشة، فتأكد من سماحه باستخدام مستشعر بصمة الإصبع بالموجات فوق الصوتية.</item>
+			<item id="ultrawave-film">إذا استبدلت واقي الشاشة، فتأكد من سماح الواقي الجديد باستخدام مستشعر بصمة الإصبع بالموجات فوق الصوتية.</item>
+		</items>
+		<items lang="Aze" apply="true" exc="">
+			<item id="optical">Ekran qoruyucusundan istifadə edirsinizsə, onun Ekranüstü barmaqizi sensorunun istifadəsinə icazə verdiyinə əmin olun.</item>
+			<item id="ultrawave-nonefilm">Ekran qoruyucusundan istifadə etdikdə onun ultrasəs barmaq izi sensorundan istifadə etməyə imkan verdiyindən əmin olun.</item>
+			<item id="ultrawave-film">Onu dəyişdirsəniz, yeni qoruyucunun ultrasəs barmaq izi sensorundan istifadəyə imkan verdiyindən əmin olun.</item>
+		</items>
+		<items lang="Ben" apply="true" exc="">
+			<item id="optical">আপনি যদি কোনো স্ক্রীন প্রোটেক্টর ব্যবহার করেন তাহলে তা স্ক্রিনে থাকা ফিঙ্গারপ্রিন্ট সেন্সরটি ব্যবহারের অনুমতি দেয় কিনা তা নিশ্চিত করুন।</item>
+			<item id="ultrawave-nonefilm">আপনি যদি একটি স্ক্রীন প্রটেক্টর ব্যবহার করেন তবে নিশ্চিত করুন এটি আল্ট্রাসোনিক আঙ্গুলেরছাপ সেন্সর ব্যবহারের অনুমতি দেয়৷</item>
+			<item id="ultrawave-film">আপনি যদি এটিকে প্রতিস্থাপান করেন তাহলে নতুন প্রটেক্টরটি আল্ট্রাসোনিক আঙ্গুলেরছাপ সেন্সর ব্যবহারের অনুমতি দেয় তা নিশ্চিত করুন৷</item>
+		</items>
+		<items lang="Bul" apply="true" exc="">
+			<item id="optical">Ако използвате протектор на екрана, се уверете, че той позволява използването на сензора за пръстови отпечатъци на екрана.</item>
+			<item id="ultrawave-nonefilm">Ако използвате протектор на екрана, се уверете, че той позволява използването на ултразвуковия сензора за пръстови отпечатъци.</item>
+			<item id="ultrawave-film">Ако го замените, уверете се, че новият протектор позволява използването на ултразвуков сензор за пръстови отпечатъци.</item>
+		</items>
+		<items lang="Mya" apply="true" exc="">
+			<item id="optical">သင့္အေနျဖင့္ မ်က္ႏွာျပင္ အကာအကြယ္ကို အသံုးျပဳပါက အကာအကြယ္သည္ မ်က္ႏွာျပင္လက္ေဗြဖတ္ အာရံုခံကို အသံုးျပဳလို႔ရေၾကာင္း ေသခ်ာပါေစ။</item>
+			<item id="ultrawave-nonefilm">မ်က္ႏွာျပင္ အကာအကြယ္ သံုးပါက ၎အကာအကြယ္သည္ အာလ္ထရာဆိုးနစ္ လက္ေဗြအာရံုခံ အသံုးျပဳမႈကို ခြင့္ျပဳထားေၾကာင္း ေသခ်ာပါေစ။</item>
+			<item id="ultrawave-film">၄င္းကို အစားထိုးပါက အကာအကြယ္အသစ္သည္ အာလ္ထရာဆိုးနစ္ လက္ေဗြအာရံုခံ အသံုးျပဳမႈကို ခြင့္ျပဳထားေၾကာင္း ေသခ်ာပါေစ။</item>
+		</items>
+		<items lang="Hrv" apply="true" exc="">
+			<item id="optical">Ako upotrebljavate zaštitnu foliju za zaslon, provjerite omogućuje li uporabu zaslonskog senzora otisaka prstiju.</item>
+			<item id="ultrawave-nonefilm">Ako koristite zaštitnik zaslona, provjerite omogućuje li korištenje ultrazvučnog senzora otiska prsta.</item>
+			<item id="ultrawave-film">Ako ga zamijenite, uvjerite se da novi zaštitnik omogućuje uporabu ultrazvučnog senzora otiska prsta.</item>
+		</items>
+		<items lang="Cze" apply="true" exc="">
+			<item id="optical">Používáte-li ochrannou fólii obrazovky, musí umožňovat používání snímače otisků prstů na obrazovce.</item>
+			<item id="ultrawave-nonefilm">Pokud používáte chránič obrazovky, ujistěte se, že umožňuje použití ultrazvukového snímače otisků prstu.</item>
+			<item id="ultrawave-film">Pokud ji budete měnit, ujistěte se, že nová ochrana umožňuje použití ultrazvukového snímače otisků prstu.</item>
+		</items>
+		<items lang="Dan" apply="true" exc="">
+			<item id="optical">Hvis du bruger skærmbeskytter, skal du sørge for, at den ikke forhindrer brugen af sensoren til genkendelse af fingeraftryk.</item>
+			<item id="ultrawave-nonefilm">Hvis du bruger en skærmbeskytter, skal du sikre, at du kan bruge den ultrasoniske fingeraftrykssensor på skærmen.</item>
+			<item id="ultrawave-film">Hvis du udskifter den, skal du sikre, at du kan bruge den ultrasoniske fingeraftrykssensor sammen med skærmbeskytteren.</item>
+		</items>
+		<items lang="Dut" apply="true" exc="">
+			<item id="optical">Als u een screenprotector gebruikt, zorg er dan voor dat deze geschikt is voor gebruik van de vingerafdruksensor.</item>
+			<item id="ultrawave-nonefilm">Als u een screenprotector gebruikt, moet u controleren of deze geschikt is voor gebruik van de ultrasonische vingerafdruksensor.</item>
+			<item id="ultrawave-film">Als u deze vervangt, moet u controleren of de nieuwe screenprotector geschikt is voor gebruik van de ultrasonische vingerafdruksensor.</item>
+		</items>
+		<items lang="Est" apply="true" exc="">
+			<item id="optical">Kui kasutate ekraanikaitset, veenduge, et see võimaldaks kasutada ekraanialust sõrmejäljelugejat.</item>
+			<item id="ultrawave-nonefilm">Kui kasutate ekraanikaitset, veenduge, et see laseb sõrmejälje ultrahelisensorit kasutada.</item>
+			<item id="ultrawave-film">Veenduge selle asendamisel, et uus ekraanikaitse laseb sõrmejälje ultrahelisensorit kasutada.</item>
+		</items>
+		<items lang="Far" apply="true" exc="">
+			<item id="optical">در صورت استفاده از محافظ صفحه‌نمایش، اطمینان یابید که به شما امکان استفاده از حسگر اثر انگشت روی صفحه‌نمایش را می‌دهد.</item>
+			<item id="ultrawave-nonefilm">N/A</item>
+			<item id="ultrawave-film">اگر آن را تعویض می‌کنید، دقت کنید محافظ جدید استفاده از حسگر اثر انگشت فراصوت را اجازه دهد.</item>
+		</items>
+		<items lang="Fin" apply="true" exc="">
+			<item id="optical">Jos käytössä on näytönsuojakalvo, varmista, ettei se estä näyttöön sijoitetun sormenjälkilukijan käyttöä.</item>
+			<item id="ultrawave-nonefilm">Jos käytössä on näytönsuojakalvo, varmista, ettei se estä ultraäänellä toimivan sormenjälkilukijan käyttöä.</item>
+			<item id="ultrawave-film">Jos vaihdat sen, varmista, ettei uusi näytönsuojakalvo estä ultraäänellä toimivan sormenjälkilukijan käyttöä.</item>
+		</items>
+		<items lang="Fre" apply="true" exc="">
+			<item id="optical">Si vous utilisez une protection d’écran, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales intégré à l’écran.</item>
+			<item id="ultrawave-nonefilm">Si vous disposez d’une protection d’écran, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales à ultrasons.</item>
+			<item id="ultrawave-film">Si vous la remplacez, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales à ultrasons.</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="optical">Si vous utilisez une protection d’écran, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales intégré à l’écran.</item>
+			<item id="ultrawave-nonefilm">Si vous disposez d’une protection d’écran, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales à ultrasons.</item>
+			<item id="ultrawave-film">Si vous la remplacez, assurez-vous de toujours pouvoir utiliser le lecteur d’empreintes digitales à ultrasons.</item>
+		</items>
+		<items lang="Geo" apply="true" exc="">
+			<item id="optical">თუ იყენებთ ეკრანის დამცავს, დარწმუნდით, რომ ის გაძლევთ საშუალებას, გამოიყენოთ ეკრანში განთავსებული თითის ანაბეჭდის სენსორი.</item>
+			<item id="ultrawave-nonefilm">თუ ეკრანის დამცავს იყენებთ, დარწმუნდით, რომ ის გაძლევთ საშუალებას, გამოიყენოთ ულტრაბგერითი თითის ანაბეჭდის სენსორი.</item>
+			<item id="ultrawave-film">თუ ჩაანაცვლებთ, დარწმუნდით, რომ დამცავი იძლევა საშუალებას გამოიყენოთ ულტრაბგერითი თითის ანაბეჭდის სენსორი.</item>
+		</items>
+		<items lang="Ger" apply="true" exc="">
+			<item id="optical">Achten Sie beim Verwenden eines Bildschirmschutzes darauf, dass er den Fingerabdrucksensor auf dem Bildschirm nicht beeinträchtigt.</item>
+			<item id="ultrawave-nonefilm">Achten Sie beim Verwenden eines Bildschirmschutzes darauf, dass er den Ultraschall-Fingerabdrucksensor auf dem Bildschirm nicht beeinträchtigt.</item>
+			<item id="ultrawave-film">Achten Sie beim Ersetzen durch einen neuen Bildschirmschutz darauf, dass der Ultraschall-Fingerabdrucksensor nicht beeinträchtigt wird.</item>
+		</items>
+		<items lang="Gre" apply="true" exc="">
+			<item id="optical">Αν χρησιμοποιείτε προστατευτικό οθόνης, βεβαιωθείτε ότι επιτρέπει τη χρήση του αισθητήρα δακτυλικών αποτυπωμάτων επί της οθόνης.</item>
+			<item id="ultrawave-nonefilm">Αν χρησιμοποιείτε προστατευτικό οθόνης, βεβαιωθείτε ότι επιτρέπει τη χρήση του υπερηχητικού αισθητήρα δακτυλικών αποτυπωμάτων.</item>
+			<item id="ultrawave-film">Αν το αντικαταστήσετε, βεβαιωθείτε ότι το νέο προστατευτικό επιτρέπει τη χρήση του υπερηχητικού αισθητήρα δακτυλικών αποτυπωμάτων.</item>
+		</items>
+		<items lang="Heb" apply="true" exc="">
+			<item id="optical">אם הנך משתמש במגן מסך, וודא כי הוא מאפשר שימוש בחיישן טביעת אצבע על גבי המסך.</item>
+			<item id="ultrawave-nonefilm">אם הנך משתמש במגן מסך, וודא כי הוא מאפשר שימוש בחיישן טביעת אצבע על-קולי.</item>
+			<item id="ultrawave-film">אם תחליף מגן, וודא כי הוא מאפשר שימוש בחיישן טביעת אצבע על-קולי.</item>
+		</items>
+		<items lang="Hin" apply="true" exc="">
+			<item id="optical">सुनिश्चित करें की आपका स्क्रीन प्रोटेक्टर स्क्रीन पर लगे फिंगर सेन्सर के उपयोग में सक्षम है।</item>
+			<item id="ultrawave-nonefilm">N/A</item>
+			<item id="ultrawave-film">यदि आप इसे बदलते हैं, तो सुनिश्चित करें कि नया प्रोटेक्टर अल्ट्रासोनिक फ़िंगरप्रिंट सेंसर के उपयोग की अनुमति देता है।</item>
+		</items>
+		<items lang="HongKong" apply="true" exc="">
+			<item id="optical">若您使用螢幕保護貼，請確保其允許使用屏幕指紋感應器。</item>
+			<item id="ultrawave-nonefilm">若您使用螢幕保護貼，請確保其允 許使用超音波指紋感應器。</item>
+			<item id="ultrawave-film">若您將其更換，請確保新保護貼允許使用超聲波指紋感應器。</item>
+		</items>
+		<items lang="Hun" apply="true" exc="">
+			<item id="optical">Ha képernyővédőt használ, győződjön meg róla, hogy lehetővé teszi a képernyőbe ágyazott ujjlenyomatolvasó használatát.</item>
+			<item id="ultrawave-nonefilm">Ha képernyővédőt használ, győződjön meg róla, hogy lehetővé teszi az ultrahangos ujjlenyomat-olvasó használatát.</item>
+			<item id="ultrawave-film">Ha kicseréli, győződjön meg róla, hogy az új védő lehetővé teszi az ultrahangos ujjlenyomat-olvasó használatát.</item>
+		</items>
+		<items lang="Ind" apply="true" exc="">
+			<item id="optical">Jika Anda menggunakan pelindung layar, pastikan pelindung layar tersebut bisa digunakan untuk Sensor sidik jari pada layar.</item>
+			<item id="ultrawave-nonefilm">Jika Anda menggunakan pelindung layar, pastikan pelindung memungkinkan penggunaan sensor sidik jari ultrasonik.</item>
+			<item id="ultrawave-film">Jika Anda menggantinya, pastikan pelindung yang baru memungkinkan penggunaan sensor sidik jari ultrasonik.</item>
+		</items>
+		<items lang="Ita" apply="true" exc="">
+			<item id="optical">Se utilizzate una pellicola protettiva per lo schermo, assicuratevi che consenta l'uso del sensore per impronte digitali sotto lo schermo.</item>
+			<item id="ultrawave-nonefilm">Se utilizzate una pellicola protettiva per lo schermo, assicuratevi che consenta l'uso del sensore per impronte digitali a ultrasuoni.</item>
+			<item id="ultrawave-film">Se la sostituite, assicuratevi che la nuova pellicola consenta l'uso del sensore per impronte digitali a ultrasuoni.</item>
+		</items>
+		<items lang="Kaz" apply="true" exc="">
+			<item id="optical">Экран протекторын пайдаланатын болсаңыз, оның экрандық саусақ ізі датчигін қолдануға мүмкіндік беретіндігіне көз жеткізіңіз.</item>
+			<item id="ultrawave-nonefilm">Егер экран қорғанысы қолданылса, ол саусақ ізінің ультрадыбыстық датчигінің жұмысына кедергі келтірмейтініне көз жеткізіңіз.</item>
+			<item id="ultrawave-film">Оны алмастырсаңыз, жаңа экран қорғанысы саусақ ізінің ультрадыбыстық датчигінің жұмысына кедергі келтірмейтініне көз жеткізіңіз.</item>
+		</items>
+		<items lang="Khm" apply="true" exc="">
+			<item id="optical">បើអ្នកប្រើស្គ្រីនការពារអេក្រង់ ត្រូវប្រាកដថា ស្គ្រីនការពារអេក្រង់នោះ អាចប្រើសិនសឺខ្ចៅដៃលើអេក្រង់ទូរសព្ទបាន។</item>
+			<item id="ultrawave-nonefilm">បើ​អ្នក​ប្រើ​ស្គ្រីន​ការពារ​អេក្រង់ ត្រូវ​ប្រាកដ​ថា វា​អនុញ្ញាត​សម្រាប់​ការប្រើ​សិនសឺ​ខ្ចៅដៃ​អាល់ត្រាសោន។</item>
+			<item id="ultrawave-film">បើ​អ្នក​ផ្លាស់​វា ត្រូវ​ប្រាកដ​ថា ស្គ្រីន​ការពារ​ថ្មី​អនុញ្ញាត​សម្រាប់​ការប្រើ​សិនសឺ​ខ្ចៅដៃ​អាល់ត្រាសោន។</item>
+		</items>
+		<items lang="Lao" apply="true" exc="">
+			<item id="optical">ຖ້າທ່ານໃຊ້ກັນແຕກໜ້າຈໍ, ເບິ່ງໃຫ້ແນ່ໃຈວ່າມັນອະນຸຍ າດໃຫ້ໃຊ້ເຊັນເຊີລາຍນິ້ວມືໃນໜ້າຈໍຫຼືບໍ່.</item>
+			<item id="ultrawave-nonefilm">ຖ້າທ່ານມີກັນແຕກໜ້າຈໍ, ເບິ່ງໃຫ້ແນ່ໃຈວ່າມັນອະນຸຍາດໃຫ້ໃຊ້ເຊັນເຊີລາຍນິ້ວມືອູລຕຣາໂຊນິກຫຼືບໍ່.</item>
+			<item id="ultrawave-film">ຖ້າທ່ານປ່ຽນແທນມັນ, ເບິ່ງໃຫ້ແນ່ໃຈວ່າເຄື່ອງກັນແຕກໃໝ່ອະນຸຍາດໃຫ້ໃຊ້ເຊັນເຊີລາຍນິ້ວມືອູລຕຣາໂຊນິກຫຼືບໍ່.</item>
+		</items>
+		<items lang="Lav" apply="true" exc="">
+			<item id="optical">Ja izmantojat ekrāna aizsargu, pārliecinieties, vai tas ļauj izmantot ekrāna pirksta nospieduma sensoru.</item>
+			<item id="ultrawave-nonefilm">Ja izmantojat ekrāna aizsargu, pārliecinieties, vai darbojas ultraskaņas pirkstu nospiedumu atpazīšanas sensors.</item>
+			<item id="ultrawave-film">Ja to nomaināt, pārliecinieties, vai jaunais aizsargs ļauj izmantot ultraskaņas pirkstu nospiedumu atpazīšanas sensoru.</item>
+		</items>
+		<items lang="Lit" apply="true" exc="">
+			<item id="optical">Jei naudojate ekrano apsaugą, įsitikinkite, kad galite naudoti ant ekrano esantį pirštų atspaudų jutiklį.</item>
+			<item id="ultrawave-nonefilm">Jei naudojate ekrano apsaugą, įsitikinkite, kad galite naudoti ultragarsinį pirštų atspaudų jutiklį.</item>
+			<item id="ultrawave-film">Jei keičiate ekrano apsaugą, įsitikinkite, kad nauja apsauga leis naudoti ultragarsinį pirštų atspaudų jutiklį.</item>
+		</items>
+		<items lang="Mac" apply="true" exc="">
+			<item id="optical">Ако користите заштита на екранот, проверете дали дозволува да користите сензор за отпечаток од прст на екранот.</item>
+			<item id="ultrawave-nonefilm">Ако користите заштита на екранот, проверете дали дозволува да користите ултрасоничен сензор за отпечатоци од прсти.</item>
+			<item id="ultrawave-film">Ако го замените, бидете сигурни дека новиот заштитник дозволува да користите ултрасоничен сензор за отпечатоци од прсти.</item>
+		</items>
+		<items lang="Mon" apply="true" exc="">
+			<item id="optical">Та дэлгэцийн хамгаалалт ашиглаж буй тохиолдолд энэ нь дэлгэц дээрх хурууны хээ мэдрэгч ашиглахыг зөвшөөрдөг эсэхийг шалгаарай.</item>
+			<item id="ultrawave-nonefilm">Хэрэв та дэлгэцийн хамгаалалт хэрэглэж байгаа бол хурууны хээний хэт авиан мэдрэгчид нөлөөлөх эсэхийг шалгана уу.</item>
+			<item id="ultrawave-film">Хэрэв үүнийг соливол дэлгэцийн хамгаалалт нь хурууны хээний хэт авиан мэдрэгчид нөлөөлөх эсэхийг шалгана уу.</item>
+		</items>
+		<items lang="Nor" apply="true" exc="">
+			<item id="optical">Hvis du bruker en skjermbeskytter, må du passe på at den kan brukes med fingeravtrykkssensoren på skjermen.</item>
+			<item id="ultrawave-nonefilm">Hvis du bruker en skjermbeskytter, må du sørge for at den gjør det mulig å bruke den ultrasoniske fingeravtrykksskanneren.</item>
+			<item id="ultrawave-film">Hvis den skal byttes ut, pass på at den nye beskytteren gjør det mulig å bruke den ultrasoniske fingeravtrykksskanneren.</item>
+		</items>
+		<items lang="Pol" apply="true" exc="">
+			<item id="optical">W przypadku używania folii ochronnej na ekran należy upewnić się, że zapewnia ona możliwość korzystania ze zintegrowanego z ekranem czytnika odcisków palców.</item>
+			<item id="ultrawave-nonefilm">W przypadku korzystania z osłony ekranu upewnij się, że pozwala ona na korzystanie z ultradźwiękowego czujnika odcisków palców.</item>
+			<item id="ultrawave-film">W przypadku jej wymiany upewnij się, że nowa ekranu pozwala ona na korzystanie z ultradźwiękowego czujnika odcisków palców.</item>
+		</items>
+		<items lang="Por" apply="true" exc="">
+			<item id="optical">Se utiliza um protetor de ecrã, certifique-se de que este permite a utilização do sensor de impressão digital no ecrã.</item>
+			<item id="ultrawave-nonefilm">Se utiliza um protetor de ecrã, certifique-se de que este permite a utilização do sensor de impressão digital ultrassónico.</item>
+			<item id="ultrawave-film">Se o substituir, certifique-se de que o protetor novo permite a utilização do sensor de impressão digital ultrassónico.</item>
+		</items>
+		<items lang="Rum" apply="true" exc="">
+			<item id="optical">Dacă utilizați o folie de protecție a ecranului, asigurați-vă că permite utilizarea senzorului de amprentă integrat în ecran.</item>
+			<item id="ultrawave-nonefilm">Dacă utilizați o folie de protecție a ecranului, asigurați-vă că aceasta permite utilizarea senzorului de amprentă ultrasonic.</item>
+			<item id="ultrawave-film">Dacă înlocuiți folia, asigurați-vă că folia de protecție nouă permite utilizarea senzorului de amprentă ultrasonic.</item>
+		</items>
+		<items lang="Rus" apply="true" exc="">
+			<item id="optical">Если вы используете защитную пленку для экрана, убедитесь, что она не препятствует работе экранного датчика отпечатков пальцев.</item>
+			<item id="ultrawave-nonefilm">При использовании защиты экрана убедитесь, что она не препятствует работе ультразвукового датчика отпечатков пальцев.</item>
+			<item id="ultrawave-film">В случае замены защиты экрана убедитесь, что новая защита экрана не препятствует работе ультразвукового датчика отпечатков пальцев.</item>
+		</items>
+		<items lang="Srp" apply="true" exc="">
+			<item id="optical">Ako koristite zaštitnik ekrana, osigurajte da on podržava ekranski senzor otiska prsta.</item>
+			<item id="ultrawave-nonefilm">Ako koristite zaštitnik ekrana, osigurajte da on podržava ultrazvučni senzor otiska prsta.</item>
+			<item id="ultrawave-film">Ako ga zamenite, uverite se da novi štitnik omogućava upotrebu ultrazvučnog senzora otiska prsta.</item>
+		</items>
+		<items lang="Chi" apply="true" exc="">
+			<item id="optical">如果使用屏幕保护膜，请确保其不妨碍使用屏幕指纹传感器。</item>
+			<item id="ultrawave-nonefilm">如果使用屏幕保护膜， 请确保粘贴屏幕保护膜后， 超声波指纹传感器仍然可以 使用。</item>
+			<item id="ultrawave-film">如果使用新的屏幕保护膜进行替换, 请确保其不妨碍使用超声波指纹传感器。</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="true" exc="">
+			<item id="optical">如果您使用屏幕保护装置，确保它不会妨碍使用屏幕指纹传感器。</item>
+			<item id="ultrawave-nonefilm">如果您使用屏幕保护设备，请确保 能够使用超声波指纹传感器。</item>
+			<item id="ultrawave-film">若您将其更换，请确保新保护装置允许使用超声波指纹传感器。</item>
+		</items>
+		<items lang="Slovak" apply="true" exc="">
+			<item id="optical">Ak používate ochranu displeja, uistite sa, že umožňuje používanie snímača odtlačkov prstov na displeji.</item>
+			<item id="ultrawave-nonefilm">Ak používate ochranu displeja, uistite sa, že umožňuje používanie ultrazvukového snímača odtlačkov prstov.</item>
+			<item id="ultrawave-film">Ak ho vymeníte, uistite sa, že nový ochranný kryt umožňuje používanie ultrazvukového snímača odtlačkov prstov.</item>
+		</items>
+		<items lang="Slovenian" apply="true" exc="">
+			<item id="optical">Če uporabljate zaščito zaslona, se prepričajte, da omogoča uporabo senzorja prstnega odtisa na zaslonu.</item>
+			<item id="ultrawave-nonefilm">Če uporabljate zaščito zaslona, se prepričajte, da omogoča uporabo ultrazvočnega senzorja prstnega odtisa.</item>
+			<item id="ultrawave-film">Če jo zamenjate, se prepričajte, da nova zaščita zaslona omogoča uporabo ultrazvočnega senzorja prstnega odtisa.</item>
+		</items>
+		<items lang="Spa" apply="true" exc="">
+			<item id="optical">Si usa un protector de pantalla, asegúrese de que permita el uso del sensor de huellas digitales integrado en la pantalla.</item>
+			<item id="ultrawave-nonefilm">Si usa un protector de pantalla, asegúrese de que permita el uso del sensor del lector de huellas digitales ultrasónico.</item>
+			<item id="ultrawave-film">Si lo cambia, asegúrese de que el nuevo proyector permita el uso del sensor del lector de huellas digitales ultrasónico.</item>
+		</items>
+		<items lang="Swe" apply="true" exc="">
+			<item id="optical">Om du använder ett skärmskydd ska du se till att du kan använda sensorn för fingeravtryck på skärmen tillsammans med det.</item>
+			<item id="ultrawave-nonefilm">Om du använder ett skärmskydd ska du se till att du kan använda den ultraljudsfingeravtryckssensorn tillsammans med det.</item>
+			<item id="ultrawave-film">Om du byter ut det ska du se till att du kan använda den ultraljudsfingetryckssensorn tillsammans med det nya skyddet.</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="true" exc="">
+			<item id="optical">若您使用螢幕保護貼，請確認這允許用於螢幕上的指紋感應器。</item>
+			<item id="ultrawave-nonefilm">如加上螢幕保護貼，請確認其可搭 配超聲波指紋感應器使用。</item>
+			<item id="ultrawave-film">如欲替換，請確認新保護貼其可搭配超聲波指紋感應器使用。</item>
+		</items>
+		<items lang="Tha" apply="true" exc="">
+			<item id="optical">หากคุณใช้ตัวป้องกันหน้าจอ ตรวจสอบให้แน่ใจว่า สามารถใช้ได้กับเซนเซอร์ลายนิ้วมือที่หน้าจอ</item>
+			<item id="ultrawave-nonefilm">หากคุณใช้ตัวป้องกันหน้าจอ ตรวจสอบให้แน่ใจว่าสามารถใช้ได้กับเซนเซอร์ลายนิ้วมืออุลตราโซนิก</item>
+			<item id="ultrawave-film">หากคุณเปลี่ยนตัวป้องกัน ตรวจสอบให้แน่ใจว่าตัวป้องกันใหม่สามารถใช้ได้กับเซนเซอร์ลายนิ้วมืออุลตราโซนิก</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="optical">Eğer ekran koruyucu kullanıyorsanız ekran üstündeki parmak izi sensörünü engellemediğinden emin olun.</item>
+			<item id="ultrawave-nonefilm">Ekran koruyucu kullanıyorsanız, ultrasonik parmak izi sensörünün çalışmasına izin verdiğinden emin olun.</item>
+			<item id="ultrawave-film">Ekran koruyucuyu değiştirirseniz yeni ekran koruyucunun, ultrasonik parmak izi sensörünün çalışmasına olanak verdiğinden emin olun.</item>
+		</items>
+		<items lang="Ukr" apply="true" exc="">
+			<item id="optical">Якщо ви застосовуєте захисну плівку, переконайтеся в тому, що вона дає змогу використовувати екранний датчик відбитків пальців.</item>
+			<item id="ultrawave-nonefilm">Якщо ви використовуєте захист екрану переконайтеся, що вона не заважає ультразвукового роботі датчика відбитків пальців.</item>
+			<item id="ultrawave-film">Якщо ви використовуєте захист екрану переконайтеся, що новий захист екрану не заважає ультразвукового роботі датчика відбитків пальців.</item>
+		</items>
+		<items lang="Urd" apply="true" exc="">
+			<item id="optical">اگر آپ اسکرین پروٹیکٹر استعمال کرتے ہیں تو یقینی بنائیں کہ یہ آن اسکرین فنگر پرنٹ سینسر کے استعمال کی اجازت دیتا ہے۔</item>
+			<item id="ultrawave-nonefilm">اگر آپ اسکرین محافظ کا استعمال کرتے ہیں، تو یقینی بنائیں کہ یہ الٹرا سونک فنگرپرنٹ سینسر کے استعمال کی اجازت دیتا ہو۔</item>
+			<item id="ultrawave-film">اگر آپ اسے بدلتے ہیں، تو یقینی بنائیں کہ نیا پروٹیکٹر الٹرا سونک فنگرپرنٹ سینسر کے استعمال کی اجازت دیتا ہو۔</item>
+		</items>
+		<items lang="Uzb" apply="true" exc="">
+			<item id="optical">Agar ekran himoyasidan foydalansangiz, uning barmoq izi sensori ishiga to‘sqinlik qilmasligiga ishonch hosil qiling.</item>
+			<item id="ultrawave-nonefilm">Agar ekran himoyasidan foydalansangiz, ultrasonik barmoq izi sensori ishiga to‘sqinlik qilmasligiga ishonch hosil qiling.</item>
+			<item id="ultrawave-film">Agar uni almashtirsangiz, yangi ekran himoyasi ultrasonik barmoq izi sensori ishiga to‘sqinlik qilmasligiga ishonch hosil qiling.</item>
+		</items>
+		<items lang="Vie" apply="true" exc="">
+			<item id="optical">Nếu bạn dùng miếng bảo vệ màn hình, hãy đảm bảo bạn có thể sử dụng cảm biến vân tay trên màn hình với miếng bảo vệ này.</item>
+			<item id="ultrawave-nonefilm">Nếu bạn sử dụng miếng dán màn hình, đảm bảo rằng miếng dán sử dụng được với cảm biến vân tay siêu âm.</item>
+			<item id="ultrawave-film">Nếu bạn thay miếng dán màn hình, đảm bảo rằng miếng dán mới sử dụng được với cảm biến vân tay siêu âm.</item>
+		</items>
+	</fingerprint>
+	<eDoc>
+		<items lang="Eng" apply="true" exc="">
+			<item id="edoc">Declaration of Conformity</item>
+		</items>
+		<items lang="Eng(India)" apply="true" exc="">
+			<item id="edoc">Declaration of Conformity</item>
+		</items>
+		<items lang="Alb" apply="true" exc="">
+			<item id="edoc">Deklarata e Konformitetit</item>
+		</items>
+		<items lang="Spa(LTN)" apply="true" exc="">
+			<item id="edoc">Declaración de conformidad</item>
+		</items>
+		<items lang="Ara" apply="true" exc="">
+			<item id="edoc">إعلان المطابقة</item>
+		</items>
+		<items lang="Aze" apply="true" exc="">
+			<item id="edoc">Uyğunluq Bəyannaməsi</item>
+		</items>
+		<items lang="Ben" apply="true" exc="">
+			<item id="edoc">Declaration of Conformity</item>
+		</items>
+		<items lang="Bul" apply="true" exc="">
+			<item id="edoc">Декларация за съответствие</item>
+		</items>
+		<items lang="Mya" apply="true" exc="">
+			<item id="edoc">ထံုးတမ္းစဥ္လာႏွင့္ကိုက္ညီေၾကာင္း ေၾကညာခ်က္</item>
+		</items>
+		<items lang="Hrv" apply="true" exc="">
+			<item id="edoc">Izjava o sukladnosti</item>
+		</items>
+		<items lang="Cze" apply="true" exc="">
+			<item id="edoc">Prohlášení o shodě</item>
+		</items>
+		<items lang="Dan" apply="true" exc="">
+			<item id="edoc">Overensstemmelseserklæring</item>
+		</items>
+		<items lang="Dut" apply="true" exc="">
+			<item id="edoc">Verklaring van overeenstemming</item>
+		</items>
+		<items lang="Est" apply="true" exc="">
+			<item id="edoc">Vastavusdeklaratsioon</item>
+		</items>
+		<items lang="Far" apply="true" exc="">
+			<item id="edoc">بیانیه انطباق</item>
+		</items>
+		<items lang="Fin" apply="true" exc="">
+			<item id="edoc">Vaatimustenmukaisuusvakuutus</item>
+		</items>
+		<items lang="Fre" apply="true" exc="">
+			<item id="edoc">Déclaration de conformité</item>
+		</items>
+		<items lang="Fre(EU)" apply="true" exc="">
+			<item id="edoc">Déclaration de conformité</item>
+		</items>
+		<items lang="Geo" apply="true" exc="">
+			<item id="edoc">შესაბამისობის დეკლარაცია</item>
+		</items>
+		<items lang="Ger" apply="true" exc="">
+			<item id="edoc">Konformitätserklärung</item>
+		</items>
+		<items lang="Gre" apply="true" exc="">
+			<item id="edoc">Δήλωση συμμόρφωσης</item>
+		</items>
+		<items lang="Heb" apply="true" exc="">
+			<item id="edoc">הצהרת תואמות</item>
+		</items>
+		<items lang="Hin" apply="true" exc="">
+			<item id="edoc">अनुपालन की घोषणा</item>
+		</items>
+		<items lang="HongKong" apply="true" exc="">
+			<item id="edoc">符合性聲明</item>
+		</items>
+		<items lang="Hun" apply="true" exc="">
+			<item id="edoc">Megfelelőségi nyilatkozat</item>
+		</items>
+		<items lang="Ind" apply="true" exc="">
+			<item id="edoc">Pernyataan Kesesuaian</item>
+		</items>
+		<items lang="Ita" apply="true" exc="">
+			<item id="edoc">Dichiarazione di Conformità</item>
+		</items>
+		<items lang="Kaz" apply="true" exc="">
+			<item id="edoc">Сәйкестік декларациясы</item>
+		</items>
+		<items lang="Khm" apply="true" exc="">
+			<item id="edoc">សេចក្ដីប្រកាស​អំពី​អនុលោមភាព</item>
+		</items>
+		<items lang="Lao" apply="true" exc="">
+			<item id="edoc">Declaration of Conformity</item>
+		</items>
+		<items lang="Lav" apply="true" exc="">
+			<item id="edoc">Atbilstības deklarācija</item>
+		</items>
+		<items lang="Lit" apply="true" exc="">
+			<item id="edoc">Atitikties deklaracija</item>
+		</items>
+		<items lang="Mac" apply="true" exc="">
+			<item id="edoc">Изјава за сообразност</item>
+		</items>
+		<items lang="Mon" apply="true" exc="">
+			<item id="edoc">Стандарт шаардлагыг хангасан тухай мэдэгдэл</item>
+		</items>
+		<items lang="Nor" apply="true" exc="">
+			<item id="edoc">Samsvarserklæring</item>
+		</items>
+		<items lang="Pol" apply="true" exc="">
+			<item id="edoc">Deklaracja zgodności</item>
+		</items>
+		<items lang="Por" apply="true" exc="">
+			<item id="edoc">Declaração de conformidade</item>
+		</items>
+		<items lang="Rum" apply="true" exc="">
+			<item id="edoc">Declarație de conformitate</item>
+		</items>
+		<items lang="Rus" apply="true" exc="">
+			<item id="edoc">Декларация соответствия</item>
+		</items>
+		<items lang="Srp" apply="true" exc="">
+			<item id="edoc">Izjava o usaglašenosti</item>
+		</items>
+		<items lang="Chi" apply="true" exc="">
+			<item id="edoc">符合性声明</item>
+		</items>
+		<items lang="Chi(Singapore)" apply="true" exc="">
+			<item id="edoc">符合性声明</item>
+		</items>
+		<items lang="Slovak" apply="true" exc="">
+			<item id="edoc">Vyhlásenie o zhode</item>
+		</items>
+		<items lang="Slovenian" apply="true" exc="">
+			<item id="edoc">Izjava o skladnosti</item>
+		</items>
+		<items lang="Spa" apply="true" exc="">
+			<item id="edoc">Declaración de conformidad</item>
+		</items>
+		<items lang="Swe" apply="true" exc="">
+			<item id="edoc">Försäkran om överensstämmelse</item>
+		</items>
+		<items lang="Chi(Taiwan)" apply="true" exc="">
+			<item id="edoc">符合性聲明</item>
+		</items>
+		<items lang="Tha" apply="true" exc="">
+			<item id="edoc">ประกาศการปฏิบัติตามระเบียบ</item>
+		</items>
+		<items lang="Tur" apply="true" exc="">
+			<item id="edoc">Uyumluluk Bildirisi</item>
+		</items>
+		<items lang="Ukr" apply="true" exc="">
+			<item id="edoc">Моделі з радіопередавачем або радіомовним приймачем</item>
+		</items>
+		<items lang="Urd" apply="true" exc="">
+			<item id="edoc">مطابقت کا اعلان</item>
+		</items>
+		<items lang="Uzb" apply="true" exc="">
+			<item id="edoc">Muvofiqlik sertifikati</item>
+		</items>
+		<items lang="Vie" apply="true" exc="">
+			<item id="edoc">Tuyên bố về Sự phù hợp</item>
+		</items>
+	</eDoc>
+	<indiabis>
+		<items lang="Eng" apply="true" exc="">
+			<item id="bis">Supporting Indian official languages</item>
+		</items>
+		<items lang="Eng(India)" apply="true" exc="">
+			<item id="bis">Supporting Indian official languages</item>
+		</items>
+	</indiabis>
+</root>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HMI Search Tool</title>
+	<script src="js/jquery-3.0.0.js"></script>
+	<script src="js/search.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/style.css"/>
+	<script type="text/javascript">
+		let cURL = location.href;
+		
+		function yesno(e) {
+			const value = e.value;
+			
+			if(value == 'bbb') {
+                const element1 = document.querySelector('select[name="region"] > option[value="usa"]');
+                element1.innerText = '북미/멕시코';
+                
+                const element2 = document.querySelector('select[name="region"] > option[value="ltn"]');
+                element2.innerText = '브라질';
+
+				const element3 = document.querySelector('select[name="region"] > option[value="eur"]');
+                element3.innerText = '유럽/러시아/터키';
+
+            } else if(value == 'aaa') {
+                const element1 = document.querySelector('select[name="region"] > option[value="usa"]');
+                element1.innerText = '북미';
+                
+                const element2 = document.querySelector('select[name="region"] > option[value="ltn"]');
+                element2.innerText = '브라질/멕시코';
+
+				const element3 = document.querySelector('select[name="region"] > option[value="eur"]');
+                element3.innerText = '유럽';
+            }
+		  }
+
+		let jsondb = [ 'mobis.json', 'mobis_ind.json', 'mobis_ccnc.json' ]
+		
+		for (var x=0;x<jsondb.length;x++) {
+			let xhr = new XMLHttpRequest();
+			xhr.open('GET', cURL + 'json/' + jsondb[x]);
+			xhr.onload = function() {
+				let date = xhr.getResponseHeader('Last-Modified');
+				let myUrl = xhr.responseURL;
+				$('#update').append(myUrl.replace(cURL + 'json/', '') + " - " + date2korType(date) + '<br/>');
+			}
+			xhr.send(null);
+		}
+
+		function date2korType(date) {
+			let upTodate = new Date();
+			upTodate = date.replace("Mon,", "월요일").replace("Tue,", "화요일").replace("Wed,", "수요일").replace("Thu,", "목요일").replace("Fri,", "금요일").replace("Sat,", "토요일").replace("Sun,", "일요일").replace("Jan", "01").replace("Feb", "02").replace("Mar", "03").replace("Apr", "04").replace("May", "05").replace("Jun", "06").replace("Jul", "07").replace("Aug", "08").replace("Sep", "09").replace("Oct", "10").replace("Nov", "11").replace("Dec", "11").replace("Dec", "12").replace(" GMT", "");
+			upTodate = upTodate.replace(/([ㄱ-ㅎ|ㅏ-ㅣ|가-힣]{3})\s(\d\d)\s(\d\d)\s(\d\d\d\d)/g, "$4-$3-$2 $1");
+			let time = upTodate.match(new RegExp(/(\d\d):(\d\d):(\d\d)/, "i"));
+			let hour = time[1]*1 + 9;
+			let min = time[2];
+			let korDate = upTodate.replace(/(\d\d):(\d\d):(\d\d)/g, "") + hour + ":" + min
+			return korDate;
+		}
+	</script>
+</head>
+<body>
+	<header>
+	<h1>HMI Search Tool for Mobis</h1>
+	<div class="uptodate">
+		<p>최종 업데이트 : <span id="update"></span></p>
+		<!-- <p>※ 셀을 더블 클릭하면 해당 셀의 내용을 클립보드로 복사합니다. ※ <br/>HMI Table 다운로드 경로 : /mc/Hyundai/Source/WIDE 표준매뉴얼/#HMI_Match#/#HMI_Table#</p> -->
+		<p>※ 셀을 더블 클릭하면 해당 셀의 내용을 클립보드로 복사합니다. ※ <br/>HMI Table 다운로드 경로 : /mc/Hyundai/Source/#HMI_Table#</p>
+	</div>
+	<div class="searchForm" id="search">
+		<form id="tmxSearch" action="result.html" method="GET" autocomplete="off">
+			<input name="matchAll" id="matchAll" type="checkbox"><lable for="matchAll">전체 내용 일치</lable>
+			<input name="byCase" id="byCase" type="checkbox" checked/><lable for="byCase">대소문자 구분</lable>
+			<select name="yesNo" id="yesNo" onchange="yesno(this)">
+				<option value="aaa">5세대</option>
+				<option value="bbb">6세대</option>
+			</select>
+			<select name="region" id="region">
+				<!-- <option value="all" selected>All</option> -->
+				<option value="int">내수</option>
+				<option value="usa">북미/멕시코</option>
+				<option value="mid">중동</option>
+				<option value="ltn">브라질</option>
+				<option value="gen">일반</option>
+				<option value="pio">인도(PIO)</option>
+				<option value="chi">중국</option>
+				<option value="jpn">일본</option>
+				<option value="ind">인도</option>
+				<option value="sin">싱가포르</option>
+				<option value="inn">인도네시아</option>
+				<option value="aus">호주</option>
+				<option value="eur">유럽/러시아/터키</option>
+			</select>
+			<select name="lang" id="lang">
+				<option value="ID">ID</option>
+				<option value="KOR">국어</option>
+				<option value="ENG">영어</option>
+				<!-- <option value="SC_CHI">중국어</option>
+				<option value="JPN">일본어</option> -->
+			</select>
+			<input name="searchString" id="searchString" type="text"/>
+			<input type="submit" value="검색" />
+		</form>
+	</div>
+	</header>
+	<main>
+		<div id="wait-container">
+			잠시만 기다려 주세요...
+		</div>
+		<div id="result"></div>
+	</main>
+	<!-- <div class="gototop2" style="cursor:pointer;" onclick="window.scrollTo(0,0);">TOP</div> -->
+	<script src="js/main.js"></script>
+</body>
+</html>

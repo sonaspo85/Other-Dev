@@ -1,0 +1,85 @@
+<codes>
+    <!-- 현재 사용하고 있는 속성 @lang, @sar -->
+    <div region="EU">
+        <code lang="Dan" bandandmode="true" />
+        <code lang="Dut" bandandmode="true" />
+        <code lang="Fin" bandandmode="true" />
+        <code lang="Fre(EU)" bandandmode="true" sars="headsar body-wornsar limbsar" distance="true" />
+        <code lang="Ger" bandandmode="true" />
+        <code lang="Ita" bandandmode="true" />
+        <code lang="Nor" bandandmode="true" />
+        <code lang="Por" bandandmode="true" />
+        <code lang="Spa" bandandmode="true" />
+        <code lang="Swe" bandandmode="true" />
+        <code lang="Gre" bandandmode="true" />
+        <code lang="Alb" bandandmode="true" />
+        <code lang="Hrv" bandandmode="true" />
+        <code lang="Mac" bandandmode="true" />
+        <code lang="Bul" bandandmode="true" />
+        <code lang="Cze" bandandmode="true" />
+        <code lang="Est" bandandmode="true" />
+        <code lang="Hun" bandandmode="true" />
+        <code lang="Lav" bandandmode="true" />
+        <code lang="Lit" bandandmode="true" />
+        <code lang="Pol" bandandmode="true" />
+        <code lang="Rum" bandandmode="true" />
+        <code lang="Slovak" bandandmode="true" />
+        <code lang="Slovenian" bandandmode="true" />
+        <code lang="Eng" bandandmode="true" />
+        <code lang="Srp" bandandmode="true" />
+    </div>
+
+    <div region="CIS">
+        <code lang="Kaz" />
+        <code lang="Mon" />
+        <code lang="Rus" />
+        <code lang="Uzb" />
+        <code lang="Aze" />
+        <code lang="Geo" />
+        <code lang="Rum" />
+        <code lang="Ukr" />
+        <code lang="Uzb" />
+    </div>
+
+    <div region="MEA">
+        <code lang="Heb" />
+        <code lang="Eng" />
+        <code lang="Ara" sars="headsar body-wornsar" distance="true" />
+        <code lang="Fre" sars="headsar body-wornsar" distance="true" />
+        <code lang="Urd" />
+        <code lang="Por" />
+        <code lang="Tur" bandandmode="true" sars="headsar body-wornsar" distance="true" productSpec="true" />
+    </div>
+
+    <div region="SEA">
+        <code lang="Eng" sars="headsar body-wornsar" distance="true" />
+        <code lang="Ind" sars="headsar body-wornsar" distance="true" registration="true" />
+        <code lang="Khm" sars="headsar body-wornsar" distance="true" />
+        <code lang="Lao" sars="headsar body-wornsar" distance="true" />
+        <code lang="Mya" sars="headsar body-wornsar" distance="true" />
+        <code lang="Chi(Singapore)" sars="headsar body-wornsar" distance="true" />
+        <code lang="Tha" sars="body-wornsar" />
+        <code lang="Vie" sars="headsar body-wornsar" distance="true" />
+    </div>
+
+    <div region="LTN">
+        <code lang="Spa(LTN)" />
+    </div>
+
+    <div region="SWA">
+        <code lang="Ben" sars="headsar body-wornsar" distance="true" />
+    </div>
+
+    <div region="India">
+        <code lang="Eng(India)" sars="headsar" />
+    </div>
+    <div region="Taiwan">
+        <code lang="Chi(Taiwan)" sars="body-wornsar" />
+    </div>
+    <div region="China">
+        <code lang="Chi" />
+    </div>
+    <div region="HongKong">
+        <code lang="HongKong" />
+    </div>
+</codes>

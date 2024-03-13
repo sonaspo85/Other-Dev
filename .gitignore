@@ -1,2 +1,5 @@
 Backup/
 resources/
+jre/
+*.zip
+*.idml

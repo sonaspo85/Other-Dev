@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Term Search Tool</title>
+	<script src="js/jquery-3.0.0.js"></script>
+	<script src="js/search.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/style.css"/>
+	<script type="text/javascript">
+		$.ajax({
+			dataType : "json",
+			cache: false,
+			url : "json/mobis.json",
+			success : handler
+		});
+		function handler(data, status, xhr) {
+			// alert(xhr.getResponseHeader('Last-Modified'));
+			let upTodate = new Date();
+			upTodate = xhr.getResponseHeader('Last-Modified');
+			upTodate = upTodate.replace("Mon,", "월요일").replace("Tue,", "화요일").replace("Wed,", "수요일").replace("Thu,", "목요일").replace("Fri,", "금요일").replace("Sat,", "토요일").replace("Sun,", "일요일").replace("Jan", "01").replace("Feb", "02").replace("Mar", "03").replace("Apr", "04").replace("May", "05").replace("Jun", "06").replace("Jul", "07").replace("Aug", "08").replace("Sep", "09").replace("Oct", "10").replace("Nov", "11").replace("Dec", "11").replace("Dec", "12").replace(" GMT", "");
+			upTodate = upTodate.replace(/([ㄱ-ㅎ|ㅏ-ㅣ|가-힣]{3})\s(\d\d)\s(\d\d)\s(\d\d\d\d)/g, "$4-$3-$2 $1");
+			let time = upTodate.match(new RegExp(/(\d\d):(\d\d):(\d\d)/, "i"));
+			let hour = time[1]*1 + 9;
+			let min = time[2];
+			console.log(upTodate.replace(/(\d\d):(\d\d):(\d\d)/g, "") + hour + ":" + min);
+			$("#update").append(upTodate.replace(/(\d\d):(\d\d):(\d\d)/g, "") + hour + ":" + min);
+		}
+	</script>
+</head>
+<body>
+	<div class="indexmain">
+		<h1>Term Search Tool for Mobis</h1>
+		<div class="uptodate">
+			<p>최종 업데이트 : <span id="update"></span></p>
+			<p>※ 셀을 더블 클릭하면 해당 셀의 내용을 클립보드로 복사합니다. ※ <br/>HMI Table 다운로드 경로 :  /Hyundai/Source/WIDE 표준매뉴얼/#HMI_Match#/#HMI_Table#</p>
+		</div>
+		<form id="tmxSearch" action="result.html" method="GET" autocomplete="off">
+			<input name="byCase" id="byCase" type="checkbox" checked/><lable for="byCase">대소문자 구분</lable>
+			<!-- <select name="part" id="part">
+				<option lang="defalut" value="mobis" selected>MOBIS</option>
+			</select> -->
+			<select name="region" id="region">
+				<option value="all" selected>All</option>
+				<option value="int">내수</option>
+				<option value="usa">북미</option>
+				<option value="mid">중동</option>
+				<option value="ltn">브라질/멕시코</option>
+				<option value="gen">일반</option>
+				<option value="ind">인도/인도네시아</option>
+				<option value="chi">중국</option>
+			</select>
+			<select name="lang" id="lang">
+				<option value="ID">ID</option>
+				<option value="KOR">국어</option>
+				<option value="ENG">영어</option>
+				<option value="SC_CHI">중국어</option>
+			</select>
+			<input name="searchString" id="searchString" type="text"/>
+			<input type="submit" value="검색" />
+		</form>
+	</div>
+	
+</body>
+</html>

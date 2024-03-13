@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<model name="SM-G780G/DS" />
+	<code name="GH68-53333D" />
+	<product type="Mobile phone" />
+	<optical type="초음파식-보호필름x" />
+	<bandmode>
+		<spec division="2G" bandandmode="egsm900" outputpower="33 dBm" supportstatus="Y" />
+		<spec division="2G" bandandmode="dcs1800" outputpower="30 dBm" supportstatus="Y" />
+		<spec division="3G" bandandmode="wcdma900" outputpower="24 dBm" supportstatus="Y" />
+		<spec division="3G" bandandmode="wcdma2100" outputpower="24 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_1" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_3" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_7" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_8" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_20" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_28" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_38" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_40" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_42" outputpower="" supportstatus="N" />
+		<spec division="4G" bandandmode="lte_43" outputpower="" supportstatus="N" />
+		<spec division="Wi-Fi" bandandmode="wifi2_4ghz" outputpower="20 dBm" supportstatus="Y" />
+		<spec division="Wi-Fi" bandandmode="wifi5_1_5_7ghz" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="Wi-Fi" bandandmode="wifi5_8ghz" outputpower="25 mW" supportstatus="Y" />
+		<spec division="Bluetooth" bandandmode="bluetooth2_4ghz" outputpower="20 dBm" supportstatus="Y" />
+		<spec division="MST" bandandmode="mst3_6khz" outputpower="21A/m at 0m" supportstatus="N" />
+		<spec division="NFC" bandandmode="nfc1" outputpower="42 dBμA/m at 10 m" supportstatus="Y" />
+		<spec division="Charging" bandandmode="wirelesscharging" outputpower="37.7 dBμA/m at 10 m" supportstatus="Y" />
+		<spec division="UWB" bandandmode="uwb6–8_5ghz" outputpower="0 dBm" supportstatus="Y" />
+	</bandmode>
+	<sars>
+		<spec division="Common" item="headsar" value="0.714 W/kg" />
+		<spec division="Common" item="body-wornsar" value="1.580 W/kg" />
+		<spec division="Common" item="distance" value="5 mm" />
+		<spec division="Fre(EU)" item="limbsar" value="2,56 W/kg" />
+		<spec division="Eng(India)" item="headsar" value="0.252 W/kg" />
+		<spec division="Chi(Taiwan)" item="body-wornsar" value="0.159 W/kg" />
+	</sars>
+	<electronic>
+		<spec division="adapter" item="entry1" value="100-240Vca 50/60Hz 0,7A" />
+		<spec division="adapter" item="departure1" value="(PDO) 5,0Vcc 3,0A o 9,0Vcc 2,77A (PPS) 3,3-5,9Vcc 3,0A o 3,3-11,0Vcc 2,25A" />
+		<spec division="device" item="entry1" value="9,0Vcc 2,77A" />
+	</electronic>
+	<productSpec>
+		<spec division="CPU" item="cpu" value="Octa-Core 2.9 GHz, 2.8 GHz, 2.2 GHz" />
+		<spec division="RAM" item="ram" value="12 GB" />
+		<spec division="OS System" item="ossystem" value="Android" />
+		<spec division="Screen Size" item="screensize" value="6.8" />
+		<spec division="Camera " item="camera" value="108.0MP, 10.0MP, 12.0MP, 10.0 MP" />
+		<spec division="Front Camera" item="frontcamera" value="40.0 MP" />
+		<spec division="Radio" item="radio" value="Yok" />
+		<spec division="MicroSD" item="microsd" value="Yok" />
+	</productSpec>
+	<registration>
+		<spec division="regNum" item="regNum" value="PMKG.540.11.2020" />
+	</registration>
+	<packages>
+		<spec division="Device" item="device" supportstatus="Y" />
+		<spec division="USB cable" item="usbcable" supportstatus="Y" />
+		<spec division="Quick start guide" item="quickstartguide" supportstatus="Y" />
+		<spec division="Ejection pin" item="ejectionpin" supportstatus="Y" />
+		<spec division="USB power adaptor" item="usbpoweradaptor" supportstatus="N" />
+		<spec division="S Pen" item="spen" supportstatus="N" />
+		<spec division="Battery" item="battery" supportstatus="N" />
+		<spec division="Case" item="case" supportstatus="N" />
+		<spec division="Protective Case" item="protectivecase" supportstatus="N" />
+	</packages>
+</root>

@@ -1,0 +1,138 @@
+_getRowBasic("W-planning")
+
+Func _getRowBasic($stName)
+	Switch $stName
+		Case "W-planning"
+			Return 7
+		Case "W-new"
+			Return 8
+		Case "W-new_all"
+			Return False
+		Case "W-modif_a"
+			Return 9
+		Case "W-modif_b"
+			Return 10
+		Case "W-sw_check"
+			Return 11
+		Case "D-new_a"
+			Return 12
+		Case "D-new_b"
+			Return 13
+		Case "D-modif_a"
+			Return 14
+		Case "D-modif_b"
+			Return 15
+		Case "D-modif_c"
+			Return 16
+		Case "D-book_cover"
+			Return 17
+		Case "D-book_toc"
+			Return 18
+		Case "G-review"
+			Return 19
+		Case "I-illus_a1"
+			Return 23
+		Case "I-illus_a2"
+			Return 24
+		Case "I-illus_b1"
+			Return 25
+		Case "I-illus_b2"
+			Return 26
+		Case "I-illus_b3"
+			Return 27
+		Case "I-illus_b4"
+			Return 28
+		Case "I-illus_c1"
+			Return 29
+		Case "I-illus_c2"
+			Return 30
+		Case "I-illus_d"
+			Return 31
+		Case "I-illus_e1"
+			Return 32
+		Case "I-illus_e2"
+			Return 33
+		Case "I-screen_capture"
+			Return 34
+		Case "O-etc"
+			Return 35
+		Case Else
+			Return False
+	EndSwitch
+EndFunc
+
+Func _getRowMLng($stName)
+	Switch $stName
+		Case "D-new"
+			Return 7
+		Case "D-modif_a"
+			Return 8
+		Case "D-modif_b"
+			Return 9
+		Case "D-modif_c"
+			Return 10
+		Case "D-book_cover"
+			Return 11
+		Case "D-book_toc"
+			Return 12
+		Case "G-sw_general"
+			Return 13
+		Case "G-sw_google"
+			Return 14
+		Case "G-sw_manual"
+			Return 15
+		Case "G-sw_matcher"
+			Return 16
+		Case "G-review"
+			Return 17
+		Case "I-illus_a1"
+			Return 28
+		Case "I-illus_a2"
+			Return 29
+		Case "I-illus_b1"
+			Return 30
+		Case "I-illus_b2"
+			Return 31
+		Case "I-illus_b3"
+			Return 32
+		Case "I-illus_b4"
+			Return 33
+		Case "I-illus_c1"
+			Return 34
+		Case "I-illus_c2"
+			Return 35
+		Case "I-illus_d"
+			Return 36
+		Case "I-illus_e1"
+			Return 37
+		Case "I-illus_e2"
+			Return 38
+		Case "I-screen_capture"
+			Return 39
+		Case Else
+			Return False
+	EndSwitch
+EndFunc
+
+Func _getRowHtml($stName)
+	Switch $stName
+		Case "H-trans"
+			Return 7
+		Case "H-trans_rtl"
+			Return 7
+		Case "H-trans_4"
+			Return 8
+		Case "H-trans_4_rtl"
+			Return 8
+		Case "H-check"
+			Return 9
+		Case "A-icon"
+			Return 10
+		Case "A-text_a"
+			Return 11
+		Case "A-text_b"
+			Return 12
+		Case Else
+			Return False
+	EndSwitch
+EndFunc

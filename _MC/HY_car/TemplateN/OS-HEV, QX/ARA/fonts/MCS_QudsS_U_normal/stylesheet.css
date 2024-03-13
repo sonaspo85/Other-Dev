@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MCS Quds S_U normal.';
+    src: url('hinted-MCSQudsS_Unormal.eot');
+    src: url('hinted-MCSQudsS_Unormal.eot?#iefix') format('embedded-opentype'),
+        url('hinted-MCSQudsS_Unormal.woff2') format('woff2'),
+        url('hinted-MCSQudsS_Unormal.woff') format('woff'),
+        url('hinted-MCSQudsS_Unormal.ttf') format('truetype'),
+        url('hinted-MCSQudsS_Unormal.svg#MCSQudsS_Unormal.') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root fileName="KIA_ID,Float_내수_Kor(KA4).xlsx">
+   <listitem>
+      <fileName>004_Basic</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>각 부분의 이름과 기능</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>004_Basic</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>시스템 켜기/끄기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>004_Basic</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>터치 스크린 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>004_Basic</fileName>
+      <Depth>1</Depth>
+      <shortcutID>home</shortcutID>
+      <floating></floating>
+      <contents_string>홈 화면 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>004_Basic</fileName>
+      <Depth>1</Depth>
+      <shortcutID>allmenus</shortcutID>
+      <floating></floating>
+      <contents_string>전체 메뉴 화면 보기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>pprojection</shortcutID>
+      <floating></floating>
+      <contents_string>폰 프로젝션 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>2</Depth>
+      <shortcutID>androidauto</shortcutID>
+      <floating></floating>
+      <contents_string>Android Auto로 Android 스마트폰과 연동하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>2</Depth>
+      <shortcutID>applecarplay</shortcutID>
+      <floating></floating>
+      <contents_string>Apple CarPlay로 iPhone과 연동하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>2</Depth>
+      <shortcutID>mirrorlink</shortcutID>
+      <floating></floating>
+      <contents_string>MirrorLink로 Android 스마트폰과 연동하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>climate</shortcutID>
+      <floating></floating>
+      <contents_string>공조 기능 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>rearclimate</shortcutID>
+      <floating></floating>
+      <contents_string>뒷좌석 공조 기능 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>drivertalk</shortcutID>
+      <floating></floating>
+      <contents_string>뒷좌석 대화 모드 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>quietmode</shortcutID>
+      <floating></floating>
+      <contents_string>뒷좌석 취침 모드 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>soundmoodlamp</shortcutID>
+      <floating></floating>
+      <contents_string>사운드 무드 램프 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>soundofnature</shortcutID>
+      <floating></floating>
+      <contents_string>자연의 소리 재생하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>notifications</shortcutID>
+      <floating></floating>
+      <contents_string>알림 보기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>homeconnect</shortcutID>
+      <floating></floating>
+      <contents_string>카투홈 서비스 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features</fileName>
+      <Depth>1</Depth>
+      <shortcutID>valetmode</shortcutID>
+      <floating></floating>
+      <contents_string>발레 모드 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_1_hev</fileName>
+      <Depth>1</Depth>
+      <shortcutID>hybride</shortcutID>
+      <floating></floating>
+      <contents_string>하이브리드 메뉴 사용하기(HEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_1_hev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>fueleconomy</shortcutID>
+      <floating></floating>
+      <contents_string>연비 정보 보기(HEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_1_hev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>energyflow</shortcutID>
+      <floating></floating>
+      <contents_string>에너지 흐름도 보기(HEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_1_hev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>solarroofinfo</shortcutID>
+      <floating></floating>
+      <contents_string>솔라 루프 정보 보기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>1</Depth>
+      <shortcutID>pluginhybrid</shortcutID>
+      <floating></floating>
+      <contents_string>플러그인 하이브리드 메뉴 사용하기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>evrange</shortcutID>
+      <floating></floating>
+      <contents_string>전기 주행 가능 거리 보기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>nearbystations</shortcutID>
+      <floating></floating>
+      <contents_string>주변 충전소 검색하기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>energyinformation</shortcutID>
+      <floating></floating>
+      <contents_string>에너지 정보 보기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>chargemanagement</shortcutID>
+      <floating></floating>
+      <contents_string>충전 관리 기능 사용하기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>timesettings</shortcutID>
+      <floating></floating>
+      <contents_string>출발 시간 설정하기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>ecodriving</shortcutID>
+      <floating></floating>
+      <contents_string>ECO 드라이빙 보기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_2_phev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>energyflow</shortcutID>
+      <floating></floating>
+      <contents_string>에너지 흐름도 보기(PHEV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>1</Depth>
+      <shortcutID>3ecoelectricvehicle</shortcutID>
+      <floating></floating>
+      <contents_string>Electric Vehicle 메뉴 사용하기(EV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>energyinformation</shortcutID>
+      <floating></floating>
+      <contents_string>배터리 상태/전력 소비량/연비 이력 보기(EV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>timesettings</shortcutID>
+      <floating></floating>
+      <contents_string>다음 출발 시간 설정하기(EV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>chargingandclimate</shortcutID>
+      <floating></floating>
+      <contents_string>예약 충전 및 공조 설정하기(EV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>chargetransfer</shortcutID>
+      <floating></floating>
+      <contents_string>전기 사용 설정하기(EV 전용)(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>005_Features_3_ev</fileName>
+      <Depth>2</Depth>
+      <shortcutID>evsettings</shortcutID>
+      <floating></floating>
+      <contents_string>EV 설정하기(EV 전용)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>006_Radio</fileName>
+      <Depth>1</Depth>
+      <shortcutID>basic</shortcutID>
+      <floating></floating>
+      <contents_string>라디오 실행하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>007_DMB</fileName>
+      <Depth>1</Depth>
+      <shortcutID>basic</shortcutID>
+      <floating></floating>
+      <contents_string>DMB 실행하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>008_Media</fileName>
+      <Depth>1</Depth>
+      <shortcutID>media</shortcutID>
+      <floating></floating>
+      <contents_string>미디어 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>008_Media</fileName>
+      <Depth>2</Depth>
+      <shortcutID>usbmusic</shortcutID>
+      <floating></floating>
+      <contents_string>USB로 음악 듣기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>008_Media</fileName>
+      <Depth>2</Depth>
+      <shortcutID>usbmovie</shortcutID>
+      <floating></floating>
+      <contents_string>USB로 동영상 보기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>008_Media</fileName>
+      <Depth>2</Depth>
+      <shortcutID>blmusic</shortcutID>
+      <floating></floating>
+      <contents_string>블루투스로 음악 듣기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>008_Media</fileName>
+      <Depth>2</Depth>
+      <shortcutID>musicstreaming</shortcutID>
+      <floating></floating>
+      <contents_string>뮤직 스트리밍 서비스 사용하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>1</Depth>
+      <shortcutID>basic</shortcutID>
+      <floating></floating>
+      <contents_string>내비게이션 기능</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>1</Depth>
+      <shortcutID>find</shortcutID>
+      <floating></floating>
+      <contents_string>다양한 방법으로 길 찾기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>unified</shortcutID>
+      <floating></floating>
+      <contents_string>통합 검색 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>address</shortcutID>
+      <floating></floating>
+      <contents_string>주소로 검색하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>nearby</shortcutID>
+      <floating></floating>
+      <contents_string>주변 시설 검색하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>recent</shortcutID>
+      <floating></floating>
+      <contents_string>최근 목적지에서 검색하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>center</shortcutID>
+      <floating></floating>
+      <contents_string>기아오토큐 지점 검색하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>editroute</shortcutID>
+      <floating></floating>
+      <contents_string>경로 편집하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>routeoptions</shortcutID>
+      <floating></floating>
+      <contents_string>경로 탐색 옵션 변경하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>2</Depth>
+      <shortcutID>routeinfoavoid</shortcutID>
+      <floating></floating>
+      <contents_string>특정 구간 피하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>1</Depth>
+      <shortcutID>registered</shortcutID>
+      <floating></floating>
+      <contents_string>등록 지점 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>009_Navigation</fileName>
+      <Depth>1</Depth>
+      <shortcutID>alerts</shortcutID>
+      <floating></floating>
+      <contents_string>사고 속보 보기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>1</Depth>
+      <shortcutID>btconnect</shortcutID>
+      <floating></floating>
+      <contents_string>블루투스 기기 연결하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>1</Depth>
+      <shortcutID>call</shortcutID>
+      <floating></floating>
+      <contents_string>블루투스로 전화 걸기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>2</Depth>
+      <shortcutID>recentcalls</shortcutID>
+      <floating></floating>
+      <contents_string>최근 통화 목록을 사용해 전화 걸기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>2</Depth>
+      <shortcutID>favoritecontacts</shortcutID>
+      <floating></floating>
+      <contents_string>즐겨찾는 연락처를 사용해 전화 걸기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>2</Depth>
+      <shortcutID>contacts</shortcutID>
+      <floating></floating>
+      <contents_string>연락처를 사용해 전화 걸기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>2</Depth>
+      <shortcutID>keypad</shortcutID>
+      <floating></floating>
+      <contents_string>키패드를 사용해 전화 걸기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>2</Depth>
+      <shortcutID>emergencycontacts</shortcutID>
+      <floating></floating>
+      <contents_string>긴급 전화 걸기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>010_Calling</fileName>
+      <Depth>1</Depth>
+      <shortcutID>message</shortcutID>
+      <floating></floating>
+      <contents_string>블루투스로 메시지 확인하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>011_VR</fileName>
+      <Depth>1</Depth>
+      <shortcutID>voicerec</shortcutID>
+      <floating></floating>
+      <contents_string>음성인식</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>011_VR</fileName>
+      <Depth>1</Depth>
+      <shortcutID>voicememo</shortcutID>
+      <floating></floating>
+      <contents_string>음성 메모</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>1</Depth>
+      <shortcutID>service</shortcutID>
+      <floating></floating>
+      <contents_string>Kia Connect 서비스</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>1</Depth>
+      <shortcutID>menu</shortcutID>
+      <floating></floating>
+      <contents_string>Kia Connect 메뉴 실행하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>2</Depth>
+      <shortcutID>mycarlocation</shortcutID>
+      <floating></floating>
+      <contents_string>내 차 위치 공유하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>2</Depth>
+      <shortcutID>calendar</shortcutID>
+      <floating></floating>
+      <contents_string>일정 정보 확인하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>2</Depth>
+      <shortcutID>weather</shortcutID>
+      <floating></floating>
+      <contents_string>날씨 정보 확인하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>2</Depth>
+      <shortcutID>sports</shortcutID>
+      <floating></floating>
+      <contents_string>스포츠 경기 정보 확인하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>012_UVO</fileName>
+      <Depth>2</Depth>
+      <shortcutID>diagnosis</shortcutID>
+      <floating></floating>
+      <contents_string>차량 진단하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>016_Kiapay</fileName>
+      <Depth>1</Depth>
+      <shortcutID>basic</shortcutID>
+      <floating></floating>
+      <contents_string>Kia Pay 사용하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>0</Depth>
+      <shortcutID>Settings</shortcutID>
+      <floating></floating>
+      <contents_string>설정</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>car2</shortcutID>
+      <floating></floating>
+      <contents_string>차량 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>ev</shortcutID>
+      <floating></floating>
+      <contents_string>EV 설정하기(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>connection2</shortcutID>
+      <floating></floating>
+      <contents_string>기기 연결 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>button2</shortcutID>
+      <floating></floating>
+      <contents_string>버튼 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>sound2</shortcutID>
+      <floating></floating>
+      <contents_string>소리 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>voicerecsetting2</shortcutID>
+      <floating></floating>
+      <contents_string>음성인식 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>navi2</shortcutID>
+      <floating></floating>
+      <contents_string>내비게이션 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>UVO2</shortcutID>
+      <floating></floating>
+      <contents_string>Kia Connect 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>userprofile2</shortcutID>
+      <floating></floating>
+      <contents_string>사용자 프로필 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>2</Depth>
+      <shortcutID>profilesettings</shortcutID>
+      <floating></floating>
+      <contents_string>프로필 설정</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>general2</shortcutID>
+      <floating></floating>
+      <contents_string>시스템 일반 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>screentheme</shortcutID>
+      <floating></floating>
+      <contents_string>화면구성 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>013_Settings</fileName>
+      <Depth>1</Depth>
+      <shortcutID>screen2</shortcutID>
+      <floating></floating>
+      <contents_string>시스템 화면 설정하기</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>017_SWUpdate</fileName>
+      <Depth>1</Depth>
+      <shortcutID>update</shortcutID>
+      <floating></floating>
+      <contents_string>무선 업데이트</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>014_Assistance</fileName>
+      <Depth>1</Depth>
+      <shortcutID>driverassistance</shortcutID>
+      <floating></floating>
+      <contents_string>운전자 보조(사양 적용 시)</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>014_Troubleshooting</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>증상별 문제 해결 방법</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>015_Appendix</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>시스템 상태 표시 아이콘</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>015_Appendix</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>FAQ</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>015_Appendix</fileName>
+      <Depth>1</Depth>
+      <shortcutID></shortcutID>
+      <floating></floating>
+      <contents_string>제품 사양</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>015_Appendix</fileName>
+      <Depth>1</Depth>
+      <shortcutID>servicecenter</shortcutID>
+      <floating></floating>
+      <contents_string>서비스 센터 및 서비스 협력점</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>018_Content</fileName>
+      <Depth>1</Depth>
+      <shortcutID>mov</shortcutID>
+      <floating></floating>
+      <contents_string>인포테인먼트</contents_string>
+   </listitem>
+   <listitem>
+      <fileName>018_Content</fileName>
+      <Depth>1</Depth>
+      <shortcutID>mov1</shortcutID>
+      <floating></floating>
+      <contents_string>주행 안전</contents_string>
+   </listitem>
+</root>

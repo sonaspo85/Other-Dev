@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2018 r2 Generated WEA Watch6 Target.fltar" Date="2023-06-26T16:40:30.8222618-05:00">
+    <Messages>Compiling target WEA Watch6 Target...
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: Cover.htm
+Processing CSS: Resources\Stylesheets\TN Styles 2021.css...
+Processing topic: Contents.htm
+Processing topic: Getting Started.htm
+Processing topic: Heart.htm
+Processing topic: X.htm
+Processing topic: Assemble Your Device.htm
+Processing topic: GEAR Charge the Battery.htm
+Processing topic: Wireless PowerShare.htm
+Processing topic: GEAR Wear the Gear.htm
+Processing topic: GEAR Start Using Your Device.htm
+Processing topic: Activation.htm
+Processing topic: GEAR Samsung Gear Intro.htm
+Processing topic: GEAR Lock or Unlock Your Device.htm
+Processing topic: GEAR Home key settings.htm
+Processing topic: GEAR Touchscreen Navigation.htm
+Processing topic: GEAR Touch bezel.htm
+Processing topic: GEAR Customize your home screen.htm
+Processing topic: GEAR Status Panel.htm
+Processing topic: GEAR Tiles.htm
+Processing topic: GEAR Notifications.htm
+Processing topic: PULSE Goodnight mode.htm
+Processing topic: GEAR Do not disturb.htm
+Processing topic: GEAR Water lock mode.htm
+Processing topic: GEAR Theater Mode.htm
+Processing topic: GEAR Enter Text.htm
+Processing topic: Apps.htm
+Processing topic: Use Apps.htm
+Processing topic: GEAR Uninstall Apps.htm
+Processing topic: GEAR Sort Apps.htm
+Processing topic: Apps Tools.htm
+Processing topic: GEAR Alarm.htm
+Processing topic: GEAR Bixby.htm
+Processing topic: GEAR Calculator.htm
+Processing topic: GEAR Calendar.htm
+Processing topic: GEAR Compass.htm
+Processing topic: GEAR Contacts.htm
+Processing topic: GEAR Find My Phone.htm
+Processing topic: GEAR Reminder.htm
+Processing topic: Global Goals.htm
+Processing topic: SmartThings.htm
+Processing topic: Samsung Wallet.htm
+Processing topic: GEAR Stopwatch.htm
+Processing topic: GEAR Timer.htm
+Processing topic: GEAR Voice Recorder.htm
+Processing topic: GEAR Weather.htm
+Processing topic: GEAR World clock.htm
+Processing topic: Apps Media.htm
+Processing topic: GEAR Buds app.htm
+Processing topic: Camera Controller.htm
+Processing topic: GEAR Gallery.htm
+Processing CSS: Resources\TableStyles\Apps without Column Break.css...
+Processing topic: GEAR Take a Screenshot.htm
+Processing topic: Media Controller.htm
+Processing topic: GEAR Music Player.htm
+Processing topic: GEAR Messages.htm
+Processing topic: GEAR Phone.htm
+Processing topic: GEAR Wake-up gesture.htm
+Processing topic: Apps Health.htm
+Processing topic: GEAR Samsung Health.htm
+Processing topic: Samsung Health Settings.htm
+Processing topic: GEAR Samsung Health Monitoring.htm
+Processing topic: Google Apps.htm
+Processing topic: GEAR Google Play store.htm
+Processing topic: GEAR Google Maps.htm
+Processing topic: GEAR Google Messages.htm
+Processing topic: Microsoft Apps Intro.htm
+Processing topic: GEAR Outlook.htm
+Processing topic: Settings.htm
+Processing topic: GEAR How to use settings.htm
+Processing topic: Connections.htm
+Processing topic: GEAR Bluetooth.htm
+Processing topic: GEAR Wi-Fi.htm
+Processing topic: GEAR NFC.htm
+Processing topic: GEAR Airplane mode.htm
+Processing topic: GEAR Mobile Networks.htm
+Processing topic: GEAR Data Usage.htm
+Processing topic: GEAR Notification settings.htm
+Processing topic: App Notifications.htm
+Processing topic: GEAR Notifications settings phone options.htm
+Processing topic: GEAR Notification Advanced settings.htm
+Processing topic: GEAR Wireless emergency alerts.htm
+Processing topic: GEAR Vibration.htm
+Processing topic: GEAR Sound Mode.htm
+Processing topic: GEAR Vibration Intensity.htm
+Processing topic: GEAR Ringtone vibration.htm
+Processing topic: GEAR Notification vibration.htm
+Processing topic: Vibration feedback.htm
+Processing topic: GEAR Volume.htm
+Processing topic: GEAR Ringtone.htm
+Processing topic: GEAR Notification sound.htm
+Processing topic: GEAR System sounds.htm
+Processing topic: Display.htm
+Processing topic: GEAR Adjust screen brightness.htm
+Processing topic: GEAR Always On Display.htm
+Processing topic: Touch wake-up.htm
+Processing topic: GEAR Show media controls.htm
+Processing topic: GEAR Set the screen timeout.htm
+Processing topic: GEAR Show last app.htm
+Processing topic: GEAR Font.htm
+Processing topic: GEAR Touch sensitivity.htm
+Processing topic: GEAR Show charging info.htm
+Processing topic: Lock Screen and Security.htm
+Processing topic: GEAR Set a screen lock.htm
+Processing topic: GEAR Permission Manager.htm
+Processing topic: GEAR Location.htm
+Processing topic: Safety and Emergency.htm
+Processing topic: GEAR Accounts.htm
+Processing topic: Google Settings.htm
+Processing topic: Device Maintenance.htm
+Processing topic: GEAR Power saving mode.htm
+Processing topic: Storage.htm
+Processing topic: GEAR Watch only mode.htm
+Processing topic: GEAR Text to speech.htm
+Processing topic: GEAR Date and time.htm
+Processing topic: GEAR Orientation.htm
+Processing topic: GEAR Connect to a new phone.htm
+Processing topic: GEAR Reset Gear.htm
+Processing topic: GEAR Accessibility.htm
+Processing topic: Other Settings.htm
+Processing topic: GEAR Software update.htm
+Processing topic: GEAR Tips and help.htm
+Processing topic: GEAR Connection Alerts.htm
+Processing topic: GEAR Gear info.htm
+Processing topic: Learn More.htm
+Processing topic: Videos.htm
+Processing topic: Samsung Care.htm
+Processing topic: Talk to an agent.htm
+Processing topic: Legal Information 080119.htm
+Linking cross-references...
+Creating chapters...
+Paginating...
+Collecting TOC and Index data..
+Generating TOC and Index...
+Formatting page numbers...
+Updating cross-references...
+Processing variables in Cover.htm...
+Paginating Cover.htm...
+     25 pages completed...
+     50 pages completed...
+     75 pages completed...
+     Final page count = 81.
+Updating links...
+Saving chapters...
+Generating final output...
+Patching links and page references...
+Generated WEA_R93X_R94X_R95X_R96X_EN_UM_WF4_062623_FINAL.mcbook
+Saving result set...
+Output generated in 1 minute(s) and 18 second(s).
+
+Done
+Saving log to "C:\Users\tnations\Desktop\Output\WEA Watch6 Target\WEA Watch6 Target.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>

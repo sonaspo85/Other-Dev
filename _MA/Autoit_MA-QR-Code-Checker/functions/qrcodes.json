@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    {
+      "barcodes": [
+        {
+          "data": "d3d3LnNhbXN1bmcuY29tL20tbWFudWFsL2hrL1NNLUEzMzYwL0FuZHJvaWQ5OTk5",
+          "length": 48,
+          "page": {
+            "number": 1,
+            "pageID": "d3c3775bbdcec8e7ca08f9ebb08110da7a2b1c03",
+            "path": "C:\\workspace\\tcs_dev\\MA-QR-Code-Checker\\temp\\SM-A3360_DSN_QSG_Open_HongKong_Rev.2.0_220426_Screen.pdf"
+          },
+          "text": "www.samsung.com/m-manual/hk/SM-A3360/Android9999",
+          "type": "qr"
+        }
+      ],
+      "files": [
+        {
+          "fileID": "fde17f1ef5a7f8d2e58af3972d72c164eccaf867",
+          "pages": [
+            {
+              "bpp": 24,
+              "cntBC": 1,
+              "height": 906,
+              "memSizeKB": 4384,
+              "number": 1,
+              "pageID": "d3c3775bbdcec8e7ca08f9ebb08110da7a2b1c03",
+              "width": 1652
+            },
+            {
+              "bpp": 8,
+              "cntBC": 0,
+              "height": 1476,
+              "memSizeKB": 3881,
+              "number": 2,
+              "pageID": "f8d1dfe5c073d2d150c0236e2b814599aef9fd82",
+              "width": 2693
+            }
+          ],
+          "path": "C:\\workspace\\tcs_dev\\MA-QR-Code-Checker\\temp\\SM-A3360_DSN_QSG_Open_HongKong_Rev.2.0_220426_Screen.pdf"
+        }
+      ],
+      "reader": "Barcode Reader CLI",
+      "requestID": "BR.afad7301dc4d4dbc992eecacb94934ad",
+      "start": "2022-06-14 12:18:32",
+      "version": "1.0.6875-preview"
+    }
+  ]
+}

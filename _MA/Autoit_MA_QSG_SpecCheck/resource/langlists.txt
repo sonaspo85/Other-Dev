@@ -1,0 +1,1 @@
+Eng,Eng(India),Alb,Arm,Spa(LTN),Ara,Aze,Ben,Bul,Mya,Hrv,Cze,Dan,Dut,Est,Far,Fin,Fre,Fre(EU),Geo,Ger,Gre,Heb,Hin,HongKong,Hun,Ind,Ita,Kaz,Khm,Lao,Lav,Lit,Mac,Mon,Nor,Pol,Por,Rum,Rus,Srp,Chi,Chi(Singapore),Slovak,Slovenian,Spa,Swe,Chi(Taiwan),Tha,Tur,Ukr,Urd,Uzb,Vie,Kor

@@ -1,0 +1,235 @@
+/* font-family */
+
+html,
+body {
+    font-family: Arial;
+    font-size: 17px;
+}
+
+header h1 {
+    font-family: 'MCS Quds S_U normal.';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'MCS Quds S_U normal.';
+    /*font-size: 1.2em;*/
+}
+
+.image_box {
+    font-family: 'Hyundai Sans Head Office';
+}
+
+.notice h2 {
+    font-size: 1em;
+}
+
+.image_box .Quad1,
+p.UnorderList1_Square {
+    font-size: 13px;
+}
+
+.squre_bullet:before,
+.image_title p.Quad1:before,
+.image_box .image_title p:before,
+.image_box .image_title div.Quad1:before,
+p.UnorderList1_Square:before {
+    top: 50%;
+    transform: translateY(-5px);
+}
+
+
+/* // end font-family */
+
+.tableOfContents article>ol>li>.icon i {
+    margin-right: -1000px;
+}
+
+.tableOfContents article>ol>li {
+    padding: 0 2.3em 0 0.5em;
+}
+
+.tableOfContents article>ol>li>.icon {
+    right: .5em;
+}
+
+ol li[class*="Step1_"] {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+ol.task ol.number li[class*="Step1_"] {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+ul.bullet,
+ol.task,
+ol.number {
+    text-align: right;
+}
+
+ul.bullet {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.Warning h2,
+.Caution h2,
+.info h2 {
+    padding-left: 0;
+    padding-right: 30px;
+    background-position: right;
+}
+
+.number>li[class*="Chapter_TOC1_"],
+ol.task li.OrderList1_1,
+ol.task li[class*="OrderList1_2"],
+ol.task li[class*="Description_NumB_1"],
+ol.number li[class*="Description_NumB_1"],
+li.UnorderList1 li[class*="Description_NumB"] {
+    padding-left: 0;
+    margin-right: 1.5em;
+}
+
+.bullet+.number li[class*="Description_NumB"] {
+    margin-right: 1.5em;
+}
+
+.notice .bullet+.number li[class*="Description_NumB"] {
+    margin-right: 2.5em;
+}
+
+.Warning .bullet+.number li[class*="Description_NumB"] {
+    margin-right: 2.5em;
+}
+
+.task+.number li[class*="Step1_"] {
+    margin-right: 1.5em;
+}
+
+.number>li[class*="UnorderList_Alp1_"]>p[class*="UnorderList_Alp1_"],
+.number>li[class*="UnorderList_Alp1_"]>div[class*="UnorderList_Alp1_"] {
+    margin-left: 0;
+    margin-right: 27px;
+}
+
+.image_box .image_number {
+    right: auto;
+    left: 3px;
+}
+
+.image_title>.bullet {
+    padding-left: 0;
+    padding-right: 28px;
+}
+
+li p span.task_num,
+li div span.task_num {
+    margin-left: 0;
+    margin-right: -30px;
+    width: 25px;
+    text-align: center;
+}
+
+li[class*="Step1_"] p span.task_num,
+li div span.task_num {
+    margin-left: 0;
+    margin-right: -35px;
+    width: 25px;
+    text-align: center;
+}
+
+ul.bullet li.title {
+    margin-left: 0;
+    margin-right: -18px;
+}
+
+.Nobullet li.UnorderList1_mark {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.ul_mark {
+    left: 0;
+    right: -19px;
+}
+
+.image_box .image_title {
+    left: auto;
+    right: 3px;
+    margin-left: 0;
+    margin-right: 0.5em;
+}
+
+.squre_bullet:before,
+.image_title p.Quad1:before,
+.image_box .image_title p:before,
+.image_box .image_title div.Quad1:before,
+p.UnorderList1_Square:before {
+    left: auto;
+    right: 0;
+    top: 5px;
+}
+
+ol.number li p[class*="Step1_"],
+ol.number li[class*="Step1_"] p.list_indent {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+[class*="OrderList_TimeB1_"] {
+    margin-left: 0;
+    margin-right: 14px;
+}
+
+
+/* .image_box .Quad1,
+p.UnorderList1_Square {
+    padding-left: 0;
+    padding-right: 22px;
+} */
+
+div.image_number+div.image_title p.Quad1,
+div.image_title p.Quad1 {
+    padding-right: 20px;
+    padding-left: 4em;
+}
+
+.Quad1>.bullet {
+    padding-left: 0;
+    padding-right: 7px;
+}
+
+.title_icon>.Description {
+    float: right;
+}
+
+table.Table_Text_none tr td:first-of-type {
+    width: 5em;
+}
+
+.Description_Sub1_1,
+.Description_Sub1_2,
+.footnote .Description_Sub1_1,
+.footnote .Description_Sub1_2 {
+    padding-left: 0;
+    padding-right: 22px;
+}
+
+img.Side_Icon_15mm_L,
+img.Side_Icon_10mm_L {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+@media (min-width: 769px) {
+    section.index .tableof ol {
+        text-align: right;
+    }
+}

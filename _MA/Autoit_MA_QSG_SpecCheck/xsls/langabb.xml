@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<languages>
+		<language name="Russian" abb="Rus"/>
+		<language name="Romanian" abb="Rum"/>
+		<language name="Ukrainian" abb="Ukr"/>
+		<language name="Georgian" abb="Geo"/>
+		<language name="Azerbajani" abb="Aze"/>
+		<language name="Bengali" abb="Ben"/>
+		<language name="English" abb="Eng"/>
+		<language name="Turkish" abb="Tur"/>
+		<language name="Hebrew" abb="Heb"/>
+		<language name="Indonesian" abb="Ind"/>
+		<language name="Khmer" abb="Khm"/>
+		<language name="Lao" abb="Lao"/>
+		<language name="Myanmar" abb="Mya"/>
+		<language name="Singapore Chinese" abb="Chi"/>
+		<language name="Thai" abb="Tha"/>
+		<language name="Vietnamese" abb="Vie"/>
+		<language name="Simplified Chinese" abb="Chi"/>
+		<language name="HongKong" abb="HongKong"/>
+		<language name="Taiwan" abb="Taiwan"/>
+		<language name="KOREAN" abb="Kor"/>
+		<language name="Mongolian" abb="Mon"/>
+		<language name="Uzbek" abb="Uzb"/>
+		<language name="French(MEA)" abb="Fre"/>
+		<language name="Hebrew" abb="Heb"/>
+		<language name="Portuguese(MEA)" abb="Por"/>
+		<language name="Urdu" abb="Urd"/>
+	</languages>
+</root>

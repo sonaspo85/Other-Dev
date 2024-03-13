@@ -1,0 +1,11 @@
+temp/
+output/
+xsls/Validation.xml
+/config.ini
+/log.txt
+/resource/bak-spec2xml-data.xlsm
+/backup
+/output
+/temp
+/*.amk
+/*.zip

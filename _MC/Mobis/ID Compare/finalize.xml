@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<links>
+   <same>
+      <link scid="home" float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>홈 화면</title>
+      </link>
+      <link scid="allmenus" float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>전체 메뉴 화면</title>
+      </link>
+      <link scid="favorites">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>즐겨찾기 사용하기</title>
+      </link>
+      <link scid="rearclimate">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>뒷좌석 공조 기능 사용하기(사양 적용 시)</title>
+      </link>
+      <link scid="applecarplay">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>Apple CarPlay로 iPhone과 연동하기</title>
+      </link>
+      <link scid="androidauto">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>Android Auto로 Android 스마트폰과 연동하기</title>
+      </link>
+      <link scid="pprojection">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>폰 프로젝션 사용하기</title>
+      </link>
+      <link scid="drivertalk">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>뒷좌석 대화 모드 사용하기</title>
+      </link>
+      <link scid="quietmode">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>뒷좌석 취침 모드 사용하기</title>
+      </link>
+      <link scid="basic">
+         <file>006_Radio</file>
+         <depth>1</depth>
+         <title>라디오 실행하기</title>
+      </link>
+      <link scid="basic">
+         <file>007_DMB</file>
+         <depth>1</depth>
+         <title>DMB 실행하기</title>
+      </link>
+      <link scid="usbmusic">
+         <file>008_Media</file>
+         <depth>2</depth>
+         <title>USB로 음악 듣기</title>
+      </link>
+      <link scid="usbmovie">
+         <file>008_Media</file>
+         <depth>2</depth>
+         <title>USB로 동영상 보기</title>
+      </link>
+      <link scid="blmusic">
+         <file>008_Media</file>
+         <depth>2</depth>
+         <title>블루투스로 음악 듣기</title>
+      </link>
+      <link scid="media">
+         <file>008_Media</file>
+         <depth>1</depth>
+         <title>미디어 사용하기</title>
+      </link>
+      <link scid="address">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>주소로 검색하기</title>
+      </link>
+      <link scid="nearby">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>주변 시설 검색하기</title>
+      </link>
+      <link scid="recent">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>최근 목적지에서 검색하기</title>
+      </link>
+      <link scid="editroute">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>경로 편집하기</title>
+      </link>
+      <link scid="registered">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>등록된 장소 사용하기</title>
+      </link>
+      <link scid="station">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>주유소 검색하기</title>
+      </link>
+      <link scid="basic">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>내비게이션 기능</title>
+      </link>
+      <link scid="find">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>다양한 방법으로 길 찾기</title>
+      </link>
+      <link scid="unified">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>명칭으로 검색하기</title>
+      </link>
+      <link scid="emergency">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>응급 시설 검색하기</title>
+      </link>
+      <link scid="coordinates">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>경위도 검색하기</title>
+      </link>
+      <link scid="routeinfoavoid">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>특정 구간 피하기</title>
+      </link>
+      <link scid="routeoptions">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>경로 탐색 기준 변경하기</title>
+      </link>
+      <link scid="message">
+         <file>010_Calling</file>
+         <depth>1</depth>
+         <title>블루투스로 메시지 확인하기</title>
+      </link>
+      <link scid="recentcalls">
+         <file>010_Calling</file>
+         <depth>2</depth>
+         <title>최근 통화 목록을 사용해 전화 걸기</title>
+      </link>
+      <link scid="favoritecontacts">
+         <file>010_Calling</file>
+         <depth>2</depth>
+         <title>즐겨찾는 연락처를 사용해 전화 걸기</title>
+      </link>
+      <link scid="contacts">
+         <file>010_Calling</file>
+         <depth>2</depth>
+         <title>연락처를 사용해 전화 걸기</title>
+      </link>
+      <link scid="call">
+         <file>010_Calling</file>
+         <depth>1</depth>
+         <title>블루투스로 전화 걸기</title>
+      </link>
+      <link scid="keypad">
+         <file>010_Calling</file>
+         <depth>2</depth>
+         <title>키패드를 사용해 전화 걸기</title>
+      </link>
+      <link scid="btconnect">
+         <file>010_Calling</file>
+         <depth>1</depth>
+         <title>블루투스 기기 연결하기</title>
+      </link>
+      <link scid="voicememo">
+         <file>011_VR</file>
+         <depth>1</depth>
+         <title>음성 메모</title>
+      </link>
+      <link scid="general">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>시스템 일반 설정하기</title>
+      </link>
+      <link scid="screen">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>시스템 화면 설정하기</title>
+      </link>
+      <link scid="sound">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>소리 설정하기</title>
+      </link>
+      <link scid="bluetooth">
+         <file>013_Settings</file>
+         <depth>2</depth>
+         <title>블루투스</title>
+      </link>
+      <link scid="detail">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>시스템 상세 설정하기</title>
+      </link>
+      <link scid="connection">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>기기 연결 설정하기</title>
+      </link>
+      <link scid="navi">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>내비게이션 설정하기</title>
+      </link>
+      <link scid="car">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>차량 설정하기</title>
+      </link>
+   </same>
+   <diff>
+      <link scid="mirrorlink">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>MirrorLink로 Android 스마트폰과 연동하기</title>
+      </link>
+      <link scid="soundmoodlamp">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>사운드 무드 램프 사용하기</title>
+      </link>
+      <link scid="electricvehicle">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>스마트 주행관리(EV) 메뉴 실행하기</title>
+      </link>
+      <link scid="evrange">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>주행 가능 거리 확인하기</title>
+      </link>
+      <link scid="energyinformation">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>에너지 정보 보기</title>
+      </link>
+      <link scid="ecodriving">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>ECO 드라이빙 정보 보기</title>
+      </link>
+      <link scid="chargemanagementl">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>충전 관리 기능 사용하기</title>
+      </link>
+      <link scid="evsettings">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>EV 설정 변경하기</title>
+      </link>
+      <link scid="hdradiodata">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>HD Radio Data 사용하기</title>
+      </link>
+      <link scid="hybride">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>하이브리드 모드 실행하기(HEV 전용)</title>
+      </link>
+      <link scid="fueleconomy">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>연비 정보 보기(HEV 전용)</title>
+      </link>
+      <link scid="energyflow">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>에너지 흐름도 보기(HEV 전용)</title>
+      </link>
+      <link scid="solarroofinfo">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>솔라 루프 정보</title>
+      </link>
+      <link scid="pluginhybrid">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>플러그인 하이브리드 모드 실행하기(PHEV 전용)</title>
+      </link>
+      <link scid="evrange">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>전기 주행 가능 거리 보기(PHEV 전용)</title>
+      </link>
+      <link scid="nearbystations">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>주변 충전소 검색하기(PHEV 전용)</title>
+      </link>
+      <link scid="energyinformation">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>에너지 정보 보기(PHEV 전용)</title>
+      </link>
+      <link scid="energyflow">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>에너지 흐름도 보기(PHEV 전용)</title>
+      </link>
+      <link scid="chargemanagementl">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>충전 관리 기능 사용하기(PHEV 전용)</title>
+      </link>
+      <link scid="timesettings">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>출발 시간 설정하기(PHEV 전용)</title>
+      </link>
+      <link scid="ecodriving">
+         <file>005_Features</file>
+         <depth>2</depth>
+         <title>ECO 드라이빙 보기(PHEV 전용)</title>
+      </link>
+      <link scid="center">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>정비소 검색하기</title>
+      </link>
+      <link scid="kakao">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>카카오 장소 검색 서비스 이용하기</title>
+      </link>
+      <link scid="alerts">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>공지 및 사고 속보 보기</title>
+      </link>
+      <link scid="restaurants">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>식당 검색하기</title>
+      </link>
+      <link scid="onlinesearch">
+         <file>009_Navigation</file>
+         <depth>2</depth>
+         <title>온라인 서버를 통해 위치 검색하기</title>
+      </link>
+      <link scid="evstation">
+         <file>009_Navigation</file>
+         <depth>1</depth>
+         <title>전기차 충전소 정보 보기</title>
+      </link>
+      <link scid="voicerec">
+         <file>011_VR</file>
+         <depth>1</depth>
+         <title>음성 인식</title>
+      </link>
+      <link scid="menu">
+         <file>012_BlueLink</file>
+         <depth>1</depth>
+         <title>블루링크 메뉴 실행하기</title>
+      </link>
+      <link scid="service">
+         <file>012_BlueLink</file>
+         <depth>1</depth>
+         <title>블루링크 서비스</title>
+      </link>
+      <link scid="destination">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>목적지 수신 목록 이용하기</title>
+      </link>
+      <link scid="mycarlocation">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>내 차 위치 공유하기</title>
+      </link>
+      <link scid="weather">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>날씨 정보 확인하기</title>
+      </link>
+      <link scid="sports">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>스포츠 경기 정보 확인하기</title>
+      </link>
+      <link scid="diagnosis">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>차량 진단하기</title>
+      </link>
+      <link scid="mypios">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>온라인 수신 위치정보 이용하기</title>
+      </link>
+      <link scid="roadsideassist">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>차량 구조 요청하기</title>
+      </link>
+      <link scid="virtualassistant">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>고객 지원 서비스</title>
+      </link>
+      <link scid="voicelocalsearch">
+         <file>012_BlueLink</file>
+         <depth>2</depth>
+         <title>온라인 서버 음성 인식</title>
+      </link>
+      <link scid="bluelink">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>블루링크 설정하기</title>
+      </link>
+      <link scid="voicerecsetting">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>음성 인식 설정하기</title>
+      </link>
+      <link scid="Settings">
+         <file>013_Settings</file>
+         <depth>0</depth>
+         <title>설정</title>
+      </link>
+   </diff>
+   <float>
+      <link float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>각 부분의 이름과 기능</title>
+      </link>
+      <link float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>시스템 켜기/끄기</title>
+      </link>
+      <link float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>터치 스크린 사용하기</title>
+      </link>
+      <link float="yes">
+         <file>004_Basic</file>
+         <depth>1</depth>
+         <title>분할 화면</title>
+      </link>
+      <link float="yes">
+         <file>005_Features</file>
+         <depth>1</depth>
+         <title>주행 보조 영상</title>
+      </link>
+      <link float="yes">
+         <file>013_Settings</file>
+         <depth>1</depth>
+         <title>시스템 소프트웨어 및 지도 업데이트하기</title>
+      </link>
+      <link float="yes">
+         <file>014_Troubleshooting</file>
+         <depth>1</depth>
+         <title>증상별 문제 해결 방법</title>
+      </link>
+      <link float="yes">
+         <file>015_Appendix</file>
+         <depth>1</depth>
+         <title>시스템 상태 표시 아이콘</title>
+      </link>
+      <link float="yes">
+         <file>015_Appendix</file>
+         <depth>1</depth>
+         <title>FAQ</title>
+      </link>
+      <link float="yes">
+         <file>015_Appendix</file>
+         <depth>1</depth>
+         <title>제품 사양</title>
+      </link>
+   </float>
+</links>

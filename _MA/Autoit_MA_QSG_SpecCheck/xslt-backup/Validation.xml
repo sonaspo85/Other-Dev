@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<model name="SM-A225M/DS" />
+	<code name="GH68-53094D" />
+	<product type="Mobile phone" />
+	<optical type="미지원" />
+	<bandmode>
+		<spec division="2G" bandandmode="egsm900" outputpower="33 dBm" supportstatus="Y" />
+		<spec division="2G" bandandmode="dcs1800" outputpower="30 dBm" supportstatus="Y" />
+		<spec division="3G" bandandmode="wcdma900" outputpower="24 dBm" supportstatus="Y" />
+		<spec division="3G" bandandmode="wcdma2100" outputpower="24 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_1" outputpower="" supportstatus="N" />
+		<spec division="4G" bandandmode="lte_3" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_5" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_7" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_8" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_20" outputpower="23 dBm" supportstatus="Y" />
+		<spec division="4G" bandandmode="lte_28" outputpower="" supportstatus="N" />
+		<spec division="4G" bandandmode="lte_38" outputpower="" supportstatus="N" />
+		<spec division="4G" bandandmode="lte_40" outputpower="" supportstatus="N" />
+		<spec division="4G" bandandmode="lte_42" outputpower="" supportstatus="N" />
+		<spec division="Wi-Fi" bandandmode="lte_43" outputpower="" supportstatus="Y" />
+		<spec division="Wi-Fi" bandandmode="wifi2_4ghz" outputpower="20 dBm" supportstatus="Y" />
+		<spec division="Wi-Fi" bandandmode="wifi5_1_5_7ghz" outputpower="25 mW" supportstatus="Y" />
+		<spec division="Wi-Fi" bandandmode="wifi5_8ghz" outputpower="20 dBm" supportstatus="Y" />
+		<spec division="Bluetooth" bandandmode="bluetooth2_4ghz" outputpower="20 dBm" supportstatus="Y" />
+		<spec division="MST" bandandmode="mst3_6khz" outputpower="21A/m at 0m" supportstatus="N" />
+		<spec division="NFC" bandandmode="nfc1" outputpower="42dBμA/m at 10m" supportstatus="Y" />
+		<spec division="Charging" bandandmode="wirelesscharging" outputpower="37.7 dBuA/m at 10 m" supportstatus="N" />
+		<spec division="UWB" bandandmode="uwb6–8_5ghz" outputpower="0 dBm" supportstatus="N" />
+	</bandmode>
+	<sars>
+		<spec division="Common" item="headsar" value="0.516W/kg" />
+		<spec division="Common" item="body-wornsar" value="1.59 W/kg" />
+		<spec division="Common" item="distance" value="5 mm" />
+		<spec division="Fre(EU)" item="limbsar" value="1,8 W/kg" />
+		<spec division="Eng(India)" item="headsar" value="0.861 W/kg" />
+		<spec division="Chi(Taiwan)" item="body-wornsar" value=" W/kg" />
+	</sars>
+	<productSpec>
+		<spec division="CPU" item="cpu" value="" />
+		<spec division="RAM" item="ram" value="" />
+		<spec division="OS System" item="ossystem" value="" />
+		<spec division="Screen Size" item="screensize" value="" />
+		<spec division="Camera" item="camera" value="" />
+		<spec division="Front Camera" item="frontcamera" value="" />
+		<spec division="Radio" item="radio" value="" />
+		<spec division="MicroSD" item="microsd" value="" />
+	</productSpec>
+	<registration>
+		<spec division="regNum" item="regNum" value="PMKG.239.04.2021" />
+	</registration>
+	<packages>
+		<spec division="Device" item="device" supportstatus="Y" />
+		<spec division="USB cable" item="usbcable" supportstatus="Y" />
+		<spec division="Quick start guide" item="quickstartguide" supportstatus="Y" />
+		<spec division="Ejection pin" item="ejectionpin" supportstatus="Y" />
+		<spec division="USB power adaptor" item="usbpoweradaptor" supportstatus="Y" />
+		<spec division="S Pen" item="spen" supportstatus="N" />
+		<spec division="Battery" item="battery" supportstatus="N" />
+		<spec division="Case" item="case" supportstatus="N" />
+		<spec division="Protective Case" item="protectivecase" supportstatus="N" />
+	</packages>
+</root>

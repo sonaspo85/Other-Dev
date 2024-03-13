@@ -1,0 +1,335 @@
+@charset "utf-8";
+
+/* 폰트*/
+
+
+/* @font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'MODERNH-MEDIUM';
+	src: url('../fonts/MODERNH-MEDIUM.eot');
+	src: local(※), url('../fonts/MODERNH-MEDIUM.woff') format('woff'), url('../fonts/MODERNH-MEDIUM.TTF') format('truetype');
+}
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'MODERNH-LIGHT';
+	src: url('../fonts/MODERNH-LIGHT.eot');
+	src: local(※), url('../fonts/MODERNH-LIGHT.woff') format('woff'), url('../fonts/MODERNH-LIGHT.TTF') format('truetype');
+}
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'MODERNH-BOLD';
+	src: url('../fonts/MODERNH-BOLD.eot');
+	src: local(※), url('../fonts/MODERNH-BOLD.woff') format('woff'), url('../fonts/MODERNH-BOLD.TTF') format('truetype');
+} */
+
+
+/*기본 설정*/
+
+* {
+    margin: 0;
+    padding: 1px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Hyundai Sans Text Office', Helvetica, Arial, sans-serif;
+    color: #000;
+    /* line-height: 100%; */
+    text-align: justify;
+    /*left: 좌측, right: 우측, justify: 양쪽*/
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    text-align: left;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    scrollbar-face-color: #ffffff;
+    scrollbar-highlight-color: #d8d8d8;
+    scrollbar-3dlight-color: #ffffff;
+    scrollbar-shadow-color: #d8d8d8;
+    scrollbar-darkshadow-color: #ffffff;
+    scrollbar-track-color: #f8f8f8;
+    scrollbar-arrow-color: #7f7f7f;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table caption {
+    display: none;
+}
+
+p,
+form {
+    margin: 0.5em 0;
+    padding: 0;
+    position: relative;
+}
+
+.ul_mark+p {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+div>p:first-child {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+ul,
+li,
+dl,
+dt {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    line-height: 110%;
+    font-family: 'Genesis Sans Head', 'Hyundai Sans Text Office';
+}
+
+hr {
+    display: none;
+}
+
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3598C6;
+    text-decoration: none;
+}
+
+div {
+    position: relative;
+}
+
+.C_info_Times,
+.C_Heading {
+    font-family: "times New Roman";
+    font-weight: bold;
+}
+
+.C_Italic {
+    font-style: italic;
+}
+
+
+/* .C_Subscript {
+    font-size: 17px;
+    vertical-align: 0px
+} */
+
+.Description_Cell_8-5pt_R {
+    text-align: right;
+}
+
+.Description_C {
+    text-align: center;
+}
+
+
+/*들여쓰기*/
+
+.body_icon div.conversation {
+    margin-top: 10px;
+    margin-left: 4.7em;
+    margin-right: 4.7em;
+    padding: 4px 4px 1px 4px;
+    background-color: #f6f6f6;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.85em;
+    color: #777777;
+}
+
+div.conversation .indent_12mm {
+    text-align: left;
+}
+
+div.conversation .indent_12mm_R {
+    text-align: right;
+}
+
+.indent_17mm {
+    text-indent: 6.5em;
+}
+
+.C_URL {
+    text-decoration: underline;
+}
+
+
+/* [class*="Heading3_Number1_"] {
+    font-weight: bold;
+    font-style: italic;
+}
+
+[class*="Heading3_Number1_"] .Description {
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*="Heading2_Number1_"] {
+    color: #007bc6;
+}
+
+[class*="Heading2_Number1_"] .Description {
+    color: #000
+} */
+
+
+/*리스트 정렬*/
+
+li p span.task_num,
+li div span.task_num {
+    display: inline-block;
+    vertical-align: baseline;
+    text-align: left;
+    position: absolute;
+    margin-left: -23px;
+}
+
+table li p span.task_num {
+    margin-left: 10px;
+}
+
+ol li p.OrderList1_2-10over span.task_num {
+    /* 20190412 */
+    margin-right: 4px;
+}
+
+ol li p span.title_num {
+    display: inline-block;
+    width: 2em;
+    vertical-align: baseline;
+    text-align: left;
+    text-indent: 0px;
+}
+
+li p span.list_num,
+li div span.list_num {
+    display: inline-block;
+    /* 201904408 */
+    width: 1.55em;
+    vertical-align: baseline;
+    text-align: center;
+    /* 20190408 */
+    /* text-indent: 9px; */
+    /* 20190412 */
+    /*text-indent: 5px;*/
+    /* 20190412 */
+    /* margin-right: 12px; */
+    position: absolute;
+    margin-left: -33px;
+}
+
+span[class*="Description_NumB"],
+p[class*="Description_NumB"] {
+    font-weight: bold;
+}
+
+
+/*일반*/
+
+.clear {
+    *zoom: 1;
+}
+
+.clear:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.hide {
+    display: none;
+}
+
+.border_none {
+    border: none;
+    background-image: none;
+}
+
+.floatR {
+    float: right;
+}
+
+.floatL {
+    float: left;
+}
+
+
+/*단락 글자 크기 감소*/
+
+.small {
+    font-size: 0.95em;
+}
+
+
+/*공간 띄우기 - 일반*/
+
+.space {
+    height: 0px;
+}
+
+
+/*공간 띄우기 - 1mm*/
+
+.space_1mm {
+    height: 0px;
+}
+
+.Caption_R {
+    text-align: right;
+}
+
+@media (max-width: 420px) {
+    .space_1mm {
+        height: 0px;
+    }
+}
+
+
+/*기타*/
+
+.numbered_title {
+    font-weight: bold;
+    color: #58585A;
+    margin-top: 20px;
+}

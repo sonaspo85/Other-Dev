@@ -1,0 +1,213 @@
+/* 메인 인덱스 목록 */
+
+section.index .tableof>div {
+    overflow: hidden;
+    margin: 15px 0;
+    font-family: 'Genesis Sans Head', 'Hyundai Sans Text Office';
+}
+
+section.index .tableof h2 {
+    margin: 20px 0 20px;
+    border: 1px solid #000;
+    border-width: 0 9px 1px 0;
+    padding: 0 8px 2px 2px;
+    color: #0076b5;
+    line-height: 1.5em;
+    /*161028: add _jagabi*/
+    text-align: right;
+    font-weight: bold !important;
+    text-shadow: -.3px 0 #0076b5, 0 .3px #0076b5, .3px 0 #0076b5, 0 -.3px #0076b5;
+}
+
+section.index .tableof ol {
+    list-style: none;
+    background: #f6f6f6;
+    padding-left: 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: right;
+}
+
+section.index .tableof ol li {
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+}
+
+section.index .tableof ol li:first-child {
+    border-top: 0;
+}
+
+section.index .tableof ol li strong {
+    display: table-cell;
+    height: 43px;
+    margin-right: 1px;
+    padding-left: 12px;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    color: #000;
+    vertical-align: middle;
+}
+
+@media (min-width: 769px) {
+    section.index .tableof h2 {
+        float: left;
+        width: 30%;
+        margin: 210px 0 20px;
+    }
+    section.index .tableof ol {
+        float: right;
+        width: 65%;
+    }
+}
+
+.tableOfContents article>ol>li>.icon i {
+    margin-right: -1000px;
+}
+
+.tableOfContents article>ol>li {
+    border-top: 1px solid #ccc;
+    padding: 0 2.3em 0 0.5em;
+}
+
+.tableOfContents article>ol>li>.icon {
+    right: .5em;
+}
+
+/* 서브 인덱스 목록 */
+
+.tableOfContents header {
+    margin: 0;
+    border-bottom: 0;
+    padding: 55px 0 13px;
+    color: #0066A4;
+}
+
+.tableOfContents header h1 {
+    display: block;
+    border-bottom: 5px solid #0066A4;
+    padding: 0 10px 3px 15px;
+    color: #0066A4;
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.tableOfContents section {
+    min-height: 430px;
+}
+
+.tableOfContents section article {
+    padding: 15px 10px 0px 10px;
+}
+
+.tableOfContents article ol {
+    list-style: none;
+    color: #000;
+    text-align: right;
+}
+
+.tableOfContents ol li {
+    position: relative;
+    overflow: hidden;
+    clear: both;
+}
+
+.tableOfContents article>ol {
+    background: #f6f6f6;
+    padding-left: 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.tableOfContents article>ol>li {
+    border-top: 1px solid #ccc;
+    padding: 0 .5em 0 2.3em;
+}
+
+ol.one>li>ol.two>li {
+    border-top: 1px solid #ccc;
+}
+
+.tableOfContents article>ol>li:first-child {
+    border-top: 0;
+}
+
+.tableOfContents ol a {
+    color: #231f20;
+}
+
+.three li>a  {
+    display: block;
+    width: 100%;
+    margin: .4em 0 0 2mm;
+    font-size: 1em;
+}
+
+ol.two>li>a[href*="html"],
+ol.one>li>a {
+    display: block;
+    width: 100%;
+    margin: .4em 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+ol.two>li>a[href*="html"] {
+    margin-left: 3em;
+    text-indent: -0.65em;
+}
+
+ol.one>li>.icon {
+    position: absolute;
+    top: .5em;
+    left: .5em;
+    overflow: hidden;
+    width: 1.2em;
+    height: 1.2em;
+    margin: 0;
+    border: 1px solid #777;
+    border-radius: 50%;
+    background: #777 url(../assets/Icon/plus-white.png) no-repeat 50% 50%;
+    font-size: 1.0em;
+}
+
+ol.two>li>.icon {
+    position: absolute;
+    top: .3em;
+    left: .5em;
+    overflow: hidden;
+    width: 1.2em;
+    height: 1.2em;
+    margin: 0;
+    border: 1px solid #777;
+    border-radius: 50%;
+    background: #777 url(../assets/Icon/plus-white.png) no-repeat 50% 50%;
+    font-size: 1.0em;
+}
+
+ol.one>li>.icon.on {
+    background: #777 url(../assets/Icon/minus-white.png) no-repeat 50% 50%;
+}
+
+ol.one>li>.icon i {
+    margin-left: -1000px;
+}
+
+ol.two>li>.icon i {
+    margin-left: -1000px;
+}
+
+ol.one>li>.icon+a+ol {
+    display: none;
+    padding-left: 0;
+}
+
+ol.two>li>.icon+a+ol {
+    display: none;
+    margin: .4em 0;
+    padding-left: 2em;
+}
+
+ol.one>li>.icon.on+a+ol {
+    display: block;
+}

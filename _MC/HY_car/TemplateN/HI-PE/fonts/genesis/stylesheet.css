@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText-Medium.eot');
+    src: url('hinted-GenesisSansText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText-Medium.woff2') format('woff2'),
+        url('hinted-GenesisSansText-Medium.woff') format('woff'),
+        url('hinted-GenesisSansText-Medium.ttf') format('truetype'),
+        url('hinted-GenesisSansText-Medium.svg#GenesisSansText-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText-BoldItalic.eot');
+    src: url('hinted-GenesisSansText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText-BoldItalic.woff2') format('woff2'),
+        url('hinted-GenesisSansText-BoldItalic.woff') format('woff'),
+        url('hinted-GenesisSansText-BoldItalic.ttf') format('truetype'),
+        url('hinted-GenesisSansText-BoldItalic.svg#GenesisSansText-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText-Bold.eot');
+    src: url('hinted-GenesisSansText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText-Bold.woff2') format('woff2'),
+        url('hinted-GenesisSansText-Bold.woff') format('woff'),
+        url('hinted-GenesisSansText-Bold.ttf') format('truetype'),
+        url('hinted-GenesisSansText-Bold.svg#GenesisSansText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText-MediumItalic.eot');
+    src: url('hinted-GenesisSansText-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText-MediumItalic.woff2') format('woff2'),
+        url('hinted-GenesisSansText-MediumItalic.woff') format('woff'),
+        url('hinted-GenesisSansText-MediumItalic.ttf') format('truetype'),
+        url('hinted-GenesisSansText-MediumItalic.svg#GenesisSansText-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText-Italic.eot');
+    src: url('hinted-GenesisSansText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText-Italic.woff2') format('woff2'),
+        url('hinted-GenesisSansText-Italic.woff') format('woff'),
+        url('hinted-GenesisSansText-Italic.ttf') format('truetype'),
+        url('hinted-GenesisSansText-Italic.svg#GenesisSansText-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Head';
+    src: url('hinted-GenesisSansHead-Light.eot');
+    src: url('hinted-GenesisSansHead-Light.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansHead-Light.woff2') format('woff2'),
+        url('hinted-GenesisSansHead-Light.woff') format('woff'),
+        url('hinted-GenesisSansHead-Light.ttf') format('truetype'),
+        url('hinted-GenesisSansHead-Light.svg#GenesisSansHead-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Head';
+    src: url('hinted-GenesisSansHead.eot');
+    src: url('hinted-GenesisSansHead.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansHead.woff2') format('woff2'),
+        url('hinted-GenesisSansHead.woff') format('woff'),
+        url('hinted-GenesisSansHead.ttf') format('truetype'),
+        url('hinted-GenesisSansHead.svg#GenesisSansHead') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Genesis Sans Text';
+    src: url('hinted-GenesisSansText.eot');
+    src: url('hinted-GenesisSansText.eot?#iefix') format('embedded-opentype'),
+        url('hinted-GenesisSansText.woff2') format('woff2'),
+        url('hinted-GenesisSansText.woff') format('woff'),
+        url('hinted-GenesisSansText.ttf') format('truetype'),
+        url('hinted-GenesisSansText.svg#GenesisSansText') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
