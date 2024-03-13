@@ -3,3 +3,4 @@ resources/
 jre/
 *.zip
 *.idml
+**/tmx_2/flag
