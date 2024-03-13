@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="15.0">
+	<Story Self="u8aa5" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description-Cover-Back">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_Important">
+				<Content>Моделі з радіопередавачем або радіомовним приймачем</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnorderList_1-Safety">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Самсунг Електронікс Ко., Лтд. заявляє, що це обладнання відповідає вимогам «Технічного регламенту радіообладнання», затвердженого постановою Кабінета Міністрів України від 24.05.2017р. № 355</Content>
+				<Br />
+				<Content>Повний текст декларації відповідності доступний за такою адресою: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_URL">
+				<HyperlinkTextSource Self="ub19c" Name="하이퍼링크 5" Hidden="false" AppliedCharacterStyle="n">
+					<Content>http://www.samsung.com</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> перейдіть на сторінку Підтримка &gt; Пошук за кодом моделі.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description-Cover-Back">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_Important">
+				<Content>Для моделей з радіопередавачами застосовується така інформація</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnorderList_1-Safety">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Це обладнання може використовуватись на теріторії Україні.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description-Cover-Back">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Деякий вміст може відрізнятися від вашого пристрою залежно від регіону, оператора зв’язку або версії програмного забезпечення, а також може змінюватися без завчасного попередження.</Content>
+				<Br />
+				<Content>© Samsung Electronics Co., Ltd., 2021</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

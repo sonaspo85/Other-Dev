@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="15.0">
+	<Story Self="ua689" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description-Safety">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Попадание жидкостей или пыли в устройство может привести к его повреждению. Следуйте советам ниже для сохранения характеристик влаго- и пылезащиты устройства.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnorderList_1-Safety">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Не погружайте устройство в пресную воду на глубину более </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_NoBreak">
+				<Content>1,5 м</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> и не держите его под водой дольше </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_NoBreak">
+				<Content>30 минут</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>.</Content>
+				<Br />
+				<Content>Избегайте контакта устройства с </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_Important">
+				<Content>водой под напором</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Не подвергайте устройство внезапному давлению воды, например, во время ныряния.</Content>
+				<Br />
+				<Content>После погружения устройства в пресную воду тщательно протрите его чистой мягкой тканью. Если устройство подвергается воздействию других жидкостей, таких как соленая, мыльная вода, вода из бассейна, масло, духи, солнцезащитный крем, очиститель для рук, или воздействию химических веществ, таких как косметические средства, промойте его в пресной воде и тщательно протрите чистой мягкой тканью. Несоблюдение этих инструкций может повлиять на работу и внешний вид устройства.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_Important">
+				<Content>Если устройство было погружено в воду либо его микрофон или внешний динамик намочены</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>, качество звука во время вызова может ухудшиться.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/C_Important">
+				<Content>В результате тестирования в контролируемой среде устройство было сертифицировано как пыле- и водонепроницаемое в определенных условиях (соответствует требованиям классификации IP68 международного стандарта IEC 60529 «Степени защиты, обеспечиваемые оболочками» [код IP]; условия тестирования: 15–35 °C, 86–106 кПа, пресная вода, 1,5 метра, в течение 30 минут). Несмотря на эту классификацию, устройство может быть повреждено в некоторых ситуациях.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description_UpSp">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<TextFrame Self="ua6b3" ParentStory="ua6b6" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeType="StrokeStyle/$ID/Solid" StrokeColor="Swatch/None" StrokeTint="-1" GradientFillStart="-120.8976377952756 78.66850393700803" GradientFillLength="158.74015748031496" GradientFillAngle="0" GradientStrokeStart="-120.89763779527556 61.360629921259815" GradientStrokeLength="181.11732283464568" GradientStrokeAngle="0" GapColor="Swatch/None" GapTint="-1" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/Box" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 120.8976377952756 -40.69743586262389">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="-120.8976377952756 13.471653543307163" LeftDirection="-120.8976377952756 13.471653543307163" RightDirection="-120.8976377952756 13.471653543307163" />
+									<PathPointType Anchor="-120.8976377952756 40.69743586262389" LeftDirection="-120.8976377952756 40.69743586262389" RightDirection="-120.8976377952756 40.69743586262389" />
+									<PathPointType Anchor="12.330708661417303 40.69743586262389" LeftDirection="12.330708661417303 40.69743586262389" RightDirection="12.330708661417303 40.69743586262389" />
+									<PathPointType Anchor="12.330708661417303 13.471653543307163" LeftDirection="12.330708661417303 13.471653543307163" RightDirection="12.330708661417303 13.471653543307163" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<TransparencySetting>
+						<BlendingSetting Opacity="100" />
+					</TransparencySetting>
+					<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="121.88976377952757" FirstBaselineOffset="EmboxHeight" MinimumFirstBaselineOffset="0" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false" FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6">
+						<Properties>
+							<InsetSpacing type="unit">5.669291338582678</InsetSpacing>
+						</Properties>
+					</TextFramePreference>
+					<BaselineFrameGridOption UseCustomBaselineFrameGrid="false" StartingOffsetForBaselineFrameGrid="0" BaselineFrameGridRelativeOption="TopOfInset" BaselineFrameGridIncrement="12">
+						<Properties>
+							<BaselineFrameGridColor type="enumeration">Charcoal</BaselineFrameGridColor>
+						</Properties>
+					</BaselineFrameGridOption>
+					<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+				</TextFrame>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/UnorderList_1-Safety_UpSp">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Рекомендуется не использовать неподвижные изображения на всем сенсорном экране или его части в течение продолжительного времени. В противном случае на экране могут появляться шлейфы от изображения (эффект выгорания экрана) и артефакты.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Empty">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="ua689ia6a0" HeaderRowCount="0" FooterRowCount="0" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" BodyRowCount="1" ColumnCount="2" AppliedTableStyle="TableStyle/Table_ETC" TableDirection="LeftToRightDirection">
+					<Row Self="ua689ia6a0Row0" Name="0" TextTopInset="1.4173228346456694" TextLeftInset="0" TextBottomInset="1.4173228346456694" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleRowHeight="19.844899044006844" MinimumHeight="11.338582677165356" />
+					<Column Self="ua689ia6a0Column0" Name="0" TextTopInset="1.4173228346456694" TextLeftInset="0" TextBottomInset="1.4173228346456694" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="25.511811023622048" />
+					<Column Self="ua689ia6a0Column1" Name="1" TextTopInset="1.4173228346456694" TextLeftInset="2.834645669291339" TextBottomInset="1.4173228346456694" TextRightInset="2.834645669291339" ClipContentToTextCell="false" SingleColumnWidth="107.71653543307093" />
+					<Cell Self="ua689ia6a0i0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="0" TextBottomInset="1.4173228346456694" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell_ImgLeft" AppliedCellStylePriority="4" ClipContentToCell="false" RightEdgeStrokePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Img-Left">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Rectangle Self="ua6ab" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 12.848999023437509 -11.353149414062504">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-12.848999023437402 -12.623743321126346" LeftDirection="-12.848999023437402 -12.623743321126346" RightDirection="-12.848999023437402 -12.623743321126346" />
+													<PathPointType Anchor="-12.848999023437402 4.384218715006465" LeftDirection="-12.848999023437402 4.384218715006465" RightDirection="-12.848999023437402 4.384218715006465" />
+													<PathPointType Anchor="7.623748779296971 4.384218715006465" LeftDirection="7.623748779296971 4.384218715006465" RightDirection="7.623748779296971 4.384218715006465" />
+													<PathPointType Anchor="7.623748779296971 -12.623743321126346" LeftDirection="7.623748779296971 -12.623743321126346" RightDirection="7.623748779296971 -12.623743321126346" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<AnchoredObjectSetting AnchorYoffset="0.0022913385826939248" />
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+										<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+									</TextWrapPreference>
+									<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+									<PDF Self="ua8b7" GrayVectorPolicy="IgnoreAll" RGBVectorPolicy="HonorAllProfiles" CMYKVectorPolicy="IgnoreAll" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Adobe Portable Document Format (PDF)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.3 0 0 0.3 -12.8489990234374 -12.623743321126346" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" Visible="true" Name="$ID/">
+										<Properties>
+											<GraphicBounds Left="0" Top="0" Right="68.24249267578125" Bottom="56.693206787109375" />
+										</Properties>
+										<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+											<Properties>
+												<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+											</Properties>
+											<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
+										</TextWrapPreference>
+										<PDFAttribute PageNumber="1" PDFCrop="CropArt" TransparentBackground="true" />
+										<MetadataPacketPreference>
+											<Properties>
+												<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">M-soundout</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2020-05-28T15:48:13+09:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-05-28T15:48:13+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2020-05-28T15:48:13+10:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 24.1 (Windows)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:c0c96cb1-b210-4f75-b7f9-9e7b5ca675b1</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:741cc3aa-5dd5-db4e-84eb-24223fbbbc20</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:ba96e260-2f5c-e64f-805d-97e7a1a119d4</stRef:instanceID>
+            <stRef:documentID>xmp.did:ba96e260-2f5c-e64f-805d-97e7a1a119d4</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ba96e260-2f5c-e64f-805d-97e7a1a119d4</stEvt:instanceID>
+                  <stEvt:when>2020-05-28T15:35:35+09:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 24.1 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:741cc3aa-5dd5-db4e-84eb-24223fbbbc20</stEvt:instanceID>
+                  <stEvt:when>2020-05-28T15:35:35+09:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 24.1 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:Type>Document</illustrator:Type>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <illustrator:CreatorSubTool>AIRobin</illustrator:CreatorSubTool>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>24.074428</stDim:w>
+            <stDim:h>20.000095</stDim:h>
+            <stDim:unit>Millimeters</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>기본 견본 그룹</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>흰색</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>검정</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>회색</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+											</Properties>
+										</MetadataPacketPreference>
+										<Link Self="ua6b0" AssetURL="$ID/" AssetID="$ID/" RenditionData="Actual" LinkResourceURI="file:E:/Dev_tool/Mobile_Spec-checked/WORK/210316/Spec_sample/manual/%EC%96%B8%EC%96%B4%EB%B3%84%EC%82%AC%EC%96%91/Band%26Mode/Russian/SM-G998B_DS_QSG_CIS_Rus_Rev.1.0_201207_INDD/G998B_DS_QSG_CIS_Links/M-soundout.ai" LinkResourceFormat="$ID/Adobe Portable Document Format (PDF)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 132351220940000000 191294" LinkImportModificationTime="2020-05-28T15:48:14" LinkImportTime="2020-12-02T13:47:56" LinkResourceSize="0~2eb3e" />
+										<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
+										<GraphicLayerOption UpdateLinkOption="KeepOverrides">
+											<GraphicLayer Self="ua8b7GraphicLayerOption1i1b" Name="$ID/레이어 1" OriginalVisibility="true" CurrentVisibility="true" SeparatorLayer="false" AdjustmentLayer="false" FXLayer="false" Locked="false" HasViewState="false" ViewState="false" HasExportState="false" ExportState="false" HasPrintState="false" PrintState="false" Id="27" />
+										</GraphicLayerOption>
+									</PDF>
+								</Rectangle>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="ua689ia6a0i1" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="2.834645669291339" TextBottomInset="1.4173228346456694" TextRightInset="2.834645669291339" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Cell_Description-ETC" AppliedCellStylePriority="5" ClipContentToCell="false" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="2" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Description-Safety">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Во избежание повреждения слуха не используйте гарнитуру на максимальной громкости в течение продолжительного времени.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
