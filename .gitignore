@@ -1,5 +1,6 @@
 Backup/
 resources/
+resource/
 jre/
 *.zip
 *.idml
@@ -7,3 +8,11 @@ jre/
 Data_compare/
 Batch PRT/
 Delta_Extractor
+json/
+temp/
+_Common_Tool/tmx2xml-transform/config.ini
+_Common_Tool/tmx2xml-transform/json/update.txt
+_Common_Tool/tmx2xml-transform/log.txt
+_Common_Tool/tmx2xml-transform/config.ini
+_Common_Tool/tmx2xml-transform/json/update.txt
+_Common_Tool/tmx2xml-transform/log.txt
