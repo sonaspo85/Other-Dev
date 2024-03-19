@@ -1,0 +1,46 @@
+<root ddd="file:////E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py" sourcename="E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py">
+	<List pos="9">
+		<from>\u1047((?=[\u1000-\u1021]\u103a)|(?=[\u102c-\u1030\u1032\u1036-\u1038\u103d\u103e]))</from>
+		<to>\u101b</to>
+	</List>
+	<List pos="1">
+		<from>(\u103d|\u1087)</from>
+		<to>\u103e</to>
+	</List>
+	<List pos="2">
+		<from>\u103c</from>
+		<to>\u103d</to>
+	</List>
+	<List pos="3">
+		<from>(\u103b|\u107e|\u107f|\u1080|\u1081|\u1082|\u1083|\u1084)</from>
+		<to>\u103c</to>
+	</List>
+	<List pos="4">
+		<from>(\u103a|\u107d)</from>
+		<to>\u103b</to>
+	</List>
+	<List pos="8">
+		<from>\u106c</from>
+		<to>\u1039\u100b</to>
+	</List>
+	<List pos="10">
+		<from>\u106e</from>
+		<to>\u100d\u1039\u100d</to>
+	</List>
+	<List pos="11">
+		<from>\u106f</from>
+		<to>\u100d\u1039\u100e</to>
+	</List>
+	<List pos="12">
+		<from>\u1070</from>
+		<to>\u1039\u100f</to>
+	</List>
+	<List pos="13">
+		<from>(\u1071|\u1072)</from>
+		<to>\u1039\u1010</to>
+	</List>
+	<List pos="81">
+		<from>([\u1000-\u1021])\u103d\u1031\u103b</from>
+		<to>\\1\u103b\u103d\u1031</to>
+	</List>
+</root>

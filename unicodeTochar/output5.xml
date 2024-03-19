@@ -1,0 +1,326 @@
+<root ddd="file:////E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py" sourcename="E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py">
+	<List pos="1">
+		<from pos="1">(&amp;#x103d;|&amp;#x1087;)</from>
+		<to pos="1">&amp;#x103e;</to>
+	</List>
+	<List pos="2">
+		<from pos="2">&amp;#x103c;</from>
+		<to pos="2">&amp;#x103d;</to>
+	</List>
+	<List pos="3">
+		<from pos="3">(&amp;#x103b;|&amp;#x107e;|&amp;#x107f;|&amp;#x1080;|&amp;#x1081;|&amp;#x1082;|&amp;#x1083;|&amp;#x1084;)</from>
+		<to pos="3">&amp;#x103c;</to>
+	</List>
+	<List pos="4">
+		<from pos="4">(&amp;#x103a;|&amp;#x107d;)</from>
+		<to pos="4">&amp;#x103b;</to>
+	</List>
+	<List pos="5">
+		<from pos="5">&amp;#x1039;</from>
+		<to pos="5">&amp;#x103a;</to>
+	</List>
+	<List pos="6">
+		<from pos="6">&amp;#x106a;</from>
+		<to pos="6">&amp;#x1009;</to>
+	</List>
+	<List pos="7">
+		<from pos="7">&amp;#x106b;</from>
+		<to pos="7">&amp;#x100a;</to>
+	</List>
+	<List pos="8">
+		<from pos="8">&amp;#x106c;</from>
+		<to pos="8">&amp;#x1039;&amp;#x100b;</to>
+	</List>
+	<List pos="9">
+		<from pos="9">&amp;#x106d;</from>
+		<to pos="9">&amp;#x1039;&amp;#x100c;</to>
+	</List>
+	<List pos="10">
+		<from pos="10">&amp;#x106e;</from>
+		<to pos="10">&amp;#x100d;&amp;#x1039;&amp;#x100d;</to>
+	</List>
+	<List pos="11">
+		<from pos="11">&amp;#x106f;</from>
+		<to pos="11">&amp;#x100d;&amp;#x1039;&amp;#x100e;</to>
+	</List>
+	<List pos="12">
+		<from pos="12">&amp;#x1070;</from>
+		<to pos="12">&amp;#x1039;&amp;#x100f;</to>
+	</List>
+	<List pos="13">
+		<from pos="13">(&amp;#x1071;|&amp;#x1072;)</from>
+		<to pos="13">&amp;#x1039;&amp;#x1010;</to>
+	</List>
+	<List pos="14">
+		<from pos="14">&amp;#x1060;</from>
+		<to pos="14">&amp;#x1039;&amp;#x1000;</to>
+	</List>
+	<List pos="15">
+		<from pos="15">&amp;#x1061;</from>
+		<to pos="15">&amp;#x1039;&amp;#x1001;</to>
+	</List>
+	<List pos="16">
+		<from pos="16">&amp;#x1062;</from>
+		<to pos="16">&amp;#x1039;&amp;#x1002;</to>
+	</List>
+	<List pos="17">
+		<from pos="17">&amp;#x1063;</from>
+		<to pos="17">&amp;#x1039;&amp;#x1003;</to>
+	</List>
+	<List pos="18">
+		<from pos="18">&amp;#x1065;</from>
+		<to pos="18">&amp;#x1039;&amp;#x1005;</to>
+	</List>
+	<List pos="19">
+		<from pos="19">&amp;#x1068;</from>
+		<to pos="19">&amp;#x1039;&amp;#x1007;</to>
+	</List>
+	<List pos="20">
+		<from pos="20">&amp;#x1069;</from>
+		<to pos="20">&amp;#x1039;&amp;#x1008;</to>
+	</List>
+	<List pos="21">
+		<from pos="21">(&amp;#x1073;|&amp;#x1074;)</from>
+		<to pos="21">&amp;#x1039;&amp;#x1011;</to>
+	</List>
+	<List pos="22">
+		<from pos="22">&amp;#x1075;</from>
+		<to pos="22">&amp;#x1039;&amp;#x1012;</to>
+	</List>
+	<List pos="23">
+		<from pos="23">&amp;#x1076;</from>
+		<to pos="23">&amp;#x1039;&amp;#x1013;</to>
+	</List>
+	<List pos="24">
+		<from pos="24">&amp;#x1077;</from>
+		<to pos="24">&amp;#x1039;&amp;#x1014;</to>
+	</List>
+	<List pos="25">
+		<from pos="25">&amp;#x1078;</from>
+		<to pos="25">&amp;#x1039;&amp;#x1015;</to>
+	</List>
+	<List pos="26">
+		<from pos="26">&amp;#x1079;</from>
+		<to pos="26">&amp;#x1039;&amp;#x1016;</to>
+	</List>
+	<List pos="27">
+		<from pos="27">&amp;#x107a;</from>
+		<to pos="27">&amp;#x1039;&amp;#x1017;</to>
+	</List>
+	<List pos="28">
+		<from pos="28">&amp;#x107c;</from>
+		<to pos="28">&amp;#x1039;&amp;#x1019;</to>
+	</List>
+	<List pos="29">
+		<from pos="29">&amp;#x1085;</from>
+		<to pos="29">&amp;#x1039;&amp;#x101c;</to>
+	</List>
+	<List pos="30">
+		<from pos="30">&amp;#x1033;</from>
+		<to pos="30">&amp;#x102f;</to>
+	</List>
+	<List pos="31">
+		<from pos="31">&amp;#x1034;</from>
+		<to pos="31">&amp;#x1030;</to>
+	</List>
+	<List pos="32">
+		<from pos="32">&amp;#x103f;</from>
+		<to pos="32">&amp;#x1030;</to>
+	</List>
+	<List pos="33">
+		<from pos="33">&amp;#x1086;</from>
+		<to pos="33">&amp;#x103f;</to>
+	</List>
+	<List pos="34">
+		<from pos="34">&amp;#x1036;&amp;#x1088;</from>
+		<to pos="34">&amp;#x1088;&amp;#x1036;</to>
+	</List>
+	<List pos="35">
+		<from pos="35">&amp;#x1088;</from>
+		<to pos="35">&amp;#x103e;&amp;#x102f;</to>
+	</List>
+	<List pos="36">
+		<from pos="36">&amp;#x1089;</from>
+		<to pos="36">&amp;#x103e;&amp;#x1030;</to>
+	</List>
+	<List pos="37">
+		<from pos="37">&amp;#x108a;</from>
+		<to pos="37">&amp;#x103d;&amp;#x103e;</to>
+	</List>
+	<List pos="38">
+		<from pos="38">([&amp;#x1000;-&amp;#x1021;])&amp;#x1064;</from>
+		<to pos="38">&amp;#x1004;&amp;#x103a;&amp;#x1039;$1</to>
+	</List>
+	<List pos="39">
+		<from pos="39">([&amp;#x1000;-&amp;#x1021;])&amp;#x108b;</from>
+		<to pos="39">&amp;#x1004;&amp;#x103a;&amp;#x1039;$1&amp;#x102d;</to>
+	</List>
+	<List pos="40">
+		<from pos="40">([&amp;#x1000;-&amp;#x1021;])&amp;#x108c;</from>
+		<to pos="40">&amp;#x1004;&amp;#x103a;&amp;#x1039;$1&amp;#x102e;</to>
+	</List>
+	<List pos="41">
+		<from pos="41">([&amp;#x1000;-&amp;#x1021;])&amp;#x108d;</from>
+		<to pos="41">&amp;#x1004;&amp;#x103a;&amp;#x1039;$1&amp;#x1036;</to>
+	</List>
+	<List pos="42">
+		<from pos="42">&amp;#x108e;</from>
+		<to pos="42">&amp;#x102d;&amp;#x1036;</to>
+	</List>
+	<List pos="43">
+		<from pos="43">&amp;#x108f;</from>
+		<to pos="43">&amp;#x1014;</to>
+	</List>
+	<List pos="44">
+		<from pos="44">&amp;#x1090;</from>
+		<to pos="44">&amp;#x101b;</to>
+	</List>
+	<List pos="45">
+		<from pos="45">&amp;#x1091;</from>
+		<to pos="45">&amp;#x100f;&amp;#x1039;&amp;#x1091;</to>
+	</List>
+	<List pos="46">
+		<from pos="46">&amp;#x1019;&amp;#x102c;(&amp;#x107b;|&amp;#x1093;)</from>
+		<to pos="46">&amp;#x1019;&amp;#x1039;&amp;#x1018;&amp;#x102c;</to>
+	</List>
+	<List pos="47">
+		<from pos="47">(&amp;#x107b;|&amp;#x1093;)</from>
+		<to pos="47">&amp;#x103a;&amp;#x1018;</to>
+	</List>
+	<List pos="48">
+		<from pos="48">(&amp;#x1094;|&amp;#x1095;)</from>
+		<to pos="48">&amp;#x1037;</to>
+	</List>
+	<List pos="49">
+		<from pos="49">&amp;#x1096;</from>
+		<to pos="49">&amp;#x1039;&amp;#x1010;&amp;#x103d;</to>
+	</List>
+	<List pos="50">
+		<from pos="50">&amp;#x1097;</from>
+		<to pos="50">&amp;#x100b;&amp;#x1039;&amp;#x100b;</to>
+	</List>
+	<List pos="51">
+		<from pos="51">&amp;#x103c;([&amp;#x1000;-&amp;#x1021;])([&amp;#x1000;-&amp;#x1021;])?</from>
+		<to pos="51">$1&amp;#x103c;$2</to>
+	</List>
+	<List pos="52">
+		<from pos="52">([&amp;#x1000;-&amp;#x1021;])&amp;#x103c;&amp;#x103a;</from>
+		<to pos="52">&amp;#x103c;$1&amp;#x103a;</to>
+	</List>
+	<List pos="53">
+		<from pos="53">&amp;#x1031;([&amp;#x1000;-&amp;#x1021;])(&amp;#x103e;)?(&amp;#x103b;)?</from>
+		<to pos="53">$1$2$3&amp;#x1031;</to>
+	</List>
+	<List pos="54">
+		<from pos="54">([&amp;#x1000;-&amp;#x1021;])&amp;#x1031;([&amp;#x103b;&amp;#x103c;&amp;#x103d;&amp;#x103e;]+)</from>
+		<to pos="54">$1$2&amp;#x1031;</to>
+	</List>
+	<List pos="55">
+		<from pos="55">&amp;#x1032;&amp;#x103d;</from>
+		<to pos="55">&amp;#x103d;&amp;#x1032;</to>
+	</List>
+	<List pos="56">
+		<from pos="56">&amp;#x103d;&amp;#x103b;</from>
+		<to pos="56">&amp;#x103b;&amp;#x103d;</to>
+	</List>
+	<List pos="57">
+		<from pos="57">&amp;#x103a;&amp;#x1037;</from>
+		<to pos="57">&amp;#x1037;&amp;#x103a;</to>
+	</List>
+	<List pos="58">
+		<from pos="58">&amp;#x102f;(&amp;#x102d;|&amp;#x102e;|&amp;#x1036;|&amp;#x1037;)&amp;#x102f;</from>
+		<to pos="58">&amp;#x102f;$1</to>
+	</List>
+	<List pos="59">
+		<from pos="59">&amp;#x102f;&amp;#x102f;</from>
+		<to pos="59">&amp;#x102f;</to>
+	</List>
+	<List pos="60">
+		<from pos="60">(&amp;#x102f;|&amp;#x1030;)(&amp;#x102d;|&amp;#x102e;)</from>
+		<to pos="60">$2$1</to>
+	</List>
+	<List pos="61">
+		<from pos="61">(&amp;#x103e;)(&amp;#x103b;|&amp;#x1037;)</from>
+		<to pos="61">$2$1</to>
+	</List>
+	<List pos="62">
+		<from pos="62">&amp;#x1025;(&amp;#x103a;|&amp;#x102c;)</from>
+		<to pos="62">&amp;#x1009;$1</to>
+	</List>
+	<List pos="63">
+		<from pos="63">&amp;#x1025;&amp;#x102e;</from>
+		<to pos="63">&amp;#x1026;</to>
+	</List>
+	<List pos="64">
+		<from pos="64">&amp;#x1005;&amp;#x103b;</from>
+		<to pos="64">&amp;#x1008;</to>
+	</List>
+	<List pos="65">
+		<from pos="65">&amp;#x1036;(&amp;#x102f;|&amp;#x1030;)</from>
+		<to pos="65">$1&amp;#x1036;</to>
+	</List>
+	<List pos="66">
+		<from pos="66">&amp;#x1031;&amp;#x1037;&amp;#x103e;</from>
+		<to pos="66">&amp;#x103e;&amp;#x1031;&amp;#x1037;</to>
+	</List>
+	<List pos="67">
+		<from pos="67">&amp;#x1031;&amp;#x103e;&amp;#x102c;</from>
+		<to pos="67">&amp;#x103e;&amp;#x1031;&amp;#x102c;</to>
+	</List>
+	<List pos="68">
+		<from pos="68">&amp;#x105a;</from>
+		<to pos="68">&amp;#x102b;&amp;#x103a;</to>
+	</List>
+	<List pos="69">
+		<from pos="69">&amp;#x1031;&amp;#x103b;&amp;#x103e;</from>
+		<to pos="69">&amp;#x103b;&amp;#x103e;&amp;#x1031;</to>
+	</List>
+	<List pos="70">
+		<from pos="70">(&amp;#x102d;|&amp;#x102e;)(&amp;#x103d;|&amp;#x103e;)</from>
+		<to pos="70">$2$1</to>
+	</List>
+	<List pos="71">
+		<from pos="71">&amp;#x102c;&amp;#x1039;([&amp;#x1000;-&amp;#x1021;])</from>
+		<to pos="71">&amp;#x1039;$1&amp;#x102c;</to>
+	</List>
+	<List pos="72">
+		<from pos="72">&amp;#x103c;&amp;#x1004;&amp;#x103a;&amp;#x1039;([&amp;#x1000;-&amp;#x1021;])</from>
+		<to pos="72">&amp;#x1004;&amp;#x103a;&amp;#x1039;$1&amp;#x103c;</to>
+	</List>
+	<List pos="73">
+		<from pos="73">&amp;#x1039;&amp;#x103c;&amp;#x103a;&amp;#x1039;([&amp;#x1000;-&amp;#x1021;])</from>
+		<to pos="73">&amp;#x103a;&amp;#x1039;$1&amp;#x103c;</to>
+	</List>
+	<List pos="74">
+		<from pos="74">&amp;#x103c;&amp;#x1039;([&amp;#x1000;-&amp;#x1021;])</from>
+		<to pos="74">&amp;#x1039;$1&amp;#x103c;</to>
+	</List>
+	<List pos="75">
+		<from pos="75">&amp;#x1036;&amp;#x1039;([&amp;#x1000;-&amp;#x1021;])</from>
+		<to pos="75">&amp;#x1039;$1&amp;#x1036;</to>
+	</List>
+	<List pos="76">
+		<from pos="76">&amp;#x1092;</from>
+		<to pos="76">&amp;#x100b;&amp;#x1039;&amp;#x100c;</to>
+	</List>
+	<List pos="77">
+		<from pos="77">&amp;#x104e;</from>
+		<to pos="77">&amp;#x104e;&amp;#x1004;&amp;#x103a;&amp;#x1038;</to>
+	</List>
+	<List pos="78">
+		<from pos="78">&amp;#x1040;(&amp;#x102b;|&amp;#x102c;|&amp;#x1036;)</from>
+		<to pos="78">&amp;#x101d;$1</to>
+	</List>
+	<List pos="79">
+		<from pos="79">&amp;#x1025;&amp;#x1039;</from>
+		<to pos="79">&amp;#x1009;&amp;#x1039;</to>
+	</List>
+	<List pos="80">
+		<from pos="80">([&amp;#x1000;-&amp;#x1021;])&amp;#x103c;&amp;#x1031;&amp;#x103d;</from>
+		<to pos="80">$1&amp;#x103c;&amp;#x103d;&amp;#x1031;</to>
+	</List>
+	<List pos="81">
+		<from pos="81">([&amp;#x1000;-&amp;#x1021;])&amp;#x103d;&amp;#x1031;&amp;#x103b;</from>
+		<to pos="81">$1&amp;#x103b;&amp;#x103d;&amp;#x1031;</to>
+	</List>
+</root>

@@ -1,0 +1,338 @@
+<root ddd="file:////E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py" sourcename="E:/Dev_tool/unicodeTochar/eManual_Data_BUR_UNICODE_CONVERT_FINAL.py">
+	<List pos="1">
+		<from>\u1047<b>(<b class="forwardSearch">([\u1000-\u1021]\u103a)</b>|<b class="forwardSearch">([\u102c-\u1030\u1032\u1036-\u1038\u103d\u103e])</b>)</b></from>
+		<to>\u101b</to>
+	</List>
+	<List pos="2">
+		<from>\u1040\u102d<b class="nothing">(?!\u0020?/)</b></from>
+		<to>\u101d\u102d</to>
+	</List>
+	<List pos="3">
+		<from>\u103c</from>
+		<to>\u103d</to>
+	</List>
+	<List pos="4">
+		<from><b>(\u103d|\u1087)</b></from>
+		<to>\u103e</to>
+	</List>
+	<List pos="5">
+		<from>\u103c</from>
+		<to>\u103d</to>
+	</List>
+	<List pos="6">
+		<from><b>(\u103b|\u107e|\u107f|\u1080|\u1081|\u1082|\u1083|\u1084)</b></from>
+		<to>\u103c</to>
+	</List>
+	<List pos="7">
+		<from><b>(\u103a|\u107d)</b></from>
+		<to>\u103b</to>
+	</List>
+	<List pos="8">
+		<from>\u1039</from>
+		<to>\u103a</to>
+	</List>
+	<List pos="9">
+		<from>\u106a</from>
+		<to>\u1009</to>
+	</List>
+	<List pos="10">
+		<from>\u106b</from>
+		<to>\u100a</to>
+	</List>
+	<List pos="11">
+		<from>\u106c</from>
+		<to>\u1039\u100b</to>
+	</List>
+	<List pos="12">
+		<from>\u106d</from>
+		<to>\u1039\u100c</to>
+	</List>
+	<List pos="13">
+		<from>\u106e</from>
+		<to>\u100d\u1039\u100d</to>
+	</List>
+	<List pos="14">
+		<from>\u106f</from>
+		<to>\u100d\u1039\u100e</to>
+	</List>
+	<List pos="15">
+		<from>\u1070</from>
+		<to>\u1039\u100f</to>
+	</List>
+	<List pos="16">
+		<from><b>(\u1071|\u1072)</b></from>
+		<to>\u1039\u1010</to>
+	</List>
+	<List pos="17">
+		<from>\u1060</from>
+		<to>\u1039\u1000</to>
+	</List>
+	<List pos="18">
+		<from>\u1061</from>
+		<to>\u1039\u1001</to>
+	</List>
+	<List pos="19">
+		<from>\u1062</from>
+		<to>\u1039\u1002</to>
+	</List>
+	<List pos="20">
+		<from>\u1063</from>
+		<to>\u1039\u1003</to>
+	</List>
+	<List pos="21">
+		<from>\u1065</from>
+		<to>\u1039\u1005</to>
+	</List>
+	<List pos="22">
+		<from>\u1068</from>
+		<to>\u1039\u1007</to>
+	</List>
+	<List pos="23">
+		<from>\u1069</from>
+		<to>\u1039\u1008</to>
+	</List>
+	<List pos="24">
+		<from><b>(\u1073|\u1074)</b></from>
+		<to>\u1039\u1011</to>
+	</List>
+	<List pos="25">
+		<from>\u1075</from>
+		<to>\u1039\u1012</to>
+	</List>
+	<List pos="26">
+		<from>\u1076</from>
+		<to>\u1039\u1013</to>
+	</List>
+	<List pos="27">
+		<from>\u1077</from>
+		<to>\u1039\u1014</to>
+	</List>
+	<List pos="28">
+		<from>\u1078</from>
+		<to>\u1039\u1015</to>
+	</List>
+	<List pos="29">
+		<from>\u1079</from>
+		<to>\u1039\u1016</to>
+	</List>
+	<List pos="30">
+		<from>\u107a</from>
+		<to>\u1039\u1017</to>
+	</List>
+	<List pos="31">
+		<from>\u107c</from>
+		<to>\u1039\u1019</to>
+	</List>
+	<List pos="32">
+		<from>\u1085</from>
+		<to>\u1039\u101c</to>
+	</List>
+	<List pos="33">
+		<from>\u1033</from>
+		<to>\u102f</to>
+	</List>
+	<List pos="34">
+		<from>\u1034</from>
+		<to>\u1030</to>
+	</List>
+	<List pos="35">
+		<from>\u103f</from>
+		<to>\u1030</to>
+	</List>
+	<List pos="36">
+		<from>\u1086</from>
+		<to>\u103f</to>
+	</List>
+	<List pos="37">
+		<from>\u1036\u1088</from>
+		<to>\u1088\u1036</to>
+	</List>
+	<List pos="38">
+		<from>\u1088</from>
+		<to>\u103e\u102f</to>
+	</List>
+	<List pos="39">
+		<from>\u1089</from>
+		<to>\u103e\u1030</to>
+	</List>
+	<List pos="40">
+		<from>\u108a</from>
+		<to>\u103d\u103e</to>
+	</List>
+	<List pos="41">
+		<from><b>([\u1000-\u1021])</b>\u1064</from>
+		<to>\u1004\u103a\u1039<pos>1</pos></to>
+	</List>
+	<List pos="42">
+		<from><b>([\u1000-\u1021])</b>\u108b</from>
+		<to>\u1004\u103a\u1039<pos>1</pos>\u102d</to>
+	</List>
+	<List pos="43">
+		<from><b>([\u1000-\u1021])</b>\u108c</from>
+		<to>\u1004\u103a\u1039<pos>1</pos>\u102e</to>
+	</List>
+	<List pos="44">
+		<from><b>([\u1000-\u1021])</b>\u108d</from>
+		<to>\u1004\u103a\u1039<pos>1</pos>\u1036</to>
+	</List>
+	<List pos="45">
+		<from>\u108e</from>
+		<to>\u102d\u1036</to>
+	</List>
+	<List pos="46">
+		<from>\u108f</from>
+		<to>\u1014</to>
+	</List>
+	<List pos="47">
+		<from>\u1090</from>
+		<to>\u101b</to>
+	</List>
+	<List pos="48">
+		<from>\u1091</from>
+		<to>\u100f\u1039\u1091</to>
+	</List>
+	<List pos="49">
+		<from>\u1019\u102c<b>(\u107b|\u1093)</b></from>
+		<to>\u1019\u1039\u1018\u102c</to>
+	</List>
+	<List pos="50">
+		<from><b>(\u107b|\u1093)</b></from>
+		<to>\u103a\u1018</to>
+	</List>
+	<List pos="51">
+		<from><b>(\u1094|\u1095)</b></from>
+		<to>\u1037</to>
+	</List>
+	<List pos="52">
+		<from>\u1096</from>
+		<to>\u1039\u1010\u103d</to>
+	</List>
+	<List pos="53">
+		<from>\u1097</from>
+		<to>\u100b\u1039\u100b</to>
+	</List>
+	<List pos="54">
+		<from>\u103c<b>([\u1000-\u1021])</b><b>([\u1000-\u1021])</b>?</from>
+		<to><pos>1</pos>\u103c<pos>2</pos></to>
+	</List>
+	<List pos="55">
+		<from><b>([\u1000-\u1021])</b>\u103c\u103a</from>
+		<to>\u103c<pos>1</pos>\u103a</to>
+	</List>
+	<List pos="56">
+		<from>\u1031<b>([\u1000-\u1021])</b><b>(\u103e)</b>?<b>(\u103b)</b>?</from>
+		<to><pos>1</pos><pos>2</pos><pos>3</pos>\u1031</to>
+	</List>
+	<List pos="57">
+		<from><b>([\u1000-\u1021])</b>\u1031<b>([\u103b\u103c\u103d\u103e]+)</b></from>
+		<to><pos>1</pos><pos>2</pos>\u1031</to>
+	</List>
+	<List pos="58">
+		<from>\u1032\u103d</from>
+		<to>\u103d\u1032</to>
+	</List>
+	<List pos="59">
+		<from>\u103d\u103b</from>
+		<to>\u103b\u103d</to>
+	</List>
+	<List pos="60">
+		<from>\u103a\u1037</from>
+		<to>\u1037\u103a</to>
+	</List>
+	<List pos="61">
+		<from>\u102f<b>(\u102d|\u102e|\u1036|\u1037)</b>\u102f</from>
+		<to>\u102f<pos>1</pos></to>
+	</List>
+	<List pos="62">
+		<from>\u102f\u102f</from>
+		<to>\u102f</to>
+	</List>
+	<List pos="63">
+		<from><b>(\u102f|\u1030)</b><b>(\u102d|\u102e)</b></from>
+		<to><pos>2</pos><pos>1</pos></to>
+	</List>
+	<List pos="64">
+		<from><b>(\u103e)</b><b>(\u103b|\u1037)</b></from>
+		<to><pos>2</pos><pos>1</pos></to>
+	</List>
+	<List pos="65">
+		<from>\u1025<b>(\u103a|\u102c)</b></from>
+		<to>\u1009<pos>1</pos></to>
+	</List>
+	<List pos="66">
+		<from>\u1025\u102e</from>
+		<to>\u1026</to>
+	</List>
+	<List pos="67">
+		<from>\u1005\u103b</from>
+		<to>\u1008</to>
+	</List>
+	<List pos="68">
+		<from>\u1036<b>(\u102f|\u1030)</b></from>
+		<to><pos>1</pos>\u1036</to>
+	</List>
+	<List pos="69">
+		<from>\u1031\u1037\u103e</from>
+		<to>\u103e\u1031\u1037</to>
+	</List>
+	<List pos="70">
+		<from>\u1031\u103e\u102c</from>
+		<to>\u103e\u1031\u102c</to>
+	</List>
+	<List pos="71">
+		<from>\u105a</from>
+		<to>\u102b\u103a</to>
+	</List>
+	<List pos="72">
+		<from>\u1031\u103b\u103e</from>
+		<to>\u103b\u103e\u1031</to>
+	</List>
+	<List pos="73">
+		<from><b>(\u102d|\u102e)</b><b>(\u103d|\u103e)</b></from>
+		<to><pos>2</pos><pos>1</pos></to>
+	</List>
+	<List pos="74">
+		<from>\u102c\u1039<b>([\u1000-\u1021])</b></from>
+		<to>\u1039<pos>1</pos>\u102c</to>
+	</List>
+	<List pos="75">
+		<from>\u103c\u1004\u103a\u1039<b>([\u1000-\u1021])</b></from>
+		<to>\u1004\u103a\u1039<pos>1</pos>\u103c</to>
+	</List>
+	<List pos="76">
+		<from>\u1039\u103c\u103a\u1039<b>([\u1000-\u1021])</b></from>
+		<to>\u103a\u1039<pos>1</pos>\u103c</to>
+	</List>
+	<List pos="77">
+		<from>\u103c\u1039<b>([\u1000-\u1021])</b></from>
+		<to>\u1039<pos>1</pos>\u103c</to>
+	</List>
+	<List pos="78">
+		<from>\u1036\u1039<b>([\u1000-\u1021])</b></from>
+		<to>\u1039<pos>1</pos>\u1036</to>
+	</List>
+	<List pos="79">
+		<from>\u1092</from>
+		<to>\u100b\u1039\u100c</to>
+	</List>
+	<List pos="80">
+		<from>\u104e</from>
+		<to>\u104e\u1004\u103a\u1038</to>
+	</List>
+	<List pos="81">
+		<from>\u1040<b>(\u102b|\u102c|\u1036)</b></from>
+		<to>\u101d<pos>1</pos></to>
+	</List>
+	<List pos="82">
+		<from>\u1025\u1039</from>
+		<to>\u1009\u1039</to>
+	</List>
+	<List pos="83">
+		<from><b>([\u1000-\u1021])</b>\u103c\u1031\u103d</from>
+		<to><pos>1</pos>\u103c\u103d\u1031</to>
+	</List>
+	<List pos="84">
+		<from><b>([\u1000-\u1021])</b>\u103d\u1031\u103b</from>
+		<to><pos>1</pos>\u103b\u103d\u1031</to>
+	</List>
+</root>
