@@ -55,7 +55,7 @@
 						<fo:block-container xsl:use-attribute-sets="__frontmatter__title__container">
 							<fo:block xsl:use-attribute-sets="__frontmatter__title__block">
 								<xsl:call-template name="getVariable">
-									<xsl:with-param name="id" select="'frontmatter-title'"/>
+									<xsl:with-param name="id" select="'e-manual) frontmatter-title'"/>
 								</xsl:call-template>
 							</fo:block>
 						</fo:block-container>
