@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">หมายเหตุ</variable>
+	<variable id="admonition warning">คำเตือน</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">ขอขอบคุณที่เลือกซื้อผลิตภัณฑ์ Samsung</variable>
+	<variable id="frontmatter-inform-register">ถ้าต้องการรับบริการที่สมบูรณ์แบบยิ่งขึ้น โปรดลงทะเบียนผลิตภัณฑ์ที่</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">รุ่น</variable>
+	<variable id="frontmatter-serialno">หมายเลขซีเรียล</variable>
+	<variable id="frontmatter-inform-menuscreen">ในการไปที่เพจที่มีคำแนะนำวิธีใช้คู่มือสำหรับผู้ใช้ที่มีปัญหาในการมองเห็น โปรดเลือกลิงค์ เรียนรู้หน้าจอเมนู ด้านล่าง</variable>
+	<variable id="frontmatter-learnmenuscreen">เรียนรู้หน้าจอเมนู</variable>
+	<variable id="frontmatter-link">ลิงค์</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">สารบัญ</variable>
+</vars>

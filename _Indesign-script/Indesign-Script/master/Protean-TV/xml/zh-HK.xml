@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">備註</variable>
+	<variable id="admonition warning">警告</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">說明書</variable>
+	<variable id="frontmatter-thankyou">感謝您選購 Samsung 產品。</variable>
+	<variable id="frontmatter-inform-register">如要享受完整服務，請前往以下網站註冊您的產品：</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">型號</variable>
+	<variable id="frontmatter-serialno">序號</variable>
+	<variable id="frontmatter-inform-menuscreen">如要直接前往提供視障人士手冊使用指引的頁面，可選擇下方的了解功能表螢幕連結。</variable>
+	<variable id="frontmatter-learnmenuscreen">了解功能表螢幕</variable>
+	<variable id="frontmatter-link">連結</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">目錄</variable>
+</vars>

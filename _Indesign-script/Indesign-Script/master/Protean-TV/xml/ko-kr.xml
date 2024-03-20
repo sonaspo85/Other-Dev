@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">참고</variable>
+	<variable id="admonition warning">주의</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">SMART TV&#10;E-설명서</variable>
+	<variable id="frontmatter-thankyou"></variable>
+	<variable id="frontmatter-inform-register"></variable>
+	<variable id="frontmatter-url"></variable>
+	<variable id="frontmatter-model"></variable>
+	<variable id="frontmatter-serialno"></variable>
+	<variable id="frontmatter-inform-menuscreen">시각이 불편한 사용자들을 위해 매뉴얼 사용 방법을 제공하는 페이지로 바로 가려면 아래 메뉴 익히기 링크를 실행하세요.</variable>
+	<variable id="frontmatter-learnmenuscreen">메뉴 익히기</variable>
+	<variable id="frontmatter-link">링크</variable>
+	<variable id="frontmatter-open-quot">'</variable>
+	<variable id="frontmatter-close-quot">'</variable>
+	<variable id="frontmatter-toc-contents">목차</variable>
+</vars>

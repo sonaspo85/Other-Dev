@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Poznámka</variable>
+	<variable id="admonition warning">Varovanie</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Ďakujeme Vám za zakúpenie produktu značky Samsung.</variable>
+	<variable id="frontmatter-inform-register">Ak máte záujem o ešte kompletnejšie služby, zaregistrujte si svoj produkt na adrese</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Model</variable>
+	<variable id="frontmatter-serialno">Sériové číslo</variable>
+	<variable id="frontmatter-inform-menuscreen">Ak chcete priamo prejsť na stránku, ktorá poskytuje informácie o tom, ako používať príručku pre používateľov so zrakovým postihnutím, vyberte nižšie uvedený odkaz Naučiť sa ponuku obrazovky.</variable>
+	<variable id="frontmatter-learnmenuscreen">Naučiť sa ponuku obrazovky</variable>
+	<variable id="frontmatter-link">Odkaz</variable>
+	<variable id="frontmatter-open-quot">„</variable>
+	<variable id="frontmatter-close-quot">“</variable>
+	<variable id="frontmatter-toc-contents">Obsah</variable>
+</vars>

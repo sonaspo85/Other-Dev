@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Remarque</variable>
+	<variable id="admonition warning">Avertissement</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Merci d’avoir acheté ce produit Samsung.</variable>
+	<variable id="frontmatter-inform-register">Afin de bénéficier d’un service plus complet, veuillez enregistrer votre produit à l’adresse</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Modèle</variable>
+	<variable id="frontmatter-serialno">N° de série</variable>
+	<variable id="frontmatter-inform-menuscreen">Pour accéder directement à la page qui contient les instructions sur l’utilisation du manuel par les utilisateurs malvoyants, sélectionnez le lien Apprendre un écran de menu ci-après.</variable>
+	<variable id="frontmatter-learnmenuscreen">Apprendre un écran de menu</variable>
+	<variable id="frontmatter-link">Lien</variable>
+	<variable id="frontmatter-open-quot">« </variable>
+	<variable id="frontmatter-close-quot"> »</variable>
+	<variable id="frontmatter-toc-contents">Sommaire</variable>
+</vars>

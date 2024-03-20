@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Piebilde</variable>
+	<variable id="admonition warning">Brīdinājums</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Pateicamies par Samsung izstrādājuma iegādi.</variable>
+	<variable id="frontmatter-inform-register">Lai saņemtu labāku apkalpošanu, reģistrējiet šo izstrādājumu vietnē</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Modeļa</variable>
+	<variable id="frontmatter-serialno">Sērijas nr.</variable>
+	<variable id="frontmatter-inform-menuscreen">Lai uzreiz pārietu uz lapu, kurā sniegti rokasgrāmatas izmantošanas padomi vājredzīgiem lietotājiem, atlasiet zemāk redzamo saiti Izpētīt izvēlnes ekrānu.</variable>
+	<variable id="frontmatter-learnmenuscreen">Izpētīt izvēlnes ekrānu</variable>
+	<variable id="frontmatter-link">saite</variable>
+	<variable id="frontmatter-open-quot">„</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Saturs</variable>
+</vars>

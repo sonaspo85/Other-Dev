@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">تذکر</variable>
+	<variable id="admonition warning">هشدار</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">از اينكه اين محصول سامسونگ را خريداری كرديد متشكريم.</variable>
+	<variable id="frontmatter-inform-register">برای دريافت خدمات كامل تر، لطفاً محصول خود را در</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">مدل</variable>
+	<variable id="frontmatter-serialno">شماره سریال</variable>
+	<variable id="frontmatter-inform-menuscreen">برای مراجعه مستقیم به دستورالعمل های ارائه شده در مورد نحوه استفاده از راهنما برای کاربران نابینا، پیوند یادگیری صفحه منو را در زیر انتخاب کنید.</variable>
+	<variable id="frontmatter-learnmenuscreen">یادگیری صفحه منو</variable>
+	<variable id="frontmatter-link">پیوند</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">محتویات</variable>
+</vars>

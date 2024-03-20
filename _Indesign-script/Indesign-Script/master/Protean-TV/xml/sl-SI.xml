@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Opomba</variable>
+	<variable id="admonition warning">Opozorilo</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Zahvaljujemo se vam za nakup tega izdelka Samsung.</variable>
+	<variable id="frontmatter-inform-register">Če želite popolnejšo ponudbo storitev, izdelek registrirajte na</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Modela</variable>
+	<variable id="frontmatter-serialno">Serijska št.</variable>
+	<variable id="frontmatter-inform-menuscreen">Za neposreden dostop do strani z navodili za uporabo za slabovidne uporabnike izberite spodnjo povezavo Spoznajte meni na zaslonu.</variable>
+	<variable id="frontmatter-learnmenuscreen">Spoznajte meni na zaslonu</variable>
+	<variable id="frontmatter-link">Povezava</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Kazalo vsebine</variable>
+</vars>

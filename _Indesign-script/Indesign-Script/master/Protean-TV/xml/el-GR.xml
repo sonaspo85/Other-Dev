@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Σημείωση</variable>
+	<variable id="admonition warning">ΠΡΟΕΙΔΟΠΟΙΗΣΕΙΣ</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Σας ευχαριστούμε που αγοράσατε αυτό το προϊόν της Samsung.</variable>
+	<variable id="frontmatter-inform-register">Προκειμένου να λάβετε πιο ολοκληρωμένο σέρβις, δηλώστε το προϊόν σας στη διαδικτυακή διεύθυνση</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">μοντέλου</variable>
+	<variable id="frontmatter-serialno">Αρ. παραγωγής</variable>
+	<variable id="frontmatter-inform-menuscreen">Για να μεταβείτε απευθείας στη σελίδα όπου παρέχονται οδηγίες σχετικά με τον τρόπο χρήσης του εγχειριδίου για χρήστες με προβλήματα όρασης, επιλέξτε τον σύνδεσμο Μάθετε την οθόνη του Μενού παρακάτω.</variable>
+	<variable id="frontmatter-learnmenuscreen">Μάθετε την οθόνη του Μενού</variable>
+	<variable id="frontmatter-link">Σύνδεσμος</variable>
+	<variable id="frontmatter-open-quot">«</variable>
+	<variable id="frontmatter-close-quot">»</variable>
+	<variable id="frontmatter-toc-contents">Περιεχόμενα</variable>
+</vars>

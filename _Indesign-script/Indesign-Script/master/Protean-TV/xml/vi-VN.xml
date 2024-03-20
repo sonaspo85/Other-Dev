@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Lưu ý</variable>
+	<variable id="admonition warning">Cảnh báo</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Cảm ơn bạn đã mua sản phẩm của Samsung.</variable>
+	<variable id="frontmatter-inform-register">Để nhận được dịch vụ hoàn chỉnh hơn, vui lòng đăng ký sản phẩm của quý vị tại</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Kiểu sản phẩm</variable>
+	<variable id="frontmatter-serialno">Số sêri</variable>
+	<variable id="frontmatter-inform-menuscreen">Để trực tiếp đi đến trang cung cấp chỉ dẫn về cách sử dụng hướng dẫn dành cho người dùng khiếm thị, hãy chọn liên kết Tìm hiểu màn hình menu bên dưới.</variable>
+	<variable id="frontmatter-learnmenuscreen">Tìm hiểu màn hình menu</variable>
+	<variable id="frontmatter-link">Liên kết</variable>
+	<variable id="frontmatter-open-quot">“</variable>
+	<variable id="frontmatter-close-quot">”</variable>
+	<variable id="frontmatter-toc-contents">Nội dung</variable>
+</vars>

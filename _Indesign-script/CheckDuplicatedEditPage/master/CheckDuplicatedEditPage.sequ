@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://ns.adobe.com/acrobat/workflow/2012" title="CheckDuplicatedEditPage" description="" majorVersion="1" minorVersion="0">
+	<Group label="제목 없음">
+		<Command name="JavaScript" pauseBefore="false" promptUser="false">
+			<Items>
+				<Item name="ScriptCode" type="text" value="var d = app.activeDocs;&#xD;&#xA;if (d.length &gt; 2 || d.length &lt; 2) {&#xD;&#xA;&#x9;app.alert(&quot;2개 문서만 열어놓은 상태에서 다시 실행하세요.&quot;);&#xD;&#xA;&#x9;exit();&#xD;&#xA;}&#xD;&#xA;var edited = [];&#xD;&#xA;for (var i=0; i&lt;d.length; i++) {&#xD;&#xA;&#x9;// console.println(d[i].documentFileName);&#xD;&#xA;&#x9;d[i].syncAnnotScan();&#xD;&#xA;&#x9;for (var p=0; p&lt;d[i].numPages; p++) {&#xD;&#xA;&#x9;&#x9;var annots = d[i].getAnnots({nPage: p});&#xD;&#xA;&#x9;&#x9;if (annots == null || annots.length == 0) continue;&#xD;&#xA;&#x9;&#x9;for (var j in annots) {&#xD;&#xA;&#x9;&#x9;&#x9;if (annots[j].subject == &quot;D-dtp&quot;) {&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;// console.println(p);&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;edited.push(p+1);&#xD;&#xA;&#x9;&#x9;&#x9;}&#xD;&#xA;&#x9;&#x9;}&#xD;&#xA;&#x9;}&#xD;&#xA;}&#xD;&#xA;var result = duplicateRemove(edited);&#xD;&#xA;if (result == &quot;&quot;) {&#xD;&#xA;&#x9;app.alert(&quot;중복된 페이지가 없습니다.&quot;);&#xD;&#xA;} else {&#xD;&#xA;&#x9;app.alert(result + &quot; 페이지에 스탬프가 겹칩니다.&quot;);&#xD;&#xA;}&#xD;&#xA;// console.println(edited.sort());&#xD;&#xA;&#xD;&#xA;function duplicateRemove(nPage) { // 중복 제거&#xD;&#xA;&#x9;var m = {};&#xD;&#xA;&#x9;var newarr = [];&#xD;&#xA;&#x9;for (var x=0; x&lt;nPage.length; x++) {&#xD;&#xA;&#x9;&#x9;var v = nPage[x];&#xD;&#xA;&#x9;&#x9;if (!m[v]) {&#xD;&#xA;&#x9;&#x9;&#x9;m[v] = true;&#xD;&#xA;&#x9;&#x9;} else {&#xD;&#xA;&#x9;&#x9;&#x9;newarr.push(nPage[x]);&#xD;&#xA;&#x9;&#x9;}&#xD;&#xA;&#x9;}&#xD;&#xA;&#x9;return newarr&#xD;&#xA;}"/>
+				<Item name="ScriptName" type="text" value=""/>
+			</Items>
+		</Command>
+	</Group>
+</Workflow>

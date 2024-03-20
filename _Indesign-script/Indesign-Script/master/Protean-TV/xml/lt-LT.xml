@@ -1,0 +1,23 @@
+<vars xmlns="http://www.idiominc.com/opentopic/vars">
+	<variable id="note Note Image Path">Customization/OpenTopic/common/artwork/note.svg</variable>
+	<variable id="warning Note Image Path">Customization/OpenTopic/common/artwork/warning.svg</variable>
+	<variable id="admonition note">Pastaba</variable>
+	<variable id="admonition warning">Įspėjimas</variable>
+	<variable id="Unordered List bullet">•</variable>
+	<variable id="Unordered List bullet 1">•</variable>
+	<variable id="Unordered List bullet 2">&#x2013;</variable> <!-- en dash -->
+	<variable id="On the page"></variable>
+	<!-- frontmatter variables -->
+	<variable id="frontmatter-title">E-MANUAL</variable>
+	<variable id="frontmatter-thankyou">Dėkojame, kad įsigijote šį „Samsung“ gaminį.</variable>
+	<variable id="frontmatter-inform-register">Kad pasirūpintumėte išsamesne priežiūra, užregistruokite savo gaminį tinklalapyje</variable>
+	<variable id="frontmatter-url">www.samsung.com</variable>
+	<variable id="frontmatter-model">Modelio</variable>
+	<variable id="frontmatter-serialno">Serijos numeris</variable>
+	<variable id="frontmatter-inform-menuscreen">Norėdami pereiti tiesiai į puslapį, kuriame pateikiamos instrukcijos, kaip naudoti vadovą sutrikusio regėjimo naudotojams, pasirinkite toliau esančią nuorodą Susipažinkite su meniu ekranu.</variable>
+	<variable id="frontmatter-learnmenuscreen">Susipažinkite su meniu ekranu</variable>
+	<variable id="frontmatter-link">Nuoroda</variable>
+	<variable id="frontmatter-open-quot">„</variable>
+	<variable id="frontmatter-close-quot">“</variable>
+	<variable id="frontmatter-toc-contents">Turinys</variable>
+</vars>

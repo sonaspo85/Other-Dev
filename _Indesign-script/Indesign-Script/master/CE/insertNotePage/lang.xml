@@ -1,0 +1,49 @@
+<Root>
+    <Row lang="Albanian" ISO="SQ" value="Shënim" fullLang="(SQ)Albanian" />
+    <Row lang="Arabic" ISO="AR" value="مذكّرة" fullLang="(AR)Arabic" />
+    <Row lang="Bulgarian" ISO="BG" value="Бележка" fullLang="(BG)Bulgarian" />
+    <Row lang="Croatian" ISO="HR" value="Napomene" fullLang="(HR)Croatian" />
+    <Row lang="Czech" ISO="CS" value="Připomenutí" fullLang="(CS)Czech" />
+    <Row lang="Danish" ISO="DA" value="Memo" fullLang="(DA)Danish" />
+    <Row lang="German" ISO="DE" value="Memo" fullLang="(DE)German" />
+    <Row lang="Dutch" ISO="NL" value="Memo" fullLang="(NL)Dutch" />
+    <Row lang="English-UK" ISO="EN" value="Memo" fullLang="(EN)English-UK" />
+    <Row lang="English-US" ISO="EN" value="Memo" fullLang="(EN)English-US" />
+    <Row lang="Estonian" ISO="ET" value="Märkused" fullLang="(ET)Estonian" />
+    <Row lang="Finnish" ISO="FI" value="Muistiinpanoja" fullLang="(FI)Finnish" />
+    <Row lang="French" ISO="FR" value="Note" fullLang="(FR)French" />
+    <Row lang="French-Canadian" ISO="FR" value="Note" fullLang="(FR)French-Canadian" />
+    <Row lang="Greek" ISO="EL" value="Σημειώσεις" fullLang="(EL)Greek" />
+    <Row lang="Hebrew" ISO="IW" value="תזכיר" fullLang="(IW)Hebrew" />
+    <Row lang="Chinese-HongKong" ISO="HK" value="備忘" fullLang="(HK)Chinese-HongKong" />
+    <Row lang="Chinese-Simplified" ISO="ZH" value="备注" fullLang="(ZH)Chinese-Simplified" />
+    <Row lang="Chinese-Traditiona" ISO="TW" value="備忘錄" fullLang="(TW)Chinese-Traditiona" />
+    <Row lang="Hungarian" ISO="HU" value="Jegyzet" fullLang="(HU)Hungarian" />
+    <Row lang="Indonesian" ISO="IN" value="Memo" fullLang="(IN)Indonesian" />
+    <Row lang="Italian" ISO="IT" value="ProMemoria" fullLang="(IT)Italian" />
+    <Row lang="Kazakhstan" ISO="KK" value="Жазба" fullLang="(KK)Kazakhstan" />
+    <Row lang="Korean" ISO="KO" value="메모" fullLang="(KO)Korean" />
+    <Row lang="Latvian" ISO="LV" value="Piezīmes" fullLang="(LV)Latvian" />
+    <Row lang="Lithuanian" ISO="LT" value="Užrašams" fullLang="(LT)Lithuanian" />
+    <Row lang="Macedonian" ISO="MK" value="Потсетник" fullLang="(MK)Macedonian" />
+    <Row lang="Mongolian" ISO="MN" value="Memo" fullLang="(MN)Mongolian" />
+    <Row lang="Norwegian" ISO="NO" value="Memo" fullLang="(NO)Norwegian" />
+    <Row lang="Farsi" ISO="FA" value="" fullLang="(FA)Farsi" />
+    <Row lang="Polish" ISO="PL" value="Notatki" fullLang="(PL)Polish" />
+    <Row lang="Portuguese" ISO="PT" value="Memorando" fullLang="(PT)Portuguese" />
+    <Row lang="Portuguese-Brazil" ISO="PT" value="Memo" fullLang="(PT)Portuguese-Brazil" />
+    <Row lang="Romanian" ISO="RO" value="Notiţă" fullLang="(RO)Romanian" />
+    <Row lang="Russian" ISO="RU" value="Для заметок" fullLang="(RU)Russian" />
+    <Row lang="Serbian" ISO="SR" value="Belešku" fullLang="(SR)Serbian" />
+    <Row lang="Slovak" ISO="SK" value="Poznámky" fullLang="(SK)Slovak" />
+    <Row lang="Slovenian" ISO="SL" value="Beležka" fullLang="(SL)Slovenian" />
+    <Row lang="Spanish" ISO="ES" value="Anotaciones" fullLang="(ES)Spanish" />
+    <Row lang="Spanish-LA" ISO="ES" value="Notas" fullLang="(ES)Spanish-LA" />
+    <Row lang="Swedish" ISO="SV" value="Memo" fullLang="(SV)Swedish" />
+    <Row lang="Thai" ISO="TH" value="บันทึก" fullLang="(TH)Thai" />
+    <Row lang="Turkish" ISO="TR" value="Hatırlatma" fullLang="(TR)Turkish" />
+    <Row lang="Ukrainian" ISO="UK" value="Для нотаток" fullLang="(UK)Ukrainian" />
+    <Row lang="Uzbek" ISO="UZ" value="Eslatma" fullLang="(UZ)Uzbek" />
+    <Row lang="Vietnamese" ISO="VI" value="Ghi nhớ" fullLang="(VI)Vietnamese" />
+    <Row lang="Hindi" ISO="HI" value="" fullLang="(HI)Hindi" />
+</Root>
