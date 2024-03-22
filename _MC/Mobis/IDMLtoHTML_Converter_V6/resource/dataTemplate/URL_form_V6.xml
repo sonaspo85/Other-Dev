@@ -1159,15 +1159,15 @@
     <!-- 뉴질 기아 -->
     <URLform>
         <Project>kia</Project>
-        <Language>Korean(NZL)</Language>
-        <URL>../Korean/index.html</URL>
-        <analCode>G-Y2PHT7BJPL</analCode>
-    </URLform>
-    <URLform>
-        <Project>kia</Project>
         <Language>English(NZL)</Language>
         <URL>../English/index.html</URL>
         <analCode>G-Z9LVGTY26R</analCode>
+    </URLform>
+    <URLform>
+        <Project>kia</Project>
+        <Language>Korean(NZL)</Language>
+        <URL>../Korean/index.html</URL>
+        <analCode>G-Y2PHT7BJPL</analCode>
     </URLform>
     <!-- 뉴질 현대 -->
     <URLform>
