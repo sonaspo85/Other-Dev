@@ -1156,4 +1156,30 @@
         <URL>../Korean/index.html</URL>
         <analCode>G-339RKGBHSE</analCode>
     </URLform>
+    <!-- 뉴질 기아 -->
+    <URLform>
+        <Project>kia</Project>
+        <Language>Korean(NZL)</Language>
+        <URL>../Korean/index.html</URL>
+        <analCode>G-Y2PHT7BJPL</analCode>
+    </URLform>
+    <URLform>
+        <Project>kia</Project>
+        <Language>English(NZL)</Language>
+        <URL>../English/index.html</URL>
+        <analCode>G-Z9LVGTY26R</analCode>
+    </URLform>
+    <!-- 뉴질 현대 -->
+    <URLform>
+        <Project>hyundai</Project>
+        <Language>English(NZL)</Language>
+        <URL>../English/index.html</URL>
+        <analCode>G-7EDDFJS73G</analCode>
+    </URLform>
+    <URLform>
+        <Project>hyundai</Project>
+        <Language>Korean(NZL)</Language>
+        <URL>../Korean/index.html</URL>
+        <analCode>G-B3DCHFHZ6G</analCode>
+    </URLform>
 </root>
