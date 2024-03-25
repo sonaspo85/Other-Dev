@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TMX Search</title>
+    <script src="js/jquery-3.0.0.js"></script>
+    <script src="js/multiSearch.js"></script>
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+    <script type="text/javascript">
+    // 업데이트 이력 출력
+    const ebturl = "/tmx_2/json/EBT/update.txt";
+    const tvurl = "/tmx_2/json/TV/update.txt";
+    const mobisurl = "/tmx_2/json/MOBIS/update.txt";
+    
+    const ma1url = "/tmx_2/json/MA-Device/update.txt";
+    const ma2url = "/tmx_2/json/MA-AC/update.txt";
+    const ma3url = "/tmx_2/json/MA-Feature/update.txt";
+    const ma4url = "/tmx_2/json/MA-external/update.txt";
+    const haurl = "/tmx_2/json/HA/update.txt";
+    let update = "";
+    let urlArray = [ebturl, tvurl, mobisurl, ma1url, ma2url, ma3url, ma4url, haurl];
+    for (let i = 0; i < urlArray.length; i++) {
+        let url = urlArray[i];
+        let request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT"); //캐싱 방지
+        request.onreadystatechange = function() {
+            if (request.readyState === XMLHttpRequest.DONE && request.status === 200) {
+                let data = request.responseText;
+                // console.log('-->' + i + " : " + data);
+                update += "<li>" + request.responseText + "</li>";
+                // console.log(update);
+                document.getElementById("update").innerHTML = update;
+            }
+        }
+        request.send();
+    }
+    </script>
+</head>
+
+<body>
+    <div class="indexmain">
+        <h1>AST TMX Search 3.0</h1>
+        <!-- <p>각 파트마다의 번역 데이터를 검색할 수 있습니다.</p> -->
+        <p>
+            <a href="https://www.notion.so/asttcs/27fe812d68f546998044f76e8186b615" target="_blank">사용 설명서</a> |
+            <a href="https://www.notion.so/asttcs/6a9f64525f8140efbbe7a641d39ef206" target="_blank">업데이트 이력</a> |
+            <a href="https://wp2.astkorea.net/task/doc/#view/202101260858100225b" target="_blank">수정 요청</a> |
+            <a href="index.html" target="_blank">일반 검색</a>
+        </p>
+        <p><b>검색하려는 텍스트와 정확히 일치하는 내용만 출력합니다.</b></p>
+        <form id="tmxSearch" action="multiresult.php" method="post" autocomplete="off">
+            <div class="condition">
+                <div class="part">
+                    <select name="part" id="part">
+                        <option lang="defalut" value="defalut" selected>파트를 선택하세요.</option>
+                        <option lang="EBT" value="EBT">EBT</option>
+                        <option lang="TV" value="TV">TV</option>
+                        <option lang="MOBIS" value="MOBIS">MOBIS</option>
+                        <option lang="MOBIS-CCNC" value="MOBIS-CCNC">MOBIS-CCNC</option>
+                        <option lang="MOBIS-external" value="MOBIS-external">MOBIS-타사</option>
+                        <option lang="MA-Device" value="MA-Device">MA-Device</option>
+                        <option lang="MA-external" value="MA-external">MA-타사</option>
+                        <option lang="MA-AC" value="MA-AC">MA-AC</option>
+                        <option lang="MA-Feature" value="MA-Feature">MA-Feature</option>
+                        <option lang="HA" value="HA">HA</option>
+                        <!-- <option lang="HY-Auto" value="HY-Auto">HY-Auto</option> -->
+                    </select>
+                </div>
+                <div name="lang" id="lang" class="multiselect">
+                    <label><input type="checkbox" name="lang[]" value="ALB" />Albanian</label>
+                    <label><input type="checkbox" name="lang[]" value="ARM" />Albanian</label>
+                    <label><input type="checkbox" name="lang[]" value="ARA" />Arabic</label>
+                    <label><input type="checkbox" name="lang[]" value="ARA-AS" />Arabic(Asia)</label>
+                    <label><input type="checkbox" name="lang[]" value="ARA-EU" />Arabic(EU)</label>
+                    <label><input type="checkbox" name="lang[]" value="AZE" />Azerbaijani</label>
+                    <label><input type="checkbox" name="lang[]" value="BEN" />Bengali</label>
+                    <label><input type="checkbox" name="lang[]" value="BOS" />Bosnian</label>
+                    <label><input type="checkbox" name="lang[]" value="BUL" />Bulgarian</label>
+                    <label><input type="checkbox" name="lang[]" value="Zawgyi-BUR" />Burmese(Zawgyi)</label>
+                    <label><input type="checkbox" name="lang[]" value="SamsungOne-BUR" />Burmese(SamsungOne)</label>
+                    <label><input type="checkbox" name="lang[]" value="S-CHI" />Chinese(중국)</label>
+                    <label><input type="checkbox" name="lang[]" value="HKG" />Chinese(홍콩)</label>
+                    <label><input type="checkbox" name="lang[]" value="SG-CHI" />Chinese(싱가폴)</label>
+                    <label><input type="checkbox" name="lang[]" value="TPE" />Chinese(대만)</label>
+                    <label><input type="checkbox" name="lang[]" value="KOR2TPE" />Korean2Taiwan</label>
+                    <label><input type="checkbox" name="lang[]" value="CRO" />Croatian</label>
+                    <label><input type="checkbox" name="lang[]" value="CZE" />Czech</label>
+                    <label><input type="checkbox" name="lang[]" value="DAN" />Danish</label>
+                    <label><input type="checkbox" name="lang[]" value="DUT" />Dutch</label>
+                    <label><input type="checkbox" name="lang[]" value="EST" />Estonian</label>
+                    <label><input type="checkbox" name="lang[]" value="FAR" />Farsi</label>
+                    <label><input type="checkbox" name="lang[]" value="FIN" />Finnish</label>
+                    <label><input type="checkbox" name="lang[]" value="FRE" />French</label>
+                    <label><input type="checkbox" name="lang[]" value="CA-FRE" />French(캐나다)</label>
+                    <label><input type="checkbox" name="lang[]" value="GEORGIAN" />Georgian</label>
+                    <label><input type="checkbox" name="lang[]" value="GER" />German</label>
+                    <label><input type="checkbox" name="lang[]" value="GRE" />Greek</label>
+                    <label><input type="checkbox" name="lang[]" value="GUJ" />Gujarati</label>
+                    <label><input type="checkbox" name="lang[]" value="HEB" />Hebrew</label>
+                    <label><input type="checkbox" name="lang[]" value="HIN" />Hindi</label>
+                    <label><input type="checkbox" name="lang[]" value="HUN" />Hungarian</label>
+                    <label><input type="checkbox" name="lang[]" value="IND" />Indonesian(인도네시아)</label>
+                    <label><input type="checkbox" name="lang[]" value="IRI" />Irish(Ireland)</label>
+                    <label><input type="checkbox" name="lang[]" value="IRL" />Icelandic</label>
+                    <label><input type="checkbox" name="lang[]" value="ITA" />Italian</label>
+                    <label><input type="checkbox" name="lang[]" value="JPN" />Japanese(일본)</label>
+                    <label><input type="checkbox" name="lang[]" value="KAN" />Kannada</label>
+                    <label><input type="checkbox" name="lang[]" value="KAZ" />Kazakh</label>
+                    <label><input type="checkbox" name="lang[]" value="ENGB2KOR" />English(GB)2Korean</label>
+                    <label><input type="checkbox" name="lang[]" value="ENUS2KOR" />English(US)2Korean</label>
+                    <label><input type="checkbox" name="lang[]" value="KOR2ENG-GB" />Korean2English(GB)</label>
+                    <label><input type="checkbox" name="lang[]" value="KOR2ENG-US" />Korean2English(US)</label>
+                    <label><input type="checkbox" name="lang[]" value="LAO" />Lao</label>
+                    <label><input type="checkbox" name="lang[]" value="LAT" />Latvian</label>
+                    <label><input type="checkbox" name="lang[]" value="LIT" />Lithuanian</label>
+                    <label><input type="checkbox" name="lang[]" value="Main-KHM" />Khmer</label>
+                    <label><input type="checkbox" name="lang[]" value="MAY" />Malayalam</label>
+                    <label><input type="checkbox" name="lang[]" value="MAR" />Marathi</label>
+                    <label><input type="checkbox" name="lang[]" value="MAL" />Malaysia</label>
+                    <label><input type="checkbox" name="lang[]" value="Malta" />Maltese(Malta)</label>
+                    <label><input type="checkbox" name="lang[]" value="MKD" />Macedonian</label>
+                    <label><input type="checkbox" name="lang[]" value="MON" />Mongolian</label>
+                    <label><input type="checkbox" name="lang[]" value="CNR" />Montenegrian</label>
+                    <label><input type="checkbox" name="lang[]" value="BUR" />Myanmar</label>
+                    <label><input type="checkbox" name="lang[]" value="NOR" />Norwegian</label>
+                    <label><input type="checkbox" name="lang[]" value="ODI" />Odia</label>
+                    <label><input type="checkbox" name="lang[]" value="POL" />Polish</label>
+                    <label><input type="checkbox" name="lang[]" value="POR" />Portuguese</label>
+                    <label><input type="checkbox" name="lang[]" value="PUN" />Punjabi</label>
+                    <label><input type="checkbox" name="lang[]" value="B-POR" />Portuguese(브라질)</label>
+                    <label><input type="checkbox" name="lang[]" value="ROM" />Romanian</label>
+                    <label><input type="checkbox" name="lang[]" value="RUS" />Russian</label>
+                    <label><input type="checkbox" name="lang[]" value="SER" />Serbian</label>
+                    <label><input type="checkbox" name="lang[]" value="KOR2S-CHI" />Korean2Chinese(중국)</label>
+                    <label><input type="checkbox" name="lang[]" value="SC2ENG" />Chinese(S)2English</label>
+                    <label><input type="checkbox" name="lang[]" value="SLK" />Slovak</label>
+                    <label><input type="checkbox" name="lang[]" value="SLV" />Slovenian</label>
+                    <label><input type="checkbox" name="lang[]" value="SPA" />Spanish</label>
+                    <label><input type="checkbox" name="lang[]" value="M-SPA" />Spanish(멕시코)</label>
+                    <label><input type="checkbox" name="lang[]" value="Ltn-SPA" />Spanish(라틴)</label>
+                    <label><input type="checkbox" name="lang[]" value="SWE" />Swedish</label>
+                    <label><input type="checkbox" name="lang[]" value="RGK" />Tajikistan</label>
+                    <label><input type="checkbox" name="lang[]" value="TAM" />Tamil</label>
+                    <label><input type="checkbox" name="lang[]" value="TEL" />Telugu</label>
+                    <label><input type="checkbox" name="lang[]" value="THA" />Thai</label>
+                    <label><input type="checkbox" name="lang[]" value="TUR" />Turkish</label>
+                    <label><input type="checkbox" name="lang[]" value="TUK" />Turkmenistan</label>
+                    <label><input type="checkbox" name="lang[]" value="UKR" />Ukrainian</label>
+                    <label><input type="checkbox" name="lang[]" value="URD" />Urdu</label>
+                    <label><input type="checkbox" name="lang[]" value="UZB" />Uzbek</label>
+                    <label><input type="checkbox" name="lang[]" value="VIE" />Vietnamese</label>
+                </div>
+                <div class="select"><a href="javascript:selectAll()">전체 선택</a> / <a href="javascript:UnselectAll()">해제</a></div>
+            </div>
+            <div class="input_text">
+                <input name="searchString" id="searchString" type="text" />
+                <input type="submit" value="검색" />
+            </div>
+        </form>
+    </div>
+    <div class="uptodate">
+        <ul id="update"></ul>
+    </div>
+    <div id="result"></div>
+</body>
+
+</html>

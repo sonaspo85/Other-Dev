@@ -1,0 +1,45 @@
+<codes xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<code lang="ar-SA" abbr="AR" />
+	<code lang="bg-BG" abbr="BG" />
+	<code lang="pt-BR" abbr="PT_BR" />
+	<code lang="cs-CZ" abbr="CS" />
+	<code lang="da-DK" abbr="DA" />
+	<code lang="de-DE" abbr="DE" />
+	<code lang="el-GR" abbr="GR" />
+	<code lang="en-US" abbr="EN" />
+	<code lang="es-ES" abbr="ES" />
+	<code lang="es-AR" abbr="ES_AR" />
+	<code lang="et-EE" abbr="ET" />
+	<code lang="fi-FI" abbr="FI" />
+	<code lang="fr-CA" abbr="FR_CA" />
+	<code lang="fr-FR" abbr="FR" />
+	<code lang="hr-HR" abbr="HR" />
+	<code lang="hu-HU" abbr="HU" />
+	<code lang="id-ID" abbr="ID" />
+	<code lang="it-IT" abbr="IT" />
+	<code lang="kk-KZ" abbr="KZ" />
+	<code lang="ko-KR" abbr="KO" />
+	<code lang="lt-LT" abbr="LT" />
+	<code lang="lv-LV" abbr="LV" />
+	<code lang="mk-MK" abbr="MK" />
+	<code lang="nb-NO" abbr="NO" />
+	<code lang="nl-NL" abbr="NL" />
+	<code lang="pl-PL" abbr="PL" />
+	<code lang="pt-BR" abbr="POR-US" />
+	<code lang="pt-PT" abbr="PT" />
+	<code lang="ro-RO" abbr="RO" />
+	<code lang="ru-RU" abbr="RU" />
+	<code lang="sk-SK" abbr="SK" />
+	<code lang="sl-SI" abbr="SL" />
+	<code lang="sq-AL" abbr="SQ" />
+	<code lang="sr-Latn-RS" abbr="SR" />
+	<code lang="sv-SE" abbr="SV" />
+	<code lang="th-TH" abbr="TH" />
+	<code lang="tr-TR" abbr="TR" />
+	<code lang="uk-UA" abbr="UR" />
+	<code lang="uz-Latn-UZ" abbr="UZB (Latin)" />
+	<code lang="vi-VN" abbr="VI" />
+	<code lang="zh-CN" abbr="CH_ZH" class="fullstop" />
+	<code lang="zh-HK" abbr="CH_HK" class="fullstop" />
+	<code lang="zh-TW" abbr="CH_TW" class="fullstop" />
+</codes>
