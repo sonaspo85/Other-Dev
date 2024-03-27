@@ -14,15 +14,6 @@
     <xsl:variable name="srcDirs01" select="replace(replace(replace(replace(concat($tempDir, '/003.xml'), ' ', '%20'), '\\', '/'), '\[', '%5B'), '\]', '%5D')" as="xs:string" />
     <xsl:variable name="srcDirs02" select="document(iri-to-uri($srcDirs01))" />
     
-    <!-- <xsl:variable name="srcDirs03" select="document(replace(replace(replace(replace(concat($mergedF, '/001.xml'), ' ', '%20'), '\\', '/'), '\[', '%5B'), '\]', '%5D'))"/> -->
-    
-    <!-- <xsl:variable name="srcNode">
-        <xsl:for-each select="root()/root/descendant::*[@id]">
-            <xsl:copy>
-                <xsl:apply-templates select="@*" />
-            </xsl:copy>
-        </xsl:for-each>
-    </xsl:variable> -->
 
     <xsl:variable name="threeF0">
         <roots>
@@ -33,25 +24,6 @@
             </xsl:for-each>
         </roots>
     </xsl:variable>
-
-    <!-- <xsl:variable name="nomatchNode">
-        <roots>
-            <xsl:for-each select="$srcDirs02/roots/*[@tempID]">
-                <xsl:variable name="tempid" select="@tempID" />
-
-                <xsl:choose>
-                    <xsl:when test="$srcNode/*/@id = $tempid">
-                    </xsl:when>
-                
-                    <xsl:otherwise>
-                        <xsl:copy>
-                            <xsl:apply-templates select="@* | node()"/>
-                        </xsl:copy>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:for-each>
-        </roots>
-    </xsl:variable> -->
     
     <xsl:template match="@* | node()">
         <xsl:copy>
@@ -72,22 +44,14 @@
                 </xsl:when>
             
                 <xsl:otherwise>
-                    
                     <xsl:apply-templates select="@*, node()" />
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:copy>
     </xsl:template>
 
-    <!-- <xsl:template match="root" priority="5">
-        <xsl:copy>
-            <xsl:apply-templates select="@*, node()" />
-
-            
-        </xsl:copy>
-        
-        
-        
-    </xsl:template> -->
+    <xsl:template match="roots">
+        <xsl:apply-templates />
+    </xsl:template>
     
 </xsl:stylesheet>
